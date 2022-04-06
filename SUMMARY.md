@@ -12,3 +12,7 @@
   * [Overview](pattern\_3/overview.md)
   * [Requirements](pattern\_3/requirements.md)
   * [Using this pattern](pattern\_3/using-this-pattern.md)
+* [pattern\_4](pattern\_4/README.md)
+  * [Overview](pattern\_4/overview.md)
+  * [Requirements](pattern\_4/requirements.md)
+  * [Using this pattern](pattern\_4/using-this-pattern.md)
