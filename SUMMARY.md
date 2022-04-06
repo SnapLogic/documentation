@@ -24,3 +24,7 @@
   * [Overview](pattern\_6/overview.md)
   * [Requirements](pattern\_6/requirements.md)
   * [Using this pattern](pattern\_6/using-this-pattern.md)
+* [pattern\_7](pattern\_7/README.md)
+  * [Overview](pattern\_7/overview.md)
+  * [Requirements](pattern\_7/requirements.md)
+  * [Using this pattern](pattern\_7/using-this-pattern.md)
