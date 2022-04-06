@@ -23,4 +23,4 @@
 * [pattern\_6](pattern\_6/README.md)
   * [Overview](pattern\_6/overview.md)
   * [Requirements](pattern\_6/requirements.md)
-  * [Copy of Using this pattern](pattern\_6/copy-of-using-this-pattern.md)
+  * [Using this pattern](pattern\_6/using-this-pattern.md)
