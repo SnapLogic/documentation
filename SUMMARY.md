@@ -28,3 +28,7 @@
   * [Overview](pattern\_7/overview.md)
   * [Requirements](pattern\_7/requirements.md)
   * [Using this pattern](pattern\_7/using-this-pattern.md)
+* [pattern\_8](pattern\_8/README.md)
+  * [Overview](pattern\_8/overview.md)
+  * [Requirements](pattern\_8/requirements.md)
+  * [Copy of Using this pattern](pattern\_8/copy-of-using-this-pattern.md)
