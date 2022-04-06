@@ -16,3 +16,7 @@
   * [Overview](pattern\_4/overview.md)
   * [Requirements](pattern\_4/requirements.md)
   * [Using this pattern](pattern\_4/using-this-pattern.md)
+* [pattern\_5](pattern\_5/README.md)
+  * [Overview](pattern\_5/overview.md)
+  * [Requirements](pattern\_5/requirements.md)
+  * [Copy of Using this pattern](pattern\_5/copy-of-using-this-pattern.md)
