@@ -32,3 +32,7 @@
   * [Overview](pattern\_8/overview.md)
   * [Requirements](pattern\_8/requirements.md)
   * [Copy of Using this pattern](pattern\_8/copy-of-using-this-pattern.md)
+* [pattern\_9](pattern\_9/README.md)
+  * [Overview](pattern\_9/overview.md)
+  * [Requirements](pattern\_9/requirements.md)
+  * [Using this pattern](pattern\_9/using-this-pattern.md)
