@@ -7,11 +7,11 @@ To use this pattern, you need:
   * Salesforce (read)
   * Marketo (write)
 * an access token and endpoint URL in the [Pipeline Parameters](https://docs-snaplogic.atlassian.net/l/c/kS2Y1y01).\
-  The initial Mapper contains an expression to look up a specific user. You can either replace the ID value every time or define Pipeline parameters to pass the value in and change the expression to the following:\
+  The initial Mapper Snap contains an expression to search for a specific user. You can either replace the ID value every time or define a Pipeline parameters= to pass the value in and change the expression to the following:\
   \
   `"Id='" +_SFDC_ID + "'"`\
   \
-  where `SFDC_ID` is the name of the Pipeline parameter.
+  where _SFDC\_ID_ is the name of the Pipeline parameter.
 
 
 
