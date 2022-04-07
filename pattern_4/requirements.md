@@ -6,3 +6,5 @@ To use this pattern, you need:
 * accounts in the following applications with the given minimum permissions (read/write):
   * Salesforce (read)
   * Box (write)
+
+**Tip**: You can set the SFDC Account Pipeline parameter to the Salesforce Account ID
