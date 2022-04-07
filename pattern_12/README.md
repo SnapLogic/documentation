@@ -1,3 +1,3 @@
 # pattern\_12
 
-Sync leads from Salesforce to Marke**to**
+Sync leads from Salesforce to Marketo

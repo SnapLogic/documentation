@@ -49,6 +49,6 @@
   * [Requirements](pattern\_12/requirements.md)
   * [Using this pattern](pattern\_12/using-this-pattern.md)
 * [pattern\_13](pattern\_13/README.md)
-  * [Copy of Overview](pattern\_13/copy-of-overview.md)
-  * [Copy of Requirements](pattern\_13/copy-of-requirements.md)
+  * [Overview](pattern\_13/overview.md)
+  * [Requirements](pattern\_13/requirements.md)
   * [Copy of Using this pattern](pattern\_13/copy-of-using-this-pattern.md)
