@@ -10,9 +10,11 @@ To use this pattern, you need:
   \
   The initial Mapper Snap contains an expression to search for a specific user. You can either replace the ID value every time or define a Pipeline parameter to pass the value in and change the expression to the following:\
   \
-  <mark style="color:blue;">"Id='" +\_SFDC\_ID + "'"</mark>\
-  \
-  where _SFDC\_ID_ is the name of the Pipeline parameter.
+  `"Id='" +_SFDC_ID + "'"`\
+  ``\
+  ``where _SFDC\_ID_ is the name of the Pipeline parameter.
+
+**Note**: This pattern also uses the pattern to get the Marketo access token found here: [Get Marketo Access Token](https://community.snaplogic.com/t/get-marketo-access-token/5145).
 
 
 
