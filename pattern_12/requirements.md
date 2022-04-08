@@ -10,7 +10,7 @@ To use this pattern, you need:
   \
   The initial Mapper Snap contains an expression to search for a specific user. You can either replace the ID value every time or define a Pipeline parameter to pass the value in and change the expression to the following:\
   \
-  `"Id='" +_SFDC_ID + "'"`\
+  <mark style="color:blue;">"Id='" +\_SFDC\_ID + "'"</mark>\
   \
   where _SFDC\_ID_ is the name of the Pipeline parameter.
 
