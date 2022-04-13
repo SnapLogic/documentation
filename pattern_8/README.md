@@ -1,3 +1,3 @@
 # pattern\_8
 
-ServiceNow to Slack, 10 Recent High Priority Open Incidents.
+Find 10 Recent High Priority Open Incidents in ServiceNow and send to Slack
