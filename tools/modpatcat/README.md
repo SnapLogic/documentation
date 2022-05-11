@@ -6,7 +6,9 @@ This Python script serves as a stop-gap solution to easily create or modify patt
 ## PREREQUISITES
 * Python 3.10 or later (https://www.python.org/downloads/)
 * requests library
-  ```python.exe -m pip install requests```
+  ```
+  python.exe -m pip install requests
+  ```
 
 
 ## KNOWN LIMITATIONS
@@ -31,7 +33,9 @@ This Python script serves as a stop-gap solution to easily create or modify patt
      * If creating a new pattern, enter the values directly in template.json. If you prefer to create this file, set `"_id" : ""`.
      * If updating an existing pattern, required with the correct `_id` of the existing pattern.
 2. Run the script.
-   ```python modpatcat.pyc myFolder stage me@snaplogic.com myP@ssw0rd```
+   ```
+   python modpatcat.pyc myFolder stage me@snaplogic.com myP@ssw0rd
+   ```
 3. If you created a new pattern, save the ID from the response JSON.
 
 
@@ -39,9 +43,14 @@ This Python script serves as a stop-gap solution to easily create or modify patt
 * DO NOT SAVE YOUR PASSWORD ON ANY SCRIPT.
 * On a Windows machine, you can run `modpatcat.bat`.
   * If %USERNAME%@snaplogic.com is the same as your account username, you can pass `.` as the username.
-    ```echo %USERNAME%@snaplogic.com```
+    ```
+    echo %USERNAME%@snaplogic.com
+    ```
   * If you are currently in the folder containing the files, you can pass `.` as the folder path.
-    ```cd /d path\to\the\folder```
+    ```
+    cd /d path\to\the\folder
+    ```
   * Example:
-    ```modpatcat.bat . stage . myP@ssw0rd```
-
+    ```
+    modpatcat.bat . stage . myP@ssw0rd
+    ```
