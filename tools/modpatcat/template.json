@@ -1,0 +1,33 @@
+{
+  "response_map": {
+    "status": "draft",
+    "pattern_image": "",
+    "update_time": "",
+    "markdown": {
+      "usage": "...",
+      "requirements": "..."
+    },
+    "update_user": "",
+    "source_list": [ "test-source" ],
+    "category_list": {
+      "product": [
+        "intelligent_integration_platform"
+      ],
+      "journey": [
+        "Application Integration"
+      ]
+    },
+    "title": "Test title",
+    "tag_list": [ "test-tag" ],
+    "slp": [ "" ],
+    "related_patterns": [],
+    "target_list": [ "test-target" ],
+    "badge_list": [],
+    "contributor": "SnapLogic",
+    "create_user": "",
+    "_id": "",
+    "type": "pattern",
+    "description": "..."
+  },
+  "http_status_code": 200
+}
