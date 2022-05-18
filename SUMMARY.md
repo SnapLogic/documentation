@@ -68,3 +68,7 @@
   * [Overview](pattern\_17/overview.md)
   * [Requirements](pattern\_17/requirements.md)
   * [Using this Pattern](pattern\_17/using-this-pattern.md)
+* [pattern\_18](pattern\_18/README.md)
+  * [Overview](pattern\_18/overview.md)
+  * [Requirements](pattern\_18/requirements.md)
+  * [Using this Pattern](pattern\_18/using-this-pattern.md)
