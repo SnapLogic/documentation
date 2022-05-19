@@ -10,9 +10,7 @@ Configure the Salesforce account settings as follows:
 * **OAuth2 Token:** Enter the token endpoint to get the access token.
 * **Header authenticated:** Select this checkbox if the endpoint uses bearer header authentication.
 
-Click **Apply** to save your account information in Flows.\
-OR\
-Click **Cancel** to return to the previous screen.
+Click **Apply** to save your account information in Flows or click **Cancel** to return to the previous screen.
 
 {% hint style="info" %}
 If your Salesforce account successfully validates, it is added to the account dropdown list in the previous screen.

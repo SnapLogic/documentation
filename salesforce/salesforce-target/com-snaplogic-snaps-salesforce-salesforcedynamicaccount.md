@@ -6,9 +6,7 @@ Configure the Salesforce account settings as follows:
 * **Access token.** Enter the access token of the Salesforce application, which you can retrieve when setting up the account.
 * **Instance URL.** Enter the URL to access Salesforce.com. This is different from your Salesforce login URL. For example, https://ap15.salesforce.com.
 
-Click **Apply** to save your account information in Flows.\
-OR\
-Click **Cancel** to return to the previous screen.
+Click **Apply** to save your account information in Flows or click **Cancel** to return to the previous screen.
 
 {% hint style="info" %}
 If your Salesforce account successfully validates, it is added to the account dropdown list in the previous screen.

@@ -7,4 +7,5 @@ Configure your account with the following details:
 * **Trust all certificates:** Select this checkbox to trust all certificates, such as self-signed certificates.
 * Click any one of the following:
   * **Apply** to save your account information in Flows.
+  * **Validate** to verify your account information by connecting Flows with your Jira account.
   * **Cancel** to return to the previous screen.

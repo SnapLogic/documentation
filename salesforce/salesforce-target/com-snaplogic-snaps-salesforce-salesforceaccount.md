@@ -15,12 +15,14 @@ You can get the account information from your IT admin or by logging into your S
 * **Login URL.** Enter the URL that you use to log in to Salesforce\_.\_ For example, https://login.salesforce.com
 * **Sandbox.** Select the checkbox if you want to use this account for testing purpose.
 
+Click **Save & Validate** to verify your account information by connecting Flows with your Salesforce account.
+
+{% hint style="info" %}
+If your Salesforce account successfully validates, it is added to the account dropdown list in the previous screen.
+{% endhint %}
+
 Click **Apply** to save your account information in Flows.\
 OR\
 Click **Save & Validate** to verify if your account information is valid by connecting Flows with your Salesforce.com account.\
 OR\
 Click **Cancel** to return to the previous screen.
-
-{% hint style="info" %}
-If your Salesforce account successfully validates, it is added to the account dropdown list in the previous screen.
-{% endhint %}
