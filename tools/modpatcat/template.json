@@ -4,24 +4,20 @@
     "pattern_image": "",
     "update_time": "",
     "markdown": {
-      "usage": "...",
-      "requirements": "..."
+      "usage": "",
+      "requirements": ""
     },
     "update_user": "",
-    "source_list": [ "test-source" ],
+    "source_list": [],
     "category_list": {
-      "product": [
-        "intelligent_integration_platform"
-      ],
-      "journey": [
-        "Application Integration"
-      ]
+      "product": [],
+      "journey": []
     },
-    "title": "Test title",
-    "tag_list": [ "test-tag" ],
+    "title": "Temp title",
+    "tag_list": [],
     "slp": [ "" ],
     "related_patterns": [],
-    "target_list": [ "test-target" ],
+    "target_list": [],
     "badge_list": [],
     "contributor": "SnapLogic",
     "create_user": "",
