@@ -1,0 +1,6 @@
+{
+  "_id" : "",
+  "source_list" : [ "Marketo" ],
+  "target_list" : [ "Redshift" ],
+  "title" : "Batch sync new leads from Marketo to Amazon Redshift"
+}
