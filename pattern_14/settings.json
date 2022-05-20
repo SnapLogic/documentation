@@ -2,5 +2,6 @@
   "_id" : "",
   "source_list" : [ "Microsoft Active Directory" ],
   "target_list" : [],
+  "tag_list": [ "Microsoft Active Directory", "REST" ],
   "title" : "Active Directory Retrieves User Data"
 }

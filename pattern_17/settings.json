@@ -2,5 +2,6 @@
   "_id" : "",
   "source_list" : [ "Azure" ],
   "target_list" : [ "SalesForce" ],
+  "tag_list": [ "Azure", "SalesForce" ],
   "title" : "Azure SQL to Salesforce Upsert"
 }
