@@ -11,7 +11,7 @@ To configure your ServiceNow OAuth2 account, perform the following steps:&#x20;
    * **Refresh Token**: Auto-generated after authorization. The token used to refresh the access token.
    * **Access token expiration**: The access token expiration value.
    * **OAuth2 Endpoint**: Enter the the OAuth2 endpoint in this format to authorize the application: `https://<servicenow instance name>.service-now.com/oauth_auth.do`
-   * **OAuth2 Token:** Enter \*\*\*\* the value for OAuth2 token in this format to get the access token: `https://<servicenow instance name>.service-now.com/oauth_token.do`
+   * **OAuth2 Token:** Enter the value for OAuth2 token in this format to get the access token: `https://<servicenow instance name>.service-now.com/oauth_token.do`
    * **Grant Type:** Choose an authentication grant type for your ServiceNow instance. Available options are:
      * _authorization\_code_: This grant type is used to obtain access tokens and refresh tokens from the authorization server.
      * _password_: Exchanges your credentials for an access token. This grant type involves the traditional username and password login to obtain the user's credentials and makes a POST request to the server to exchange the password for an access token.
