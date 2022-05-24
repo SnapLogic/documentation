@@ -7,5 +7,5 @@ The Triggered Event - Webhook source endpoint automatically generates an externa
 3. After an event occurs, select the **Flatten incoming data** checkbox and click **Continue**.&#x20;
 
 {% hint style="warning" %}
-This endpoint currently only supports JSON data and other types of incoming data may not work correctly. Please use the **Read from a Pipeline** endpoint for other data types.
+This endpoint currently only supports JSON data and other types of incoming data may not work correctly. Use the **Read from a Pipeline** endpoint for other data types.
 {% endhint %}
