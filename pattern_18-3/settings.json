@@ -1,0 +1,7 @@
+{
+  "_id" : "628ec8458fc4d2c7cd256373",
+  "source_list" : [],
+  "target_list" : [ "Marketo" ],
+  "tag_list": [ "Marketo", "REST" ],
+  "title" : "Connecting to Marketo with the REST Snap Pack"
+}
