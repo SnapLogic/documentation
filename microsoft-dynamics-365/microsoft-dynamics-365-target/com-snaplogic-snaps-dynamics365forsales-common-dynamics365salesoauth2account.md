@@ -24,4 +24,5 @@ Configure your account with the following details:
 * Click **Authorize.** You will be directed to the login page of your Microsoft Dynamics account.
 * Click any one of the following:
   * **Apply** to save your account information in Flows.
+  * **Validate** to verify if your account information is valid by connecting Flows with your Microsoft Dynamics 365 for Sales account.
   * **Cancel** to return to the previous screen.
