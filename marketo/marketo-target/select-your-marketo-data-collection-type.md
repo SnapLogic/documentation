@@ -12,6 +12,6 @@ Select any one of the following available **Data Collection Types** to write you
 
 **Other Actions:** Select this option to query the Asset database.
 
-* Enter the **Command** to query the Asset database to retrieve the desired records or choose from the dropdown.
+* Enter the **Command** to retrieve desired records or to modify the asset database. You can also choose a **Command** from the dropdown.&#x20;
 
 Use the **Map Data** option to apply the mapping between the data of fields uploaded by the source endpoint to the same of the target endpoint.
