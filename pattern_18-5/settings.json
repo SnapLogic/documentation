@@ -2,6 +2,6 @@
   "_id" : "628ec6be4d1398ffd2de47d0",
   "source_list" : [],
   "target_list" : [ "Marketo" ],
-  "tag_list": [ "Marketo" ],
+  "tag_list": [ "Marketo", "4.29.1" ],
   "title" : "Get Marketo Access Token"
 }

@@ -2,6 +2,6 @@
   "_id" : "628ec6beb204af5d145fa6ee",
   "source_list" : [ "Excel" ],
   "target_list" : [ "JSON" ],
-  "tag_list": [ "Excel", "JSON" ],
+  "tag_list": [ "Excel", "JSON", "4.29.1" ],
   "title" : "Convert Excel Columns to JSON Arrays"
 }

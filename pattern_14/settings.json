@@ -2,6 +2,6 @@
   "_id" : "628ec5f847c7dfab6151de9f",
   "source_list" : [ "Microsoft Active Directory" ],
   "target_list" : [],
-  "tag_list": [ "Microsoft Active Directory", "REST" ],
+  "tag_list": [ "Microsoft Active Directory", "REST", "4.29.1" ],
   "title" : "Active Directory Retrieves User Data"
 }

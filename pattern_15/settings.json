@@ -2,6 +2,6 @@
   "_id" : "628ec5f9152eb3a0b9e4f19d",
   "source_list" : [ "Marketo" ],
   "target_list" : [ "Dropbox" ],
-  "tag_list": [ "Marketo", "Dropbox" ],
+  "tag_list": [ "Marketo", "Dropbox", "4.29.1" ],
   "title" : "Add lead in Marketo and record in Dropbox"
 }

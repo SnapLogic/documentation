@@ -2,6 +2,6 @@
   "_id" : "628ec5fb47c7dfab6151dea1",
   "source_list" : [ "Marketo" ],
   "target_list" : [ "Redshift" ],
-  "tag_list": [ "Marketo", "Redshift" ],
+  "tag_list": [ "Marketo", "Redshift", "4.29.1" ],
   "title" : "Batch sync new leads from Marketo to Amazon Redshift"
 }

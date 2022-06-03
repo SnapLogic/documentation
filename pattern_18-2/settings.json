@@ -2,6 +2,6 @@
   "_id" : "628ec6bc8fc4d2c7cd256372",
   "source_list" : [],
   "target_list" : [],
-  "tag_list": [],
+  "tag_list": [ "4.29.1" ],
   "title" : "Check for Failed Pipeline Details"
 }

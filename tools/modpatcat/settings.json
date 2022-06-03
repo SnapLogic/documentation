@@ -1,5 +1,7 @@
 {
   "_id" : "627aa8d0307346361225d1b0",
   "source_list" : [ "source1" ],
+  "target_list" : [],
+  "tag_list" : [],
   "title" : "Test title 2"
 }
