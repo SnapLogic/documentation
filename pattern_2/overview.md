@@ -16,6 +16,6 @@ This child Pipeline is called by Pipeline #1 when an employee is added.
 
 **Pipeline #3 Employee Off-boarding**
 
-****![](<../.gitbook/assets/image (2).png>)****
+****![](<../.gitbook/assets/image (5).png>)****
 
 This child Pipeline is called by Pipeline #1 when an employee is off-boarded.

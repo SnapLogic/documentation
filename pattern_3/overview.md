@@ -6,7 +6,7 @@ In this pattern, the parent directory for employee files is divided into _Active
 
 **Pipeline #1 Get Employee Files**
 
-****![](<../.gitbook/assets/image (3).png>)****
+****![](<../.gitbook/assets/image (8).png>)****
 
 
 

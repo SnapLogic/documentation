@@ -13,4 +13,8 @@ If the Pipeline runs successfully, you can view the output. For more information
 
 **How to Configure the Pipeline**
 
-Use the Concat function in the  [Aggregator Snap](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/1438462/Aggregate).
+Use the Concat function in the  [Aggregator Snap](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/1438462/Aggregate) to concatenate the table columns.
+
+The following image shows a sample of a spreadsheet and the resulting JSON arrays:
+
+{% file src="../.gitbook/assets/SampleExcel_toJSON_BASE64.txt" %}
