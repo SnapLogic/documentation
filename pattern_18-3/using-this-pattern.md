@@ -1,6 +1,6 @@
 # Using this Pattern
 
-**Steps**
+**How to Use the Pattern**
 
 1. Click **Use Pattern** and select the Project space you want to save the Pipeline in.
 2. In **Designer**, click the Pipelines icon on the left panel and browse to the location where you saved the pattern.
@@ -17,16 +17,16 @@ If the Pipeline runs successfully, you can view the output. For more information
   * URL: the REST API URL for your Marketo instance, like: https://xxx-xxx-xxx.mktorest.com 7
   * clientID: The clientID for API access.
   * clientKey: The client secret for API access.
-* to configure the REST Get Snap (labeled Marketo Login in this Pipeline):
+* Configure the REST Get Snap (labeled Marketo Login in this Pipeline):
   * For Service URL, toggle on the Expression button ( = ) and set the field to:\
     `_url + '/identity/oauth/token?grant_type=client_credentials&client_id=' + _clientID + '&client_secret=' +_clientKey`
   * Remove the input view.
   * Validate the Snap to return a response that contains an access\_token and scope.
 * Use the access token in subsequent Snaps to pass as a header, rather than a query parameter because it simplifies paged operations such as Get Lead Changes.\
-  Here's an example of a simple call:
+  Here is an example of a simple call:
   * For the Service URL, toggle on the Expression button ( = ) and set the field to the following:\
     `_url + '/rest/v1/activities/types.json'`
-  * Under HTTP Header, set the Key to Authorization and Value with the Expression button ( = ) toggled on to `'Bearer ' + $accessToken`.
+  * Under HTTP Header, set the **Key to Authorization and Value** with the Expression button ( = ) toggled on to `'Bearer ' + $accessToken`.
 
 **Additional Considerations**
 
@@ -36,7 +36,9 @@ For more complex operations, such as getting lead changes, you need to make two 
 
 Get Paging Token In this REST GET Snap (renamed _Get Paging Token_ for clarity), where you specify the query parameters.
 
-For instance, if you want to get lead changes since a particular date, you'd pass that in via "sinceDateTime". The example provided uses a literal string but could be a pipeline parameter or ideally one of the Date objects formatted to match what Marketo expects.
+For instance, if you want to get lead changes since a particular date, you could pass that in through the "sinceDateTime" field.\
+\
+&#x20;The example provided uses a literal string but could be a Pipeline parameter or ideally one of the Date objects formatted to match the expected input in Marketo:
 
 `_url + '/rest/v1/activities/pagingtoken.json'`
 

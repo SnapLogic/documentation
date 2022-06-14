@@ -1,6 +1,6 @@
 # Using this Pattern
 
-**Steps**
+**How to Use this Pattern**
 
 1. Click **Use Pattern** and select the Project space you want to save the Pipeline in.
 2. In **Designer**, click the Pipelines icon on the left panel and browse to the location where you saved the pattern.
@@ -10,3 +10,4 @@
 6. Save the Snap/Pipeline, validate, and run it.
 
 If the Pipeline runs successfully, you can view the output. For more information, read this article: [My First Pipeline](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/1438412).
+

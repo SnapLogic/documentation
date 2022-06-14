@@ -6,6 +6,9 @@ To use this pattern, you need:
 * accounts in the following applications with the given minimum permissions (read/write):
   * Marketo API (read)
   * JSON (write)
+*
+  *
+  * You can also use the [Marketo Snap Pack](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/1426161764/Marketo+Snap+Pack) to manage small and bulk data in the database.
 *   to configure the following Marketo information:
 
 

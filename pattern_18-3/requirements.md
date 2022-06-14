@@ -7,3 +7,7 @@ To use this pattern, you need:
   * Marketo (read)
   * REST (write)
 
+{% hint style="info" %}
+You can also use the [Marketo Snap Pack](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/1426161764/Marketo+Snap+Pack) to manage small and bulk data in the database.
+{% endhint %}
+

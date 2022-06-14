@@ -10,3 +10,7 @@
 6. Save the Snap/Pipeline, validate, and run it.
 
 If the Pipeline runs successfully, you can view the output. For more information, read this article: [My First Pipeline](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/1438412).
+
+**How to Configure the Pipeline**
+
+configure SnapLogic’s [Aggregator Snap](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/1438462/Aggregate) using the Concat function.
