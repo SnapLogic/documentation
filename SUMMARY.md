@@ -247,3 +247,10 @@
 
 * [End Flow](end-flow/README.md)
   * [Complete your Flow](end-flow/complete-your-flow.md)
+
+## Redshift
+
+* [Redshift Source](redshift/redshift-source/README.md)
+  * [Page 2](redshift/redshift-source/page-2.md)
+  * [Page 1](redshift/redshift-source/page-1.md)
+* [Page 3](redshift/page-3.md)
