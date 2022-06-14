@@ -13,9 +13,7 @@ If the Pipeline runs successfully, you can view the output. For more information
 
 
 
-Configuration Tasks
-
-
+**How to Configure the Pipeline**
 
 * To define the following Pipeline parameters:
   * _authorization_, in the form of Bearer xxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx:xx

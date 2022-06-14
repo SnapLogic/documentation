@@ -10,12 +10,3 @@
 6. Save the Snap/Pipeline, validate, and run it.
 
 If the Pipeline runs successfully, you can view the output. For more information, read this article: [My First Pipeline](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/1438412).
-
-
-
-**How to Configure the Pipeline**
-
-* Define the following pipeline parameters:
-  * _authorization_, in the form of Bearer xxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx:xx
-  * _endpoint_, in the form of [https://xxx-xxx-xxx.mktorest.com](https://xxx-xxx-xxx.mktorest.com/)
-* Pass the user details with the Pipeline parameters _first_, _last_, _email_, _title_, _company_, and _country_.
