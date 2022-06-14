@@ -2,11 +2,11 @@
 
 To use this pattern, you need:
 
-* To be able to view the Snap Packs in the Snap Catalog. Otherwise, contact [support@snaplogic.com](mailto:support@snaplogic.com) to be subscribed to the Snap Packs.
-* Accounts in the following applications with the given minimum permissions (read/write):
+* to be able to view the Snap Packs in the Snap Catalog. Otherwise, contact [support@snaplogic.com](mailto:support@snaplogic.com) to be subscribed to the Snap Packs.
+* accounts in the following applications with the given minimum permissions (read/write):
   * Marketo (read/write)
   * Dropbox (write)
-
-{% hint style="info" %}
-You can also use the [Marketo Snap Pack](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/1426161764/Marketo+Snap+Pack) to manage small and bulk data in the database.
-{% endhint %}
+* to define the following pipeline parameters:
+  * _authorization_, in the form of Bearer xxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx:xx
+  * _endpoint_, in the form of [https://xxx-xxx-xxx.mktorest.com](https://xxx-xxx-xxx.mktorest.com/)
+* to pass the user details with the Pipeline parameters _first_, _last_, _email_, _title_, _company_, and _country_.

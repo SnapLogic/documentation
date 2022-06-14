@@ -1,3 +1,3 @@
 # Overview
 
-Use this Pipeline Pattern to read a file from the source endpoint, then write it to a target archive, and subsequently delete the files from the source endpoint.
+Use this Pipeline Pattern to read the file from the source location, write it to the archive location, and subsequently deletes the files from the source location.

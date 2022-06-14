@@ -1,3 +1,3 @@
 # pattern\_18
 
-Batch Synchronization of New Leads from Marketo to Amazon Redshift
+Batch sync new leads from Marketo to Amazon Redshift
