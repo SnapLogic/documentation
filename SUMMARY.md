@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Redshift source](README.md)
   * [Welcome to SnapLogic Flows!](readme/welcome-to-snaplogic-flows.md)
 
 ## salesforce
@@ -258,3 +258,7 @@
   * [Configure Redshift Cross-Account IAM Role SSL account](redshift/redshift-source/configure-redshift-cross-account-iam-role-ssl-account.md)
   * [Configure Redshift SSL Account](redshift/redshift-source/configure-redshift-ssl-account.md)
   * [Select your Redshift data delivery type](redshift/redshift-source/select-your-redshift-data-delivery-type.md)
+
+***
+
+* [Page 1](page-1.md)
