@@ -257,3 +257,4 @@
   * [Configure Redshift Cross-Account IAM Role account](redshift/redshift-source/configure-redshift-cross-account-iam-role-account.md)
   * [Configure Redshift Cross-Account IAM Role SSL account](redshift/redshift-source/configure-redshift-cross-account-iam-role-ssl-account.md)
   * [Configure Redshift SSL Account](redshift/redshift-source/configure-redshift-ssl-account.md)
+  * [Select your Redshift data delivery type](redshift/redshift-source/select-your-redshift-data-delivery-type.md)
