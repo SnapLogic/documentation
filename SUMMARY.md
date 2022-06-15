@@ -251,6 +251,6 @@
 ## Redshift
 
 * [Redshift Source](redshift/redshift-source/README.md)
-  * [Redshift overview](redshift/redshift-source/redshift-overview.md)
-  * [Select your Redshift account type](redshift/redshift-source/select-your-redshift-account-type.md)
+  * [Redshift overview](redshift/redshift-source/page-2.md)
+  * [Select your Redshift account type](redshift/redshift-source/page-1.md)
 * [Page 3](redshift/page-3.md)
