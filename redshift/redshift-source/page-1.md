@@ -1,2 +1,2 @@
-# Select your Redshift account type
+# Page 1
 

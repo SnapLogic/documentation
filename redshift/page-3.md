@@ -1,3 +1,2 @@
-# Configure your Redshift account
+# Page 3
 
-Flows
