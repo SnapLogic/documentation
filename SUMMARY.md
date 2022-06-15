@@ -254,7 +254,5 @@
   * [Redshift overview](redshift/redshift-source/page-2.md)
   * [Select your Redshift account type](redshift/redshift-source/page-1.md)
   * [Configure your Redshift account](redshift/page-3.md)
-
-***
-
-* [Configure Redshift Cross-Account IAM Role account](configure-redshift-cross-account-iam-role-account.md)
+  * [Configure Redshift Cross-Account IAM Role account](redshift/redshift-source/configure-redshift-cross-account-iam-role-account.md)
+  * [Configure Redshift Cross-Account IAM Role SSL account](redshift/redshift-source/configure-redshift-cross-account-iam-role-ssl-account.md)
