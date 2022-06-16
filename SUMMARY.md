@@ -269,4 +269,9 @@
 
 ## Google BigQuery
 
-* [Google BigQuery Target](google-bigquery/google-bigquery-target.md)
+* [Google BigQuery Target](google-bigquery/google-bigquery-target/README.md)
+  * [Google BigQuery overview](google-bigquery/google-bigquery-target/google-bigquery-overview.md)
+  * [Select your Google BigQuery account types](google-bigquery/google-bigquery-target/select-your-google-bigquery-account-types.md)
+  * [Configure your Google BigQuery OAuth2 account](google-bigquery/google-bigquery-target/configure-your-google-bigquery-oauth2-account.md)
+  * [Configure your Google Service Account](google-bigquery/google-bigquery-target/configure-your-google-service-account.md)
+  * [Select your Google BigQuery object type](google-bigquery/google-bigquery-target/select-your-google-bigquery-object-type.md)
