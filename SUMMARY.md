@@ -266,3 +266,7 @@
   * [Configure Redshift Cross-Account IAM Role SSL account](redshift/redshift-target/configure-redshift-cross-account-iam-role-ssl-account.md)
   * [Configure Redshift SSL Account](redshift/redshift-target/configure-redshift-ssl-account.md)
   * [Select your Redshift data delivery type](redshift/redshift-target/select-your-redshift-data-delivery-type.md)
+
+## Google BigQuery
+
+* [Google BigQuery Target](google-bigquery/google-bigquery-target.md)
