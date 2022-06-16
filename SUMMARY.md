@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Redshift source](README.md)
+* [readme](README.md)
   * [Welcome to SnapLogic Flows!](readme/welcome-to-snaplogic-flows.md)
 
 ## salesforce
