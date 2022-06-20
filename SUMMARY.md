@@ -272,8 +272,8 @@
 * [Google BigQuery Target](google-bigquery/google-bigquery-target/README.md)
   * [Google BigQuery overview](google-bigquery/google-bigquery-target/google-bigquery-overview.md)
   * [Select your Google BigQuery account type](google-bigquery/google-bigquery-target/select-your-google-bigquery-account-type.md)
-  * [Configure your Google BigQuery OAuth2 account](google-bigquery/google-bigquery-target/com-snaplogic-snaps-google-bigquery-googlebigqueryoauthaccount.md)
-  * [Configure your Google Service Account](google-bigquery/google-bigquery-target/com-snaplogic-snaps-google-bigquery-googleserviceaccount.md)
+  * [Configure your Google BigQuery OAuth2 account](google-bigquery/google-bigquery-target/configure-your-google-bigquery-oauth2-account.md)
+  * [Configure your Google Service Account](google-bigquery/google-bigquery-target/configure-your-google-service-account.md)
   * [Select your Google BigQuery object type](google-bigquery/google-bigquery-target/select-your-google-bigquery-object-type.md)
 
 ## MongoDB
@@ -281,14 +281,14 @@
 * [MongoDB Source](mongodb/mongodb-source/README.md)
   * [MongoDB overview](mongodb/mongodb-source/mongodb-overview.md)
   * [Select your MongoDB account type](mongodb/mongodb-source/select-your-mongodb-account-type.md)
-  * [Configure your MongoDB account](mongodb/mongodb-source/configure-your-mongodb-account.md)
-  * [Configure your Replica Set account](mongodb/mongodb-source/configure-your-replica-set-account.md)
+  * [Configure your MongoDB account](mongodb/mongodb-source/com-snaplogic-snaps-mongo-mongoaccount.md)
+  * [Configure your Replica Set account](mongodb/mongodb-source/com-snaplogic-snaps-mongo-replicasetmongoaccount.md)
   * [Select your MongoDB data delivery type](mongodb/mongodb-source/select-your-mongodb-data-delivery-type.md)
 * [MongoDB Target](mongodb/mongodb-target/README.md)
   * [MongoDB overview](mongodb/mongodb-target/mongodb-overview.md)
   * [Select your MongoDB account type](mongodb/mongodb-target/select-your-mongodb-account-type.md)
-  * [Configure your MongoDB account](mongodb/mongodb-target/configure-your-mongodb-account.md)
-  * [Configure your Replica Set account](mongodb/mongodb-target/configure-your-replica-set-account.md)
+  * [Configure your MongoDB account](mongodb/mongodb-target/com-snaplogic-snaps-mongo-mongoaccount.md)
+  * [Configure your Replica Set account](mongodb/mongodb-target/com-snaplogic-snaps-mongo-replicasetmongoaccount.md)
   * [Select your MongoDB data delivery type](mongodb/mongodb-target/select-your-mongodb-data-delivery-type.md)
 
 ## Snowflake
