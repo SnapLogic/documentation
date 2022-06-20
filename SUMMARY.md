@@ -313,3 +313,16 @@
   * [Configure your Snowflake S3 Database account](snowflake/snowflake-target/com-snaplogic-snap-api-sql-accounts-snowflakedatabaseaccount.md)
   * [Configure your Snowflake S3 OAuth2 account](snowflake/snowflake-target/com-snaplogic-snap-api-sql-accounts-snowflakes3oauth2account.md)
   * [Select your Snowflake data delivery type](snowflake/snowflake-target/select-your-snowflake-data-delivery-type.md)
+
+## PostgreSQL
+
+* [PostgreSQL Source](postgresql/postgresql-source/README.md)
+  * [PostgreSQL overview](postgresql/postgresql-source/postgresql-overview.md)
+  * [Select your PostgreSQL account type](postgresql/postgresql-source/select-your-postgresql-account-type.md)
+  * [Configure your Postgres account](postgresql/postgresql-source/com-snaplogic-snap-api-sql-accounts-postgresdatabaseaccount.md)
+  * [Select your PostgreSQL table name](postgresql/postgresql-source/select-your-postgresql-table-name.md)
+* [PostgreSQL Target](postgresql/postgresql-target/README.md)
+  * [PostgreSQL overview](postgresql/postgresql-target/postgresql-overview.md)
+  * [Select your PostgreSQL account type](postgresql/postgresql-target/select-your-postgresql-account-type.md)
+  * [Configure your Postgres account](postgresql/postgresql-target/com-snaplogic-snap-api-sql-accounts-postgresdatabaseaccount.md)
+  * [Select your PostgreSQL table name](postgresql/postgresql-target/select-your-postgresql-table-name.md)
