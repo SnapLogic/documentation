@@ -243,11 +243,6 @@
   * [Select your S3 File Writer account type](s3-file-reader/s3-file-writer-target/select-your-s3-file-writer-account-type.md)
   * [Configure your AWS S3 account](s3-file-reader/s3-file-writer-target/com-snaplogic-snaps-binary-binarys3account.md)
 
-***
-
-* [End Flow](end-flow/README.md)
-  * [Complete your Flow](end-flow/complete-your-flow.md)
-
 ## Redshift
 
 * [Redshift Source](redshift/redshift-source/README.md)
@@ -314,6 +309,11 @@
   * [Configure your Snowflake S3 OAuth2 account](snowflake/snowflake-target/com-snaplogic-snap-api-sql-accounts-snowflakes3oauth2account.md)
   * [Select your Snowflake data delivery type](snowflake/snowflake-target/select-your-snowflake-data-delivery-type.md)
 
+***
+
+* [End Flow](end-flow/README.md)
+  * [Complete your Flow](end-flow/complete-your-flow.md)
+
 ## PostgreSQL
 
 * [PostgreSQL Source](postgresql/postgresql-source/README.md)
@@ -326,3 +326,29 @@
   * [Select your PostgreSQL account type](postgresql/postgresql-target/select-your-postgresql-account-type.md)
   * [Configure your Postgres account](postgresql/postgresql-target/com-snaplogic-snap-api-sql-accounts-postgresdatabaseaccount.md)
   * [Select your PostgreSQL table name](postgresql/postgresql-target/select-your-postgresql-table-name.md)
+
+## MySQL
+
+* [MySQL Source](mysql/mysql-source/README.md)
+  * [MySQL overview](mysql/mysql-source/mysql-overview.md)
+  * [Select your MySQL account type](mysql/mysql-source/select-your-mysql-account-type.md)
+  * [Configure your MySQL Database account](mysql/mysql-source/configure-your-mysql-database-account.md)
+  * [Select your MySQL table name](mysql/mysql-source/select-your-mysql-table-name.md)
+* [MySQL Target](mysql/mysql-target/README.md)
+  * [MySQL overview](mysql/mysql-target/mysql-overview.md)
+  * [Select your MySQL account type](mysql/mysql-target/select-your-mysql-account-type.md)
+  * [Configure your MySQL Database account](mysql/mysql-target/configure-your-mysql-database-account.md)
+  * [Select your MySQL table name](mysql/mysql-target/select-your-mysql-table-name.md)
+
+## SQL Server
+
+* [SQL Server Source](sql-server/sql-server-source/README.md)
+  * [SQL Server overview](sql-server/sql-server-source/sql-server-overview.md)
+  * [Select your SQL Server account type](sql-server/sql-server-source/select-your-sql-server-account-type.md)
+  * [Configure your SQL Server account](sql-server/sql-server-source/configure-your-sql-server-account.md)
+  * [Select your SQL Server table name](sql-server/sql-server-source/select-your-sql-server-table-name.md)
+* [SQL Server Target](sql-server/sql-server-target/README.md)
+  * [SQL Server overview](sql-server/sql-server-target/sql-server-overview.md)
+  * [Select your SQL Server account type](sql-server/sql-server-target/select-your-sql-server-account-type.md)
+  * [Configure your SQL Server account](sql-server/sql-server-target/configure-your-sql-server-account.md)
+  * [Select your SQL Server table name](sql-server/sql-server-target/select-your-sql-server-table-name.md)
