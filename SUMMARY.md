@@ -252,7 +252,7 @@
   * [Configure Redshift Cross-Account IAM Role account](redshift/redshift-source/configure-redshift-cross-account-iam-role-account.md)
   * [Configure Redshift Cross-Account IAM Role SSL account](redshift/redshift-source/configure-redshift-cross-account-iam-role-ssl-account.md)
   * [Configure Redshift SSL Account](redshift/redshift-source/configure-redshift-ssl-account.md)
-  * [Select your Redshift table name](redshift/redshift-source/select-your-redshift-table-name.md)
+  * [Select your Redshift table name](redshift/redshift-source/select-your-redshift-data-delivery-type.md)
 * [Redshift Target](redshift/redshift-target/README.md)
   * [Redshift overview](redshift/redshift-target/redshift-overview.md)
   * [Select your Redshift account type](redshift/redshift-target/select-your-redshift-account-type.md)
@@ -269,7 +269,7 @@
   * [Select your Google BigQuery account type](google-bigquery/google-bigquery-target/select-your-google-bigquery-account-type.md)
   * [Configure your Google BigQuery OAuth2 account](google-bigquery/google-bigquery-target/configure-your-google-bigquery-oauth2-account.md)
   * [Configure your Google Service Account](google-bigquery/google-bigquery-target/configure-your-google-service-account.md)
-  * [Select your Google BigQuery IDs](google-bigquery/google-bigquery-target/select-your-google-bigquery-ids.md)
+  * [Select your Google BigQuery IDs](google-bigquery/google-bigquery-target/select-your-google-bigquery-object-type.md)
 
 ## MongoDB
 
@@ -338,7 +338,7 @@
   * [MySQL overview](mysql/mysql-target/mysql-overview.md)
   * [Select your MySQL account type](mysql/mysql-target/select-your-mysql-account-type.md)
   * [Configure your MySQL Database account](mysql/mysql-target/com-snaplogic-snap-api-sql-accounts-mysqldatabaseaccount.md)
-  * [Select your MySQL table name](mysql/mysql-target/select-your-mysql-table-name.md)
+  * [Select your MySQL data delivery type](mysql/mysql-target/select-your-mysql-data-delivery-type.md)
 
 ## SQL Server
 
