@@ -1,6 +1,6 @@
 # Configure Redshift Cross-Account IAM Role SSL account
 
-Configure your Redshift Cross-Account IAM Role account with the following details:
+Configure your Redshift Cross-Account IAM Role SSL account with the following details:
 
 * **Label:** Enter a unique user-provided label for the account.&#x20;
 * **JDBC Driver Class**: Enter the name of the JBDC driver class to use, like _org.postgresql.Driver._&#x20;
@@ -24,7 +24,6 @@ Configure your Redshift Cross-Account IAM Role account with the following detail
   * **IAM role name**: Enter the name of the IAM role that has been assigned to the Redshift cluster to access the S3 bucket.
 * **S3 Bucket Read IAM Role**: The information required to make Redshift work with IAM.&#x20;
   * **IAM Role ARN**: Enter the ARN of the IAM role set on the above S3 bucket.
-*
 * **Advanced propertie**s: The advanced properties to support this account.
   * **Auto commit**: Select this checkbox to enable the Flow to commit offsets automatically.
   * **Batch size**: Enter the number of statements to execute at a time.
