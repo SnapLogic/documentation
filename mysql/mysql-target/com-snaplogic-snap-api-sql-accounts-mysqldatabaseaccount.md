@@ -23,5 +23,5 @@
 2\. Click any one of the following:
 
 * **Apply** to save your account information in Flows.
-* **Validate** to verify if your account information is valid by connecting Flows with your MySQL account.
+* **Validate** to verify if your account information is valid by connecting Flows with your SnapLogic File System Writer account.
 * **Cancel** to return to the previous screen.
