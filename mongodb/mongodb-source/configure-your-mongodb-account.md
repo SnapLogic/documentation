@@ -5,13 +5,13 @@ For the MongoDB account, configure your account with the following details:
 * **Label:** Enter a unique label for the account.
 * **Hostname**: Enter the MongoDB Hostname.&#x20;
 * **Port**: Enter the MongoDB Port.
-* MongoDB JARs:&#x20;
-  * Database name: Enter the database that the MongoDB account is defined in. This is also the default database used for queries.
-  * Username: Enter the MongoDB Username.
-  * Password: Enter the password associated with the MongoDB Username.
-  * Authentication type: Select the authentication type that you want to use with this account.
-  * Encryption type: Select the encryption type for connecting Mongo instance.
-* SSL certs properties: The required Keystore and Truststore properties only when the encryption type is selected as _SSL certs_.
+* **MongoDB JARs**:&#x20;
+  * **Database name**: Enter the database that the MongoDB account is defined in. This is also the default database used for queries.
+  * **Username**: Enter the MongoDB Username.
+  * **Password**: Enter the password associated with the MongoDB Username.
+  * **Authentication type**: Select the authentication type that you want to use with this account.
+  * **Encryption type**: Select the encryption type for connecting Mongo instance.
+* **SSL certs properties**: The required Keystore and Truststore properties only when the encryption type is selected as _SSL certs_.
   * **Truststore filepath**: Enter the location of the Truststore file in PKCS#12 format.
   * **Truststore password**: Enter the Truststore password to access the Truststore file of the server.
   * **Keystore filepath**: Enter the location of the Keystore file in PKCS#12 format.&#x20;
