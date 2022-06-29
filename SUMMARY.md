@@ -325,7 +325,7 @@
   * [PostgreSQL overview](postgresql/postgresql-target/postgresql-overview.md)
   * [Select your PostgreSQL account type](postgresql/postgresql-target/select-your-postgresql-account-type.md)
   * [Configure your Postgres account](postgresql/postgresql-target/com-snaplogic-snap-api-sql-accounts-postgresdatabaseaccount.md)
-  * [Select your PostgreSQL table name](postgresql/postgresql-target/select-your-postgresql-table-name.md)
+  * [Select your PostgreSQL data delivery type](postgresql/postgresql-target/select-your-postgresql-table-name.md)
 
 ## MySQL
 
