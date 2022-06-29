@@ -1,6 +1,6 @@
 # Configure your MongoDB account
 
-For MongoDB account, configure your account with the following details:
+For the MongoDB account, configure your account with the following details:
 
 * **Label:** Enter a unique label for the account.
 * **Hostname**: Enter the MongoDB Hostname.&#x20;
