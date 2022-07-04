@@ -1,9 +1,7 @@
 # Select your MySQL table name
 
-Configure the Email Sender settings as follows:
+Fetch data from a particular table in the database.&#x20;
 
-* **Schema name**: The database schema name. In case it is not defined, then the suggestion for the **Table name** will retrieve the table names of all schemas. The property is suggestible and will retrieve available database schemas during suggest values.
-* **Table Name**: Table on which the bulk load operation is executed.
-* **Use MySQL INSERT IGNORE option**: Select an option to ignore the SQL errors encountered during execution.
-* Use the **Map Data** option to apply the mapping between the data of fields uploaded by the source endpoint to the same of the target endpoint.
-* Click **Save and Continue**.
+**Table name**: Enter the name of the table or select it from the dropdown.&#x20;
+
+Use the **Filter Data** option to filter the incoming data uploaded by the source endpoint. Once a filter is applied, you can view it in the **Data Wrangler** and further edit the filter condition.
