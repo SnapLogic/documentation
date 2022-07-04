@@ -11,7 +11,7 @@ For the Postgres account, configure your account with the following details:
   * **Database name**: Enter the database name.&#x20;
   * **Username**: Enter the username to connect to the database.
   * **Password**: Enter the password used to connect to the database.
-  * **JDBC JARs**: List of JDBC JAR files to be loaded. Click ![https://docs-snaplogic.atlassian.net/wiki/download/attachments/896369522/Plus.png?version=1\&modificationDate=1579553898874\&cacheVersion=1\&api=v2](<../../.gitbook/assets/0 (2)>) on the right of the field to add a row.
+  * **JDBC JARs**: List of JDBC JAR files to be loaded. Click **+** **Add** icon on the right of the field to add a row.
     * **JDBC Driver**: The software component enabling an application to interact with a database.
   * **JDBC Driver Class**: The class name of the JBDC driver.
 * **Advanced propertie**s: The advanced properties to support this account.
