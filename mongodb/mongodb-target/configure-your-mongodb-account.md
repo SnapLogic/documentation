@@ -1,7 +1,5 @@
 # Configure your MongoDB account
 
-
-
 For the MongoDB account, configure your account with the following details:
 
 * **Label:** Enter a unique label for the account.
