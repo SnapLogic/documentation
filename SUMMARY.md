@@ -297,7 +297,7 @@
   * [Configure your Snowflake Google Storage OAuth2 account](snowflake/snowflake-source/com-snaplogic-snap-api-sql-accounts-snowflakegooglestorageoauth2account.md)
   * [Configure your Snowflake S3 Database account](snowflake/snowflake-source/com-snaplogic-snap-api-sql-accounts-snowflakedatabaseaccount.md)
   * [Configure your Snowflake S3 OAuth2 account](snowflake/snowflake-source/com-snaplogic-snap-api-sql-accounts-snowflakes3oauth2account.md)
-  * [Select your Snowflake data delivery type](snowflake/snowflake-source/select-your-snowflake-data-delivery-type.md)
+  * [Select your Snowflake table name](snowflake/snowflake-source/select-your-snowflake-data-delivery-type.md)
 * [Snowflake Target](snowflake/snowflake-target/README.md)
   * [Snowflake overview](snowflake/snowflake-target/snowflake-overview.md)
   * [Select your Snowflake account type](snowflake/snowflake-target/select-your-snowflake-account-type.md)
