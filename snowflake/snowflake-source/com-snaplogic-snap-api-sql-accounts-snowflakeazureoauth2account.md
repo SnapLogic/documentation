@@ -7,8 +7,8 @@ Configure your Snowflake Azure OAuth2 account with the following details:
 * **Client secret**: Enter the OAuth Client secret that you obtain from the Snowflake Console.
 * **Access token**: _Auto-generated after authorization._ The access token associated with the Azure portal application is used to make API requests on behalf of the user associated with the client ID.
 * **Refresh token**: _Auto-generated upon account authorization_. The token used to refresh the access token.
-* **Access token expiration**: _Auto-generated upon account authorization_. The number of seconds after which the access token expires.
-* **Header authenticated**: Select this checkbox if the endpoint uses bearer header authentication.
+* Access token expiration: _Auto-generated upon account authorization_. The number of seconds after which the access token expires.
+* Header authenticated: Select this checkbox if the endpoint uses bearer header authentication.
 * **OAuth2 Endpoint:** Enter the tenant ID in the designated position in the URL.
 * **OAuth2 Token: E**nter the tenant ID in the designated position in the URL.
 * **Token endpoint config**: Enable this if the endpoint uses bearer header authentication. Click ![https://docs-snaplogic.atlassian.net/wiki/download/attachments/896369522/Plus.png?version=1\&modificationDate=1579553898874\&cacheVersion=1\&api=v2](../../.gitbook/assets/0) on the right of the field to add a row. This field set comprises the following fields:
