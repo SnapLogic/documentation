@@ -1,11 +1,11 @@
-# Configure your Replica Set account
+# Configure your MongoDB account
 
-
-
-For the Replica Set account, configure your account with the following details:
+For the MongoDB account, configure your account with the following details:
 
 * **Label:** Enter a unique label for the account.
-* **Replica Set Configuration**: Hostnames and ports for MongoDB replica set.
+* **Hostname**: Enter the MongoDB Hostname.&#x20;
+* **Port**: Enter the MongoDB Port
+* **MongoDB JARs**:&#x20;
   * **Database name**: Enter the database that the MongoDB account is defined in. This is also the default database used for queries.
   * **Username**: Enter the MongoDB Username.
   * **Password**: Enter the password associated with the MongoDB Username.
