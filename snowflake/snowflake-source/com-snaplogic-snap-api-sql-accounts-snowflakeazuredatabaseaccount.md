@@ -32,7 +32,8 @@ Configure your Snowflake Azure Database account with the following details:
     * Url property value
   * **Batch size**: Enter the number of statements to execute at a time.
   * **Fetch size**: Enter the number of rows to fetch at a time when executing a query.
-  * **Min pool size**: Enter the maximum number of connections a pool will maintain at a time.
+  * **Min pool size**: Enter the minimum number of connections a pool will maintain at a time.
+  * **Max pool size**: Enter the maximum number of connections a pool will maintain at a time.
   * **Max life time**: Enter the maximum lifetime of a connection in the pool.
   * **Idle Timeout**: Enter the maximum amount of time a connection is allowed to sit idle in the pool.
   * **Checkout timeout**: Enter the number of milliseconds to wait for a connection to be available when the pool is exhausted.
