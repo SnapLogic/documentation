@@ -1,7 +1,12 @@
 # Select your SQL Server table name
 
-Fetch data from a particular table in the database.&#x20;
+Select any of the following data delivery types to configure this Flow:
 
-**Table name**: Enter the name of the table or select it from the dropdown.&#x20;
+* **Insert**: Executes a SQL INSERT statement on the selected table.&#x20;
+  * **Table Name**: Enter the name of the table to execute an insert query.
+* **Update**: Executes a SQL update with the given properties.
+  * **Table Name**: Enter the name of the table to execute the update.&#x20;
+* **Delete**: Executes a SQL delete with the given properties.
+  * **Table Name**: Enter the name of the table to execute the delete.&#x20;
 
-Use the **Filter Data** option to filter the incoming data uploaded by the source endpoint. Once a filter is applied, you can view it in the **Data Wrangler** and further edit the filter condition.
+Use the **Map Data** option to apply the mapping between the data of fields uploaded by the source endpoint to the same of the target endpoint.
