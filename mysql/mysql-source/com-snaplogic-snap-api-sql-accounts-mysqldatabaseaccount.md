@@ -12,7 +12,7 @@
   * **Database name**: The database name to which the application must connect.
   * **Username**: The user name that is allowed to connect to the database.
   * **Password**: The password used to connect to the data source.
-  * **Configure SSH Tunnel**: Select this checkbox if the Snap must create an SSH tunnel dynamically for connecting the JCC node to the MySQL server. Once the operation is completed, the tunnel is closed. If selected, the configuration details of the SSH Tunnel must be provided.
+  * **Configure SSH Tunnel**: Select this checkbox if the Flow must create an SSH tunnel dynamically for connecting the JCC node to the MySQL server. Once the operation is completed, the tunnel is closed. If selected, the configuration details of the SSH Tunnel must be provided.
   * **SSH Auth Mode**: Select the mode for authenticating the user on the SSH tunnel. The associated properties are displayed. The valid options are:
     * _**Password**_: If selected, the SSH Hostname, SSH Username, and the SSH Password properties must be configured.
     * _**KeyFile**_: If selected, the SSH Hostname, SSH Username, KeyStore, KeyStore Password, Key alias, and Private Key Passphrase properties must be configured. This value is considered only if the Configure SSH Tunnel checkbox is selected.
