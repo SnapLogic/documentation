@@ -256,10 +256,10 @@
 * [Redshift Target](redshift/redshift-target/README.md)
   * [Redshift overview](redshift/redshift-target/redshift-overview.md)
   * [Select your Redshift account type](redshift/redshift-target/select-your-redshift-account-type.md)
-  * [Configure your Redshift account](redshift/redshift-target/com-snaplogic-snap-api-sql-accounts-redshiftdatabaseaccount.md)
-  * [Configure Redshift Cross-Account IAM Role account](redshift/redshift-target/com-snaplogic-snap-api-sql-accounts-redshiftcrossaccountiamroleaccount.md)
-  * [Configure Redshift Cross-Account IAM Role SSL account](redshift/redshift-target/com-snaplogic-snap-api-sql-accounts-redshiftcrossaccountiamrolesslaccount.md)
-  * [Configure Redshift SSL Account](redshift/redshift-target/com-snaplogic-snap-api-sql-accounts-redshiftssldatabaseaccount.md)
+  * [Configure your Redshift account](redshift/redshift-target/configure-your-redshift-account.md)
+  * [Configure Redshift Cross-Account IAM Role account](redshift/redshift-target/configure-redshift-cross-account-iam-role-account.md)
+  * [Configure Redshift Cross-Account IAM Role SSL account](redshift/redshift-target/configure-redshift-cross-account-iam-role-ssl-account.md)
+  * [Configure Redshift SSL Account](redshift/redshift-target/configure-redshift-ssl-account.md)
   * [Select your Redshift data delivery type](redshift/redshift-target/select-your-redshift-data-delivery-type.md)
 
 ## Google BigQuery
