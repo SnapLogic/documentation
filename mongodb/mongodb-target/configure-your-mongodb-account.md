@@ -4,7 +4,7 @@ For the MongoDB account, configure your account with the following details:
 
 * **Label:** Enter a unique label for the account.
 * **Hostname**: Enter the MongoDB Hostname.&#x20;
-* **Port**: Enter the MongoDB Port.
+* **Port**: Enter the MongoDB Port
 * **MongoDB JARs**:&#x20;
   * **Database name**: Enter the database that the MongoDB account is defined in. This is also the default database used for queries.
   * **Username**: Enter the MongoDB Username.
