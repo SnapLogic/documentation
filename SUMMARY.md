@@ -282,8 +282,8 @@
 * [MongoDB Target](mongodb/mongodb-target/README.md)
   * [MongoDB overview](mongodb/mongodb-target/mongodb-overview.md)
   * [Select your MongoDB account type](mongodb/mongodb-target/select-your-mongodb-account-type.md)
-  * [Configure your MongoDB account](mongodb/mongodb-target/configure-your-mongodb-account.md)
-  * [Configure your Replica Set account](mongodb/mongodb-target/configure-your-replica-set-account.md)
+  * [Configure your MongoDB account](mongodb/mongodb-target/com-snaplogic-snaps-mongo-replicasetmongoaccount.md)
+  * [Configure your Replica Set account](mongodb/mongodb-target/com-snaplogic-snaps-mongo-replicasetmongoaccount-1.md)
   * [Select your MongoDB data delivery type](mongodb/mongodb-target/select-your-mongodb-data-delivery-type.md)
 
 ## Snowflake
