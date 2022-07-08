@@ -277,7 +277,7 @@
   * [MongoDB overview](mongodb/mongodb-source/mongodb-overview.md)
   * [Select your MongoDB account type](mongodb/mongodb-source/select-your-mongodb-account-type.md)
   * [Configure your MongoDB account](mongodb/mongodb-source/com-snaplogic-snaps-mongo-mongoaccount.md)
-  * [Configure your Replica Set account](mongodb/mongodb-source/configure-your-replica-set-account.md)
+  * [Configure your Replica Set account](mongodb/mongodb-source/com-snaplogic-snaps-mongo-replicasetmongoaccounts.md)
   * [Select your MongoDB data delivery type](mongodb/mongodb-source/mongodb-settings.md)
 * [MongoDB Target](mongodb/mongodb-target/README.md)
   * [MongoDB overview](mongodb/mongodb-target/mongodb-overview.md)
