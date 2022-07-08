@@ -4,7 +4,7 @@
 
 * **Label**: The user-provided name for the account. Preferably, update the account name if your project includes more than one account of the same type.
 * **JDBC Driver Class**: The class name of the JBDC driver.
-* **JDBC JARs**: List of JDBC JAR files to be loaded. Click the **+** **Add** icon on the right of the field to add a row.
+* **JDBC JARs**: List of JDBC JAR files to be loaded. Click ![https://docs-snaplogic.atlassian.net/wiki/download/attachments/896369522/Plus.png?version=1\&modificationDate=1579553898874\&cacheVersion=1\&api=v2](<../../.gitbook/assets/0 (2)>) on the right of the field to add a row.
   * **JDBC Driver**: The software component enabling an application to interact with a database.
 * **Account properties:** Use this field set to specify the account properties required to connect to the database.
   * **Hostname**: The server address to which the application must connect.

@@ -2,7 +2,7 @@
 
 Enter or select the following fields to execute the find command on your MongoDB database:
 
-* **Database name**: Enter the database where the collection is defined. If not specified, then the MongoDB account database will be used.
+* **Database name**: Enter the database where the collection is defined. If not specified, then the MongoDB account database will be used
 * **Collection name**: Enter the MongoDB collection name to execute the find.&#x20;
 * **Batch Size**: Enter the number of documents to be returned in a batch.&#x20;
 
