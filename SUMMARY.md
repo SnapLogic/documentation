@@ -268,7 +268,7 @@
   * [Google BigQuery overview](google-bigquery/google-bigquery-target/google-bigquery-overview.md)
   * [Select your Google BigQuery account type](google-bigquery/google-bigquery-target/select-your-google-bigquery-account-type.md)
   * [Configure your Google BigQuery OAuth2 account](google-bigquery/google-bigquery-target/com-snaplogic-snaps-google-bigquery-googlebigqueryoauthaccount.md)
-  * [Configure your Google Service Account](google-bigquery/google-bigquery-target/configure-your-google-service-account.md)
+  * [Configure your Google Service Account](google-bigquery/google-bigquery-target/com-snaplogic-snaps-google-bigquery-googleserviceaccounts.md)
   * [Select your Google BigQuery IDs](google-bigquery/google-bigquery-target/select-your-google-bigquery-ids.md)
 
 ## MongoDB
