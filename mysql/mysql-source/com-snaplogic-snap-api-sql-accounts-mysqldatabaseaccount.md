@@ -19,6 +19,17 @@
   * **SSH Hostname**: The IP address or the domain name of the SSH server to which you want to connect. This value is considered only if the Configure SSH Tunnel check box is selected.
   * **SSH Username**: The SSH username for connecting to the tunnel. This value is considered only if the Configure SSH Tunnel check box is selected.
   * **SSH Password**: The password associated with the SSH username. This field is required if SSH Auth Mode is _Password_. This value is considered only if the Configure SSH Tunnel checkbox is selected.
+* **Advanced propertie**s: The advanced properties to support this account.
+  * **Auto commit**: Select this checkbox to enable the Flow to commit offsets automatically.
+  * **Batch size**: Enter the number of statements to execute at a time.
+  * **Fetch size**: Enter the number of rows to fetch at a time when executing a query.
+  * **Max pool size**: Enter the maximum number of connections a pool will maintain at a time.
+  * **Max life time**: Enter the maximum lifetime of a connection in the pool.
+  * **Idle Timeout**: Enter the maximum amount of time a connection is allowed to sit idle in the pool.
+  * **Checkout timeout**: Enter the number of milliseconds to wait for a connection to be available when the pool is exhausted.
+* **Url properties**: Click the **+** **Add** icon to add the following URL properties associated with this account.
+  * Url property name
+  * Url property value
 
 2\. Click any one of the following:
 
