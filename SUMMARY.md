@@ -278,7 +278,7 @@
   * [Select your MongoDB account type](mongodb/mongodb-source/select-your-mongodb-account-type.md)
   * [Configure your MongoDB account](mongodb/mongodb-source/configure-your-mongodb-account.md)
   * [Configure your Replica Set account](mongodb/mongodb-source/configure-your-replica-set-account.md)
-  * [Select your MongoDB data delivery type](mongodb/mongodb-source/select-your-mongodb-data-delivery-type.md)
+  * [Select your MongoDB data delivery type](mongodb/mongodb-source/mongodb-setting.md)
 * [MongoDB Target](mongodb/mongodb-target/README.md)
   * [MongoDB overview](mongodb/mongodb-target/mongodb-overview.md)
   * [Select your MongoDB account type](mongodb/mongodb-target/select-your-mongodb-account-type.md)
