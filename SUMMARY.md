@@ -351,4 +351,4 @@
   * [SQL Server overview](sql-server/sql-server-target/sql-server-overview.md)
   * [Select your SQL Server account type](sql-server/sql-server-target/select-your-sql-server-account-type.md)
   * [Configure your SQL Server account](sql-server/sql-server-target/com-snaplogic-snap-api-sql-accounts-sqlserverdatabaseaccount.md)
-  * [Select your SQL Server table name](sql-server/sql-server-target/select-your-sql-server-table-name.md)
+  * [Select your SQL Server data delivery type](sql-server/sql-server-target/select-your-sql-server-table-name.md)
