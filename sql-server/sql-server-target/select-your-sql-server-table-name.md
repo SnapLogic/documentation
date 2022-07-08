@@ -1,4 +1,4 @@
-# Select your SQL Server table name
+# Select your SQL Server data delivery type
 
 Select any of the following data delivery types to configure this Flow:
 
