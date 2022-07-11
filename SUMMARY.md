@@ -251,7 +251,7 @@
   * [Configure your Redshift account](redshift/redshift-source/com-snaplogic-snap-api-sql-accounts-redshiftdatabaseaccount.md)
   * [Configure Redshift Cross-Account IAM Role account](redshift/redshift-source/com-snaplogic-snap-api-sql-accounts-redshiftcrossaccountiamroleaccounts.md)
   * [Configure Redshift Cross-Account IAM Role SSL account](redshift/redshift-source/com-snaplogic-snap-api-sql-accounts-redshiftcrossaccountiamrolesslaccount.md)
-  * [Configure Redshift SSL Account](redshift/redshift-source/com-snaplogic-snap-api-sql-accounts-redshiftssldatabaseaccounts.md)
+  * [Configure Redshift SSL Account](redshift/redshift-source/com-snaplogic-snap-api-sql-accounts-redshiftssldatabaseaccount.md)
   * [Select your Redshift table name](redshift/redshift-source/select-your-redshift-table-name.md)
 * [Redshift Target](redshift/redshift-target/README.md)
   * [Redshift overview](redshift/redshift-target/redshift-overview.md)
