@@ -49,4 +49,4 @@ Click any one of the following:
 
 * **Apply** to save your account information in Flows.
 * **Validate** to verify if your account information is valid by connecting Flows with your Redshift account.
-* **Cancel** to return to the previous screen
+* **Cancel** to return to the previous screen.
