@@ -3,7 +3,7 @@
 For Google Service account, configure your account with the following details:
 
 * **Label:** Enter a unique label for the account.
-* **Properties for Big Query**:&#x20;
+* **Properties for Big Query**:
   * **Account ID**: Enter the ID of the service account available in the Google web console.
   * **Private Key ID**: Enter The ID of the private key available in the Google web console.
   * **Email ID**: Enter the email ID to use for this account.
