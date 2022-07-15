@@ -96,3 +96,7 @@
   * [Overview](pattern\_24/overview.md)
   * [Requirements](pattern\_24/requirements.md)
   * [Using this Pattern](pattern\_24/using-this-pattern.md)
+* [pattern\_25](pattern\_25/README.md)
+  * [Overview](pattern\_25/overview.md)
+  * [Requirements](pattern\_25/requirements.md)
+  * [Using this Pattern](pattern\_25/using-this-pattern.md)
