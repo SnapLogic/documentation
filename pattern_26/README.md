@@ -1,3 +1,3 @@
 # pattern\_26
 
-Create Box folders for ServiceNow Service Requests
+Create Request Ticket in ServiceNow and Send Email
