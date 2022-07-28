@@ -1,5 +1,3 @@
 # Overview
 
-Use this Pipeline Pattern to create Box folders for ServiceNow Service Requests. For a service request created in ServiceNow, SnapLogic checks if a Box folder named with the ServiceNow request’s number exists.&#x20;
-
-If the folder doesn’t exist, SnapLogic creates a new Box folder and names it with the ServiceNow request’s number. SnapLogic also creates a shared link to the newly created Box folder.
+Use this Pipeline Pattern to create users in an existing SnapLogic org. This pattern reads an Excel file that contains the necessary attributes to create a user in an existing SnapLogic org, with the Mapper Snap defining the user and setting permissions.
