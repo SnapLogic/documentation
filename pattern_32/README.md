@@ -1,3 +1,3 @@
 # pattern\_32
 
-Creating Users within SnapLogic (JSON Generator + REST)
+Create opportunities in Microsoft Dynamics CRM and create invoice in Workday if sale occurs
