@@ -1,3 +1,3 @@
 # pattern\_33
 
-Creating Users within SnapLogic (JSON Generator + REST)
+Create request ticket in ServiceNow when employee in Workday joins
