@@ -1,3 +1,3 @@
 # pattern\_34
 
-Creating a ServiceNow Incident from a JIRA Issue
+Creating Users within SnapLogic (JSON Generator + REST)
