@@ -1,3 +1,3 @@
 # Overview
 
-Use this Pipeline Pattern to create SnapLogic users (Admins only). If the pattern is exposed as an API, the SnapLogic User Admin could call it from their own identity/access management system to create or terminate users in SnapLogic.
+Use this Pipeline Pattern to create ServiceNow requests when a new hire is added in Workday. SnapLogic creates an empty request in ServiceNow, then SnapLogic/ServiceNow sends an email with a ticket link to a manager. The manager then fills in the ticket details and submits it.

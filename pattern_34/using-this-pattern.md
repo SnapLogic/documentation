@@ -13,10 +13,6 @@ If the Pipeline runs successfully, you can view the output. For more information
 
 **How to Configure the Pipeline**
 
-In this pipeline, the user details are sent to the JSON Generator via pipeline parameters.\
+The first Mapper maps the JIRA issue ID and the issue comments to the ServiceNow incident. Other fields are manually set in the Mapper. You can either update the values or map the fields that need to be carried over.
 
-
-![](https://aws1.discourse-cdn.com/business5/uploads/snaplogic2/original/2X/9/9b905c0f27da6231209c5f8d2455718e5f3de5c6.png)
-
-The REST Post uses the SnapLogic User API to create the record.\
-If a user already exists in SnapLogic, but not within the specified org, this pipeline then updates the existing user.
+![](https://aws1.discourse-cdn.com/business5/uploads/snaplogic2/optimized/2X/9/92eea666292ee3e641a7f39b8a80a7bab4e1f591\_2\_690x292.png)
