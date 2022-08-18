@@ -1,4 +1,4 @@
-# Copy of Using this pattern
+# Using this pattern
 
 **Steps**
 

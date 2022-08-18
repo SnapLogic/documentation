@@ -17,4 +17,4 @@ Use the Concat function in the  [Aggregator Snap](https://docs-snaplogic.atlassi
 
 The following image shows a sample of a spreadsheet and the resulting JSON arrays:
 
-{% file src="../.gitbook/assets/SampleExcel_toJSON_BASE64.txt" %}
+{% file src="../../../.gitbook/assets/SampleExcel_toJSON_BASE64.txt" %}
