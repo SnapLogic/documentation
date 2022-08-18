@@ -13,4 +13,4 @@ If the Pipeline runs successfully, you can view the output. For more information
 
 **How to Configure the Pipeline**
 
-This pattern was created using Salesforce Version 34.0 and ServiceNow London Version.
+Update the file path in the Box Write Snap to the correct directory in your Box instance.

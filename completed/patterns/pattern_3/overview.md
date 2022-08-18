@@ -6,7 +6,7 @@ In this pattern, the parent directory for employee files is divided into _Active
 
 **Pipeline #1 Get Employee Files**
 
-****![](<../.gitbook/assets/image (8).png>)****
+****![](<../../../.gitbook/assets/image (8).png>)****
 
 
 
@@ -22,18 +22,18 @@ This Pipeline finds active users updated in Workday within the last 2 hours to d
 
 **Pipeline #2 Box Folder Management**
 
-****![](<../.gitbook/assets/image (4).png>)****
+****![](<../../../.gitbook/assets/image (4).png>)****
 
 This Pipeline creates a folder structure within Box to store relevant data for a new hire. In the case where an employee leaves the company, their folders are moved to the Terminated folder. If an ex-employee is re-hired, their Terminated folders are archived.
 
 **Pipeline #3 Check and Create Folder**
 
-****![](<../.gitbook/assets/image (7).png>)****
+****![](<../../../.gitbook/assets/image (7).png>)****
 
 This Pipeline checks if the requested folder already exists, and if not, creates a new folder.
 
 **Pipeline #4 Push File to Box**
 
-****![](<../.gitbook/assets/image (1).png>)****
+****![](<../../../.gitbook/assets/image (1).png>)****
 
 This Pipeline reads a file from the SnapLogic Platform and writes it to a user’s Box folder.

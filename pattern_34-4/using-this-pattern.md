@@ -13,4 +13,4 @@ If the Pipeline runs successfully, you can view the output. For more information
 
 **How to Configure the Pipeline**
 
-This pattern was created using Salesforce Version 34.0 and ServiceNow London Version.
+You need to create Webhooks to use this Pipeline.

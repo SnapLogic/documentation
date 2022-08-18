@@ -1,3 +1,2 @@
-# pattern\_34
+# Salesforce Case to ServiceNow Case
 
-Creating Users within SnapLogic (JSON Generator + REST)

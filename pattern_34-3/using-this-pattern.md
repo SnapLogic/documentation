@@ -13,4 +13,15 @@ If the Pipeline runs successfully, you can view the output. For more information
 
 **How to Configure the Pipeline**
 
-This pattern was created using Salesforce Version 34.0 and ServiceNow London Version.
+Examples include:
+
+* Basic Matching
+* Global Match
+* Alternation
+* Global Match with case insensitivity
+* Range sets with quantification
+* Range sets with quantification and global
+* Grouping
+* Greedy
+* Non-greedy
+* Non-greedy with grouping
