@@ -13,4 +13,4 @@ If the Pipeline runs successfully, you can view the output. For more information
 
 **How to Configure the Pipeline**
 
-Create App to get the access\_token. You can also do OAuth2.0 Authentication
+You can adjust which endpoints to upload data into by replacing the NetSuite and Reltio Snaps with the preferred applications.

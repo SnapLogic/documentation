@@ -13,4 +13,8 @@ If the Pipeline runs successfully, you can view the output. For more information
 
 **How to Configure the Pipeline**
 
-Create App to get the access\_token. You can also do OAuth2.0 Authentication
+Example HDFS writer configuration:
+
+![](https://aws1.discourse-cdn.com/business5/uploads/snaplogic2/optimized/2X/8/85d5e6abd9f9ee0d65edc1bc37ebcddb0bf3ef80\_2\_690x324.png)
+
+The URI to access the file on WASB has the following format (where “field-storage-account-container” is the name of the container): wasb:///field-storage-account-container/data/demo/raw/
