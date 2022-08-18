@@ -13,4 +13,4 @@ If the Pipeline runs successfully, you can view the output. For more information
 
 **How to Configure the Pipeline**
 
-Use OAuth2.0 Authentication or create an Application to get the access token.
+Use OAuth2.0 Authentication or create an application to get the access token.
