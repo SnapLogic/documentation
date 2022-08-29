@@ -1,2 +1,5 @@
 # Documentation
-SnapLogic in-app documentation for Flows and Pattern Catalog
+SnapLogic in-app documentation for:
+* Flows
+* Pattern Catalog
+* AutoSync
