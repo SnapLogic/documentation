@@ -1,3 +1,3 @@
 # Overview
 
-Use this Pipeline Pattern to look for all Salesforce Cases and bring them into ServiceNow. If the Pipeline finds no email associated with a Salesforce user, it will use a default ServiceNow email. You may want to use the Salesforce Contact to ServiceNow User Pattern in conjunction with this Pattern to ensure that a ServiceNow user exists for each corresponding Salesforce contact.
+Use this Pipeline Pattern to move the metadata of a file uploaded to Box into Google Sheets as a new row. This Pipeline Pattern extracts data from the SnapLogic Database file, transforms the data in Workday, and loads the data into a target, such as an SQL Server.
