@@ -10,3 +10,7 @@
 6. Save the Snap/Pipeline, validate, and run it.
 
 If the Pipeline runs successfully, you can view the output. For more information, read this article: [My First Pipeline](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/1438412).
+
+**How to Configure the Pipeline**
+
+Based on action flags, the Pipeline determines which Workday objects to populate. You can choose the flags or the conditions by which you decide the flag values and Workday objects.

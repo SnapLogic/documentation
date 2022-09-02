@@ -1,3 +1,3 @@
 # Overview
 
-Use this Pipeline Pattern to create or update accounts in a Workday organization when accounts are created or updated in Salesforce.
+Use this Pipeline Pattern to get information from a Workday Journal and send it to Tableau.
