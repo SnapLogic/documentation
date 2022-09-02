@@ -3,8 +3,8 @@
 **Steps**
 
 1. Click **Use Pattern** and select the Project space you want to save the Pipeline in.
-2. In **Designer**, click the Pipelines icon on the left panel and browse to the location where you saved the pattern.
-3. Click the pattern to launch it as a Pipeline.
+2. In **Designer**, click the Pipelines icon on the left panel and browse to the location where you saved the Pattern.
+3. Click the Pattern to launch it as a Pipeline.
 4. Configure your account in SnapLogic using the account information in the original application.
 5. Open each Snap and configure the **Settings** per your requirements.
 6. Save the Snap/Pipeline, validate, and run it.
@@ -13,4 +13,4 @@ If the Pipeline runs successfully, you can view the output. For more information
 
 **How to Configure the Pipeline**
 
-You need to create Webhooks to use this Pipeline.
+In the parameters, you need to configure the file names you want filtered out from the directory, the pattern, source and target systems, and accounts. The validation rules are specific (such as filtering only specific dates) and can be changed anytime.
