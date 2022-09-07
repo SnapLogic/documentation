@@ -1,4 +1,4 @@
-# Configure a SAP Data Warehouse Cloud account as a data destination {#config-sap-dwc-acct-as-data-destination .task}
+# Configure a SAP Data Warehouse Cloud account as a data destination
 
 You can configure a new account destination in AutoSync by using the user credentials from your existing SAP-DWC account.
 

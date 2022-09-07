@@ -1,4 +1,4 @@
-# Configure a Snowflake account as a data destination {#config-snowflake-acct-as-data-destination .task}
+# Configure a Snowflake account as a data destination
 
 You can configure a new account destination in AutoSync by using the user credentials from your existing Snowflake account.
 

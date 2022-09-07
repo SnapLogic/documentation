@@ -1,4 +1,4 @@
-# Configure an AWS S3 account as a data source {#config-aws-s3-acct-as-data-source .task}
+# Configure an AWS S3 account as a data source
 
 You can configure a new account source in AutoSync by using the user credentials from your existing AWS S3 account.
 

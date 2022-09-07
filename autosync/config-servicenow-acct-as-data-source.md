@@ -1,4 +1,4 @@
-# Configure a ServiceNow account as a data source {#config-servicenow-acct-as-data-source .task}
+# Configure a ServiceNow account as a data source
 
 You can configure a new account source in AutoSync by using the user credentials from your existing ServiceNow account.
 
