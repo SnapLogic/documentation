@@ -1,4 +1,4 @@
-# Configure a Google Sheets account as a data source {#config-google-sheets-acct-as-data-source .task}
+# Configure a Google Sheets account as a data source
 
 You can configure a new account source in AutoSync by using the user credentials from your existing Google Sheets account.
 

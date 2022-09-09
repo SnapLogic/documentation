@@ -1,4 +1,4 @@
-# Configure a Salesforce account as a data source {#config-salesforce-acct-as-data-source .task}
+# Configure a Salesforce account as a data source
 
 You can configure a new account source in AutoSync by using the user credentials from your existing Salesforce account.
 

@@ -1,4 +1,4 @@
-# Configure an Oracle account as a data source {#config-oracle-acct-as-data-source .task}
+# Configure an Oracle account as a data source
 
 You can configure a new account source in AutoSync by using the user credentials from your existing Oracle account.
 
