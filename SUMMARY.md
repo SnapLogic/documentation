@@ -212,3 +212,7 @@
   * [Overview](pattern\_34-1/overview.md)
   * [Requirements](pattern\_34-1/requirements.md)
   * [Using this Pattern](pattern\_34-1/using-this-pattern.md)
+* [Dynamic Field Extension](pattern\_34-2/README.md)
+  * [Overview](pattern\_34-2/overview.md)
+  * [Requirements](pattern\_34-2/requirements.md)
+  * [Using this Pattern](pattern\_34-2/using-this-pattern.md)

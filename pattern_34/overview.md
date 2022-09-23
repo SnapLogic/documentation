@@ -1,3 +1,3 @@
 # Overview
 
-Use this Pipeline Collection to sync lead activity batches from Marketo into Amazon Redshift.
+Use this Pipeline Pattern to sync lead activity batches from Marketo into Amazon Redshift.
