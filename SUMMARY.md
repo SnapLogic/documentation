@@ -202,17 +202,15 @@
 
 ## Current
 
-***
-
-* [Batch sync new leads from Marketo to Amazon Redshift](pattern\_34/README.md)
-  * [Overview](pattern\_34/overview.md)
-  * [Requirements](pattern\_34/requirements.md)
-  * [Using this Pattern](pattern\_34/using-this-pattern.md)
-* [Call a command line utility on the Snaplex node](pattern\_34-1/README.md)
-  * [Overview](pattern\_34-1/overview.md)
-  * [Requirements](pattern\_34-1/requirements.md)
-  * [Using this Pattern](pattern\_34-1/using-this-pattern.md)
-* [Dynamic Field Extension](pattern\_34-2/README.md)
-  * [Overview](pattern\_34-2/overview.md)
-  * [Requirements](pattern\_34-2/requirements.md)
-  * [Using this Pattern](pattern\_34-2/using-this-pattern.md)
+* [Dynamic Field Extension](current/pattern\_34/README.md)
+  * [Overview](<current/pattern\_34/overview (1).md>)
+  * [Requirements](<current/pattern\_34/requirements (1).md>)
+  * [Using this Pattern](<current/pattern\_34/using-this-pattern (1).md>)
+* [Call a command line utility on the Snaplex node](<current/pattern\_34-1/README (1).md>)
+  * [Overview](current/pattern\_34-1/overview.md)
+  * [Requirements](current/pattern\_34-1/requirements.md)
+  * [Using this Pattern](current/pattern\_34-1/using-this-pattern.md)
+* [Batch sync new leads from Marketo to Amazon Redshift](<current/pattern\_34-2/README (1).md>)
+  * [Overview](current/pattern\_34-2/overview.md)
+  * [Requirements](current/pattern\_34-2/requirements.md)
+  * [Using this Pattern](current/pattern\_34-2/using-this-pattern.md)
