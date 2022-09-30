@@ -1,3 +1,3 @@
 # Overview
 
-Use this Pipeline Pattern to enable or disable an existing task by using the SnapLogic Read and Update Snaps.
+Use this Pipeline Pattern to sync lead activity batches from Marketo into Amazon Redshift.

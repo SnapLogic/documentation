@@ -13,4 +13,10 @@ If the Pipeline runs successfully, you can view the output. For more information
 
 **How to Configure the Pipeline**
 
-This Pattern requires the [Get Marketo Access Token 2](https://community.snaplogic.com/t/get-marketo-access-token/5145) Pipeline.
+The following Pipeline failure details are included in the email:
+
+1. CustomerName – Name of the Customer for whom we are generating the report.
+2. CustomerOrg – Name of the Org where we are getting the Pipeline execution information.
+3. PipelineMonitoringAPI – API to fetch Pipeline execution information.
+4. To – The receiver list in the email.
+5. Authorization – Account to access the Pipeline execution information.

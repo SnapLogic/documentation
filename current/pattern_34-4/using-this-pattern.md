@@ -2,7 +2,7 @@
 
 **Steps**
 
-1. Click **Use pattern** and select the Project space you want to save the Pipeline in.
+1. Click **Use Pattern** and select the Project space you want to save the Pipeline in.
 2. In **Designer**, click the Pipelines icon on the left panel and browse to the location where you saved the Pattern.
 3. Click the Pattern to launch it as a Pipeline.
 4. Configure your account in SnapLogic using the account information in the original application.
@@ -13,5 +13,4 @@ If the Pipeline runs successfully, you can view the output. For more information
 
 **How to Configure the Pipeline**
 
-* The path to the task is passed to the SnapLogic Read Snap as a pipeline parameter.
-* The Mapper Snap uses the Boolean expression to enable or disable the **** task.
+This Pattern requires the [Get Marketo Access Token 2](https://community.snaplogic.com/t/get-marketo-access-token/5145) Pipeline.
