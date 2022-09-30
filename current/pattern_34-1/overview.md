@@ -1,3 +1,7 @@
 # Overview
 
-Use this Pipeline Pattern to call a command line utility on the Snaplex node with the Script Snap. The Pipeline calls any allowed shell command on the Snaplex node and executes the command as the Snap user running the JCC process.
+Use this Pipeline Pattern to perform the following actions using REST API:
+
+* List folder contents from Dropbox
+* Download a file from Dropbox
+* Upload a file to Dropbox

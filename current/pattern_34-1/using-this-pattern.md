@@ -10,3 +10,10 @@
 6. Save the Snap/Pipeline, validate, and run it.
 
 If the Pipeline runs successfully, you can view the output. For more information, read this article: [My First Pipeline](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/1438412).
+
+**How to Configure the Pipeline:**
+
+* Specify a Dropbox Bearer Token in the Pipeline Parameter.
+* To list the contents of a folder, specify the Dropbox file path and other parameters in the JSON Generator so it can be passed to Dropbox as a request payload.&#x20;
+* For uploading a file to Dropbox, this Pipeline assumes the file is already uploaded to SnapLogic.
+

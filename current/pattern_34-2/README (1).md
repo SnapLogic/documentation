@@ -1,2 +1,2 @@
-# Batch sync new leads from Marketo to Amazon Redshift
+# Call a command line utility on the Snaplex node
 
