@@ -10,7 +10,3 @@
 6. Save the Snap/Pipeline, validate, and run it.
 
 If the Pipeline runs successfully, you can view the output. For more information, read this article: [My First Pipeline](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/1438412).
-
-**How to Configure the Pipeline**
-
-This Pattern requires the [Get Marketo Access Token 2](https://community.snaplogic.com/t/get-marketo-access-token/5145) Pipeline.

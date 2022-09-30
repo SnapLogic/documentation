@@ -13,4 +13,4 @@ If the Pipeline runs successfully, you can view the output. For more information
 
 **How to Configure the Pipeline**
 
-This Pattern requires the [Get Marketo Access Token 2](https://community.snaplogic.com/t/get-marketo-access-token/5145) Pipeline.
+Use velocity templates to generate code, schemas, and text.

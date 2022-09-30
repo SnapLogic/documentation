@@ -1,3 +1,3 @@
 # Overview
 
-Use this Pipeline Pattern to sync lead activity batches from Marketo into Amazon Redshift.
+Use this Pipeline Pattern to change the case of all attributes in a document to upper or lower case.
