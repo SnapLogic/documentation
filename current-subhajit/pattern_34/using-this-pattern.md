@@ -13,4 +13,4 @@ If the Pipeline runs successfully, you can view the output. For more information
 
 **How to Configure the Pipeline**
 
-The database table need to be deleted before the Join Snap can be used to populate the database table.&#x20;
+All the records of the database table need to be deleted before the Join Snap can be used to populate the database table again with the data from the Excel spreadsheet.&#x20;
