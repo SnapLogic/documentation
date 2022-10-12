@@ -242,11 +242,21 @@
 
 ## Current Kendy
 
-* [Page 1](current-kendy/page-1.md)
+* [MQTT to Azure Data Lake](current-kendy/pattern\_34/README.md)
+  * [Overview](current-kendy/pattern\_34/overview.md)
+  * [Requirements](current-kendy/pattern\_34/requirements.md)
+  * [Using this Pattern](current-kendy/pattern\_34/using-this-pattern.md)
+* [Sync Excel to Marketo](current-kendy/pattern\_34-1/README.md)
+  * [Overview](current-kendy/pattern\_34-1/overview.md)
+  * [Requirements](current-kendy/pattern\_34-1/requirements.md)
+  * [Using this Pattern](current-kendy/pattern\_34-1/using-this-pattern.md)
+* [NetSuite Case to ServiceNow Incident](current-kendy/pattern\_34-2/README.md)
+  * [Overview](current-kendy/pattern\_34-2/overview.md)
+  * [Requirements](current-kendy/pattern\_34-2/requirements.md)
+  * [Using this Pattern](current-kendy/pattern\_34-2/using-this-pattern.md)
 
 ## Current Subhajit
 
-* [Page 2](current-subhajit/page-2.md)
 * [Excel to SQL Server after Clearing the Lookup Table](current-subhajit/pattern\_34/README.md)
   * [Overview](current-subhajit/pattern\_34/overview.md)
   * [Requirements](current-subhajit/pattern\_34/requirements.md)
