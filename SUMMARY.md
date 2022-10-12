@@ -251,3 +251,7 @@
   * [Overview](current-subhajit/pattern\_34/overview.md)
   * [Requirements](current-subhajit/pattern\_34/requirements.md)
   * [Using this Pattern](current-subhajit/pattern\_34/using-this-pattern.md)
+* [Export Accounts from Adaptive Insights](current-subhajit/pattern\_34-1/README.md)
+  * [Overview](current-subhajit/pattern\_34-1/overview.md)
+  * [Requirements](current-subhajit/pattern\_34-1/requirements.md)
+  * [Using this Pattern](current-subhajit/pattern\_34-1/using-this-pattern.md)
