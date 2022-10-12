@@ -13,4 +13,4 @@ If the Pipeline runs successfully, you can view the output. For more information
 
 **How to Configure the Pipeline**
 
-This pattern was created using NetSuite WSDL: 2018, Release 1 and ServiceNow London Version. The NetSuite query range may be configured. The head within the pipeline may be configured or removed to allow for a larger number of records through once the pattern is fully tested.
+This Pattern was created using NetSuite WSDL: 2018, Release 1 and ServiceNow London Version. The NetSuite query range is configurable, and the head within the Pipeline can be configured or removed to allow for a larger number of records.

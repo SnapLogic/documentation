@@ -13,6 +13,6 @@ If the Pipeline runs successfully, you can view the output. For more information
 
 **How to Configure the Pipeline**
 
-* In the Pipeline Parameters, update the _endpoint_ parameter with the url to your Marketo instance.
-* In the File Reader, update the Excel file to read.
-* In the REST Post Snap labelled **Create/Update Leads in Marketo**, under **HTTP Header**, update the _Authorization_ value.
+* In Pipeline Parameters, update the _endpoint_ parameter with the URL of your Marketo instance.
+* In File Reader, update the Excel file to read.
+* In REST Post Snap labelled **Create/Update Leads in Marketo**, under **HTTP Header**, update the _Authorization_ value.

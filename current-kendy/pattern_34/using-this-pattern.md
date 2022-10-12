@@ -13,4 +13,4 @@ If the Pipeline runs successfully, you can view the output. For more information
 
 **How to Configure the Pipeline**
 
-You need to configure respective MQTT queue and account with server and also Azure account and ADLS location.
+Configure the respective MQTT queue and account with the server and the Azure account and ADLS location.
