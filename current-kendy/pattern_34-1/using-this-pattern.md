@@ -13,6 +13,4 @@ If the Pipeline runs successfully, you can view the output. For more information
 
 **How to Configure the Pipeline**
 
-* In Pipeline Parameters, update the _endpoint_ parameter with the URL of your Marketo instance.
-* In File Reader, update the Excel file to read.
-* In REST Post Snap labelled **Create/Update Leads in Marketo**, under **HTTP Header**, update the _Authorization_ value.
+Use the XML Generator Snap to edit the XML format structure. Different target XML files are created for the same source data.

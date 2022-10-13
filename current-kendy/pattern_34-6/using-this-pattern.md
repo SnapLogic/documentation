@@ -10,3 +10,7 @@
 6. Save the Snap/Pipeline, validate, and run it.
 
 If the Pipeline runs successfully, you can view the output. For more information, read this article: [My First Pipeline](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/1438412).
+
+**How to Configure the Pipeline**
+
+This Pattern was created using NetSuite WSDL: 2018, Release 1 and ServiceNow London Version. The NetSuite query range is configurable, and the head within the Pipeline can be configured or removed to allow for a larger number of records.

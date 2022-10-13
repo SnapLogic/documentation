@@ -10,3 +10,9 @@
 6. Save the Snap/Pipeline, validate, and run it.
 
 If the Pipeline runs successfully, you can view the output. For more information, read this article: [My First Pipeline](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/1438412).
+
+**How to Configure the Pipeline**
+
+* In Pipeline Parameters, update the _endpoint_ parameter with the URL of your Marketo instance.
+* In File Reader, update the Excel file to read.
+* In REST Post Snap labelled **Create/Update Leads in Marketo**, under **HTTP Header**, update the _Authorization_ value.
