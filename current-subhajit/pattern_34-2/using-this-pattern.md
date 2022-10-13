@@ -13,4 +13,4 @@ If the Pipeline runs successfully, you can view the output. For more information
 
 **How to Configure the Pipeline**
 
-This pattern is created using Salesforce release version 34.0 and ServiceNow London version. You can configure the query range in Salesforce. Once the Pattern is fully tested, you can configure or remove the head within the Pipeline to allow a large number of records to pass through.&#x20;
+Specify the username and password that you have configured for your Adaptive Insights account and also the calling method such as`exportAccounts`in the first Snap to construct the proper XML payload for the REST Post.
