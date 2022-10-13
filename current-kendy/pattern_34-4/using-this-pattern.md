@@ -13,8 +13,8 @@ If the Pipeline runs successfully, you can view the output. For more information
 
 **How to Configure the Pipeline**
 
-* The pipeline will take a closed Salesforce opportunity ID as the pipeline parameter.
-* The pipeline will assume the Salesforce product and NetSuite item has been synchronized, and the NetSuite item internal ID is stored in each Salesforce product.
-* The pipeline will create a new NetSuite customer if the Salesforce Opportunity Account is not already created.
-* The pipeline will create the NetSuite Sales Order based on the approved Opportunity Quote.
-* Each Salesforce Quote Line Item will create a NetSuite SalesOrder Line Item.
+* The Pipeline takes a closed Salesforce opportunity ID as the pipeline parameter.
+* The Pipeline assumes the Salesforce product and NetSuite item has been synchronized, and the NetSuite item internal ID is stored in each Salesforce product.
+* The Pipeline creates a new NetSuite customer if the Salesforce Opportunity Account is not already created.
+* The Pipeline creates the NetSuite Sales Order based on the approved Opportunity Quote.
+* Each Salesforce Quote Line Item will create a NetSuite Sales Order Line Item.

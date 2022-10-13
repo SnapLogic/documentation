@@ -1,2 +1,0 @@
-# Sync Excel to Marketo
-
