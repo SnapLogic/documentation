@@ -1,7 +1,7 @@
 # In-App
 
 -   [Configure Coupa account as data source](autosync/config-coupa-acct-as-data-source.md)
--   [autosync/config-csv-as-data-source.dita](autosync/config-csv-as-data-source.md)
+-   [Uploading CSV files as a source](autosync/config-csv-as-data-source.md)
 -   [Configure Oracle account as data source](autosync/config-oracle-acct-as-data-source.md)
 -   [Configure SQL Server account as data source](autosync/config-sql-server-acct-as-data-source.md)
 -   [Configure Salesforce account as data source](autosync/config-salesforce-acct-as-data-source.md)
