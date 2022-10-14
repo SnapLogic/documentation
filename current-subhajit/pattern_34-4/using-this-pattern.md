@@ -12,10 +12,8 @@
 If the Pipeline runs successfully, you can view the output. For more information, read this article: [My First Pipeline](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/1438412).
 
 **How to Configure the Pipeline**
-
 Set the following parameters for the Pipeline:
 ![Alt text](https://global.discourse-cdn.com/business5/uploads/snaplogic2/optimized/2X/d/d6caf4a8ebc5c0c686d9110afe96d62ddef7ea38_2_690x194.png)
-
 * **emailTo:** Receiver of the email
 * **emailFrom:** Sender of the email
 * **JIRAurl:** the URL for your instance of JIRA. Example: [https://company.atlassian.net](https://company.atlassian.net/)
