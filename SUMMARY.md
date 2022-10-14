@@ -270,6 +270,18 @@
   * [Overview](<current-kendy/pattern\_34-2/overview (1).md>)
   * [Requirements](<current-kendy/pattern\_34-2/requirements (1).md>)
   * [Using this Pattern](<current-kendy/pattern\_34-2/using-this-pattern (1).md>)
+* [Loading Data From Multiple CSV Files Into Two Oracle Tables](current-kendy/readme-1-2/README.md)
+  * [Overview](current-kendy/readme-1-2/overview-1.md)
+  * [Requirements](current-kendy/readme-1-2/requirements-1.md)
+  * [Using this Pattern](current-kendy/readme-1-2/using-this-pattern-1.md)
+* [Snaplogic Before and After Control-Break Pipeline](current-kendy/readme-1-3/README.md)
+  * [Overview](current-kendy/readme-1-3/overview-1.md)
+  * [Requirements](current-kendy/readme-1-3/requirements-1.md)
+  * [Using this Pattern](current-kendy/readme-1-3/using-this-pattern-1.md)
+* [Create Record in Google Sheets for Lead Added or Updated in Marketo](current-kendy/readme-1-4/README.md)
+  * [Overview](current-kendy/readme-1-4/overview-1.md)
+  * [Requirements](current-kendy/readme-1-4/requirements-1.md)
+  * [Using this Pattern](current-kendy/readme-1-4/using-this-pattern-1.md)
 
 ## Current Subhajit
 
