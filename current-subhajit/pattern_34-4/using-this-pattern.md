@@ -14,6 +14,7 @@ If the Pipeline runs successfully, you can view the output. For more information
 **How to Configure the Pipeline**
 
 Set the following parameters for the Pipeline:
+![Alt text](https://global.discourse-cdn.com/business5/uploads/snaplogic2/optimized/2X/d/d6caf4a8ebc5c0c686d9110afe96d62ddef7ea38_2_690x194.png)
 
 * **emailTo:** Receiver of the email
 * **emailFrom:** Sender of the email
