@@ -289,3 +289,7 @@
   * [Overview](current-subhajit/pattern\_34-3/overview.md)
   * [Requirements](current-subhajit/pattern\_34-3/requirements.md)
   * [Using this Pattern](current-subhajit/pattern\_34-3/using-this-pattern.md)
+* [Search Issues in JIRA and Send Them in an Email Message](current-subhajit/pattern\_34-4/README.md)
+  * [Overview](current-subhajit/pattern\_34-4/overview.md)
+  * [Requirements](current-subhajit/pattern\_34-4/requirements.md)
+  * [Using this Pattern](current-subhajit/pattern\_34-4/using-this-pattern.md)
