@@ -13,7 +13,7 @@ If the Pipeline runs successfully, you can view the output. For more information
 
 **How to Configure the Pipeline**
 
-Set the following parameters **** for the Pipeline:
+Set the following parameters for the Pipeline:
 
 * **emailTo:** Receiver of the email
 * **emailFrom:** Sender of the email
