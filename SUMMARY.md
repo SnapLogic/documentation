@@ -285,3 +285,7 @@
   * [Overview](current-subhajit/pattern\_34-2/overview.md)
   * [Requirements](current-subhajit/pattern\_34-2/requirements.md)
   * [Using this Pattern](current-subhajit/pattern\_34-2/using-this-pattern.md)
+* [Get Check Object Data from NetSuite and Load Them into Redshift](current-subhajit/pattern\_34-3/README.md)
+  * [Overview](current-subhajit/pattern\_34-3/overview.md)
+  * [Requirements](current-subhajit/pattern\_34-3/requirements.md)
+  * [Using this Pattern](current-subhajit/pattern\_34-3/using-this-pattern.md)
