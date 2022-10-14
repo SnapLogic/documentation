@@ -297,3 +297,7 @@
   * [Overview](current-subhajit/pattern\_34-4-1/overview.md)
   * [Requirements](current-subhajit/pattern\_34-4-1/requirements.md)
   * [Using this Pattern](current-subhajit/pattern\_34-4-1/using-this-pattern.md)
+* [Load Salesforce contacts into Microsoft Azure Storage (WASB)](current-subhajit/pattern\_34-4-2/README.md)
+  * [Overview](current-subhajit/pattern\_34-4-2/overview.md)
+  * [Requirements](current-subhajit/pattern\_34-4-2/requirements.md)
+  * [Using this Pattern](current-subhajit/pattern\_34-4-2/using-this-pattern.md)
