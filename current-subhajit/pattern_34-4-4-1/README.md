@@ -1,2 +1,2 @@
-# Get Leads from Marketo and Write to a CSV File
+# Get Leads from Marketo and Write Them to a CSV File
 
