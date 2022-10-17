@@ -11,4 +11,4 @@
 
 **How to Configure the Pipeline**
 
-This pattern uses Pagination and Page Interval to overcome the concurrent API limit and Rate Limit on Marketo.
+This Pattern uses pagination and page interval to overcome the concurrent API limit and rate limit on Marketo.
