@@ -1,2 +1,2 @@
-# Load Multiple Small Files and Their Metadata into Targets Like S3, ADL, HDFS
+# Load Multiple Small Files and Their Metadata into Target Like S3, ADL, HDFS
 
