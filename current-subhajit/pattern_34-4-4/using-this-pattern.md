@@ -20,6 +20,7 @@
 4. Merge the ID with the File using the **Merge** option in the Join Snap.
 ![Alt text](https://global.discourse-cdn.com/business5/uploads/snaplogic2/optimized/1X/6dcff47816cff6e4d5323ec830c63f61c030b52d_2_600x450.png)
 5. Map the Salesforce Attachment structure.
+
 ![Alt text](https://global.discourse-cdn.com/business5/uploads/snaplogic2/optimized/1X/522457539b04370232439685f689db82e74e3f14_2_650x350.png)
 6. Create the Salesforce attachment record using the Salesforce Create Snap.
 
