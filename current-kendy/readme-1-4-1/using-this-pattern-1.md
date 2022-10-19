@@ -13,4 +13,6 @@ If the Pipeline runs successfully, you can view the output. For more information
 
 **How to Configure the Pipeline**
 
-The NetSuite query range can be configured. The head within the Pipeline can be configured or removed to allow for a larger number of records once the pattern is fully tested.
+The Pipeline validates whether the input groups already exist in SnapLogic and if not, creates a new group and adds the list of users to the group.
+
+The output is written to a JSON file on SLDB and gets responses using REST calls. The output values contains the following fields: statusGroup, statusUser, and name.

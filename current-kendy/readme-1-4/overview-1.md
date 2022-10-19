@@ -1,3 +1,3 @@
 # Overview
 
-Use this Pipeline Pattern to add a record in Google Sheets whenever a lead is created or updated in Marketo.
+Use this Pipeline Pattern to look for NetSuite Contacts created the day before and to create corresponding ServiceNow users if they don't yet exist in ServiceNow.

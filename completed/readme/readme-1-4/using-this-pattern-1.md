@@ -13,4 +13,12 @@ If the Pipeline runs successfully, you can view the output. For more information
 
 **How to Configure the Pipeline**
 
-The NetSuite query range can be configured. The head within the Pipeline can be configured or removed to allow for a larger number of records once the pattern is fully tested.
+You will need to define the following pipeline parameters:
+
+* _authorization_, in the form of Bearer xxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx:xx
+* _endpoint_, in the form of [https://xxx-xxx-xxx.mktorest.com](https://xxx-xxx-xxx.mktorest.com/)
+* _GoogleSheetsName_, the name of the Google Sheet to write to
+* _sheetName_, the name of the individual worksheet to write to within that Google Sheet
+* Then you need to pass the user details with the parameters _first_, _last_, _email_, _title_, _company_, and _country_.
+
+The initial Mapper contains data to create a user. You can either replace these values every time or define Pipeline parameters to pass the values in.
