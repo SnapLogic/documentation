@@ -297,7 +297,7 @@
 
 ## Current Subhajit
 
-* [Excel to SQL Server after Clearing the Lookup Table](current-subhajit/pattern\_34/README.md)
+* [Microsoft Excel to SQL Server after Clearing the Lookup Table](current-subhajit/pattern\_34/README.md)
   * [Overview](current-subhajit/pattern\_34/overview.md)
   * [Requirements](current-subhajit/pattern\_34/requirements.md)
   * [Using this Pattern](current-subhajit/pattern\_34/using-this-pattern.md)
