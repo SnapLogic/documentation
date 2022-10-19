@@ -279,6 +279,10 @@
     * [Overview](completed/readme/readme-1-4/overview-1.md)
     * [Requirements](completed/readme/readme-1-4/requirements-1.md)
     * [Using this Pattern](completed/readme/readme-1-4/using-this-pattern-1.md)
+* [Microsoft Excel to SQL Server after Clearing the Lookup Table](completed/pattern\_34/README.md)
+  * [Overview](completed/pattern\_34/overview.md)
+  * [Requirements](completed/pattern\_34/requirements.md)
+  * [Using this Pattern](completed/pattern\_34/using-this-pattern.md)
 
 ## Current Kendy
 
@@ -297,10 +301,6 @@
 
 ## Current Subhajit
 
-* [Microsoft Excel to SQL Server after Clearing the Lookup Table](current-subhajit/pattern\_34/README.md)
-  * [Overview](current-subhajit/pattern\_34/overview.md)
-  * [Requirements](current-subhajit/pattern\_34/requirements.md)
-  * [Using this Pattern](current-subhajit/pattern\_34/using-this-pattern.md)
 * [Create Users in ServiceNow from Salesforce Contacts](current-subhajit/pattern\_34-1/README.md)
   * [Overview](current-subhajit/pattern\_34-1/overview.md)
   * [Requirements](current-subhajit/pattern\_34-1/requirements.md)
