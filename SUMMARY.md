@@ -349,3 +349,7 @@
   * [Overview](current-subhajit/pattern\_34-4-4-2/overview.md)
   * [Requirements](current-subhajit/pattern\_34-4-4-2/requirements.md)
   * [Using this Pattern](current-subhajit/pattern\_34-4-4-2/using-this-pattern.md)
+* [Synchronize Amazon S3 Files by Inserting Records  to Redshift Table](current-subhajit/pattern\_34-4-4-3/README.md)
+  * [Overview](current-subhajit/pattern\_34-4-4-3/overview.md)
+  * [Requirements](current-subhajit/pattern\_34-4-4-3/requirements.md)
+  * [Using this Pattern](current-subhajit/pattern\_34-4-4-3/using-this-pattern.md)
