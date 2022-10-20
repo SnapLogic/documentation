@@ -6,4 +6,4 @@ The following data is collected and saved into a database table:&#x20;
 
 * Memory utilization.
 * Number of slots in use.
-* Node configurations like memory, CPU, disk space, Java version, and so on.&#x20;
+* Node configurations like memory, CPU, disk space, Java version, and others.&#x20;
