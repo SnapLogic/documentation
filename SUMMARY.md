@@ -345,7 +345,7 @@
   * [Overview](<current-subhajit/pattern\_34-4-4-1/overview (1).md>)
   * [Requirements](<current-subhajit/pattern\_34-4-4-1/requirements (1).md>)
   * [Using this Pattern](<current-subhajit/pattern\_34-4-4-1/using-this-pattern (1).md>)
-* [Get Metrics and Resource utilization on current Snaplexes](current-subhajit/pattern\_34-4-4-2/README.md)
+* [Get Metrics and Resource Utilization on Current Snaplexes](current-subhajit/pattern\_34-4-4-2/README.md)
   * [Overview](current-subhajit/pattern\_34-4-4-2/overview.md)
   * [Requirements](current-subhajit/pattern\_34-4-4-2/requirements.md)
   * [Using this Pattern](current-subhajit/pattern\_34-4-4-2/using-this-pattern.md)

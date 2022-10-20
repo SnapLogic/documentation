@@ -1,2 +1,2 @@
-# Get Metrics and Resource utilization on current Snaplexes
+# Get Metrics and Resource Utilization on Current Snaplexes
 
