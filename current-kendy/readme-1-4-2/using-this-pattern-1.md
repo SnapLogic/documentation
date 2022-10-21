@@ -10,3 +10,5 @@
 6. Save the Snap/Pipeline, validate, and run it.
 
 If the Pipeline runs successfully, you can view the output. For more information, read this article: [My First Pipeline](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/1438412).
+
+If the Pipeline fails, verify the error in the Snap Statistics and resolve it using the suggested resolution. For more information, read this article: [Pipeline Execution Statistics](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/1438478/Pipeline+Execution+Statistics).
