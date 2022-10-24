@@ -350,6 +350,18 @@
   * [Overview](current-kendy/readme-1-4-6/overview-1.md)
   * [Requirements](current-kendy/readme-1-4-6/requirements-1.md)
   * [Using this Pattern](current-kendy/readme-1-4-6/using-this-pattern-1.md)
+* [Bulk Delete Salesforce Contacts in CSV Files](current-kendy/readme-1-4-7/README.md)
+  * [Overview](current-kendy/readme-1-4-7/overview-1.md)
+  * [Requirements](current-kendy/readme-1-4-7/requirements-1.md)
+  * [Using this Pattern](current-kendy/readme-1-4-7/using-this-pattern-1.md)
+* [Employee Journey: Recruiting](current-kendy/readme-1-4-8/README.md)
+  * [Overview](current-kendy/readme-1-4-8/overview-1.md)
+  * [Requirements](current-kendy/readme-1-4-8/requirements-1.md)
+  * [Using this Pattern](current-kendy/readme-1-4-8/using-this-pattern-1.md)
+* [Employee Journey: People Analytics](current-kendy/readme-1-4-9/README.md)
+  * [Overview](current-kendy/readme-1-4-9/overview-1.md)
+  * [Requirements](current-kendy/readme-1-4-9/requirements-1.md)
+  * [Using this Pattern](current-kendy/readme-1-4-9/using-this-pattern-1.md)
 
 ## Current Subhajit
 
