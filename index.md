@@ -4,7 +4,7 @@
 -   [Uploading CSV files as a source](autosync/config-csv-as-data-source.md)
 -   [Configure Oracle account as data source](autosync/config-oracle-acct-as-data-source.md)
 -   [Configure SQL Server account as data source](autosync/config-sql-server-acct-as-data-source.md)
--   [Configure Salesforce account as data source](autosync/config-salesforce-acct-as-data-source.md)
+-   [Configure Salesforce account as a source](autosync/config-salesforce-acct-as-data-source.md)
 -   [Configure ServiceNow account as data source](autosync/config-servicenow-acct-as-data-source.md)
 -   [Configure AWS S3 account as data source](autosync/config-aws-s3-acct-as-data-source.md)
 -   [Configuring Google BigQuery as a destination](autosync/config-bigquery-as-destination.md)
