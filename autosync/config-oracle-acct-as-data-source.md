@@ -14,15 +14,15 @@ When creating or editing an AutoSync integration, step 1 requires you to provide
 
     For more information about Oracle accounts, refer to the [Oracle documentation](https://docs.oracle.com/cd/E11882_01/server.112/e10897/users_secure.htm#ADMQS007).
 
-    -   **Hostname**: Enter the hostname of the database to connect. For example, `oracleaccount.dfctruwzzvnq.us-west-2.rds.amzaws.com`.
-    -   **Port Number**: Enter the port number of the database server. Default value: `1521`
-    -   **Database name**: Enter the name of the source database. For example, `MyDB`.
+    -   **Hostname**: The hostname of the database. For example, `oracleaccount.dfctruwzzvnq.us-west-2.rds.amzaws.com`.
+    -   **Port Number**: The port number of the database server. Default value: `1521`
+    -   **Database name**: The name of the source database. For example, `MyDB`.
     -   In the **Database specifier type** drop-down list, select either of the following options to determine the Java Database Connectivity \(JDBC\) URL format that must be used internally. Default value: `Service name`
 
 -   **Service name**: Uses the `jdbc:oracle:thin@//HOST:PORT/DBNAME` format.
 -   **SID**: Uses the `jdbc:oracle:thin@HOST:PORT:DBNAME` format.
-    -   **Username**: Enter the username of your account. The username must be valid to connect to the data source.
-    -   **Password**: Enter the password for the account.
+    -   **Username**: A username for an account with the correct permissions for AutoSync to load and synchronize data.
+    -   **Password**: The password for the account.
 4.  Click **Validate and Save**.
 
     If your account successfully validates, it is added to the **Select existing connection** drop-down list. The new source is displayed in the **Select Source** box of the integration workflow on the right side of the integration page.

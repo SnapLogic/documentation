@@ -12,8 +12,8 @@ When creating or editing an AutoSync integration, step 1 requires you to provide
 
 3.  Configure **Account properties**.
 
-    -   **Username**: Enter the username of your account. The username must be valid to connect to the data source. For example, `WIN-USER\slogic`.
-    -   **Password**: Enter the password for the account.
+    -   **Username**: A username for an account with the correct permissions for AutoSync to load and synchronize data. For example, `WIN-USER\slogic`.
+    -   **Password**: The password for the account.
     -   **Instance**: Enter the name of your ServiceNow instance. For example, if `https://snaplogic.service-now.com/` is the URL of your ServiceNow instance, then `snaplogic` is the instance name.
 4.  Click **Validate and Save**.
 

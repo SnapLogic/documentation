@@ -16,14 +16,14 @@ When creating or editing an AutoSync integration, step 2 requires you to provide
 
     For more information about SAP Data Warehouse, refer to the [SAP DWC Help Portal](https://help.sap.com/viewer/product/SAP_DATA_WAREHOUSE_CLOUD/cloud/en-US).
 
-    -   **Hostname**: Enter the hostname of the database to connect. For example, `ww23456-1db2-4dd0-8cbe-71521705c697.hana.prod-eu10.hanacloud.ondemand.com`.
-    -   **Port Number**: Enter the port number of the database server.
-    -   **Database name**: Enter the name of the destination database.
+    -   **Hostname**: The hostname of the database. For example, `ww23456-1db2-4dd0-8cbe-71521705c697.hana.prod-eu10.hanacloud.ondemand.com`.
+    -   **Port Number**: The port number of the database server.
+    -   **Database name**: The name of the destination CDW.
 
         **Note:** When configuring a SAP account that is used to connect to SAP DWC, enter the Database name in this format: `Database name: Space Schema Name`. For the account to work as expected, you must [add SnapLogic IP addresses to the allow list](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/1449033775) in your SAP DWC. This entry must be approved by SAP before you can connect to the SAP DWC. For more information about adding IP addresses to the Allow list, refe to the [SAP Documentation](https://help.sap.com/viewer/9f804b8efa8043539289f42f372c4862/cloud/en-US/a3c214514ef94e899459f68f4c1e2a23.html).
 
-    -   **Username**: Enter the username of your account. The username must be valid to connect to the data source.
-    -   **Password**: Enter the password for the account.
+    -   **Username**: A username for an account with the correct permissions for AutoSync to load and synchronize data.
+    -   **Password**: The password for the account.
 4.  Click **Validate and Save**.
 
     If your account successfully validates, it is added to the **Select existing connection** drop-down list. The new source is displayed in the **Select Source** box of the integration workflow on the right side of the integration page.

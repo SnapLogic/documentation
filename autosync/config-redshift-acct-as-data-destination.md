@@ -15,10 +15,10 @@ When creating or editing an AutoSync integration, step 2 requires you to provide
     For more information about Redshift accounts, refer to the [Redshift documentation](https://docs.aws.amazon.com/redshift/latest/dg/r_CREATE_USER.html).
 
     -   **Endpoint**: Enter the Endpoint server’s address to establish a connection. For example, `54.98.196.248`.
-    -   **Port Number**: Enter the port number of the database server.
-    -   **Database name**: Enter the name of the destination database.
-    -   **Username**: Enter the username of your account. The username must be valid to connect to the data source.
-    -   **Password**: Enter the password for the account.
+    -   **Port Number**: The port number of the database server.
+    -   **Database name**: The name of the destination CDW.
+    -   **Username**: A username for an account with the correct permissions for AutoSync to load and synchronize data.
+    -   **Password**: The password for the account.
     -   **S3 Bucket**: Enter the external S3 Bucket name residing in an external AWS account, to use for staging data on Redshift. For example, `sl-bucket-ca`.
     -   **S3 Folder**: Enter the relative path to a folder in S3 Bucket. This is used as a root folder for staging data on Redshift. For example, `san-francisco` for using `s3://sl-bucket-ca/san-francisco`. If you want to create files at the root level, append a forward slash \( `/` \) to the file path.
     -   **S3 Access-key ID**: Enter the S3 Access key ID part of the AWS authentication. For example, `NAVRGGRV7EDCFVLKJH`.

@@ -10,10 +10,10 @@ Create a new connection configuration for Snowflake by entering the following:
 
 -   A unique, meaningful name such as `Sales-Shared-Snowflake`
 -   **Account Properties**
-    -   **Hostname**: Enter the hostname of the database to connect.
-    -   **Port Number**: Enter the port number of the database server.
-    -   **Username**: Enter the username of your account. The username must be valid to connect to the data source. For example, `Autosync_Snowflake_User`.
-    -   **Password**: Enter the password for the account.
-    -   **Database name**: Enter the name of the destination database.
-    -   **Warehouse name**: Enter the name of the destination warehouse into which you want to load your data. You can use any existing warehouse from your Snowflake database. For example, `DEMO_W`.
+    -   **Hostname**:The hostname part of the connection URL. For example, if the Snowflake URL is https://snaplogic.snowflakecomputing.com/console\#/internal/worksheet, the hostname is snaplogic.snowflakecomputing.com.
+    -   **Port Number**: The port number of the database server.
+    -   **Username**: A username for an account with the correct permissions for AutoSync to load and synchronize data. For example, `Autosync_Snowflake_User`.
+    -   **Password**: The password for the account.
+    -   **Database name**: The name of the destination CDW.
+    -   **Warehouse name**: The destination warehouse in which to load the data. You can use any existing warehouse from your Snowflake database. For example, `DEMO_WH`.
 

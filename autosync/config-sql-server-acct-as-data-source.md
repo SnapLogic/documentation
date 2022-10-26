@@ -14,11 +14,11 @@ When creating or editing an AutoSync integration, step 1 requires you to provide
 
     For more information about SQL Server accounts, refer to the [Microsoft - SQL Server documentation](https://docs.microsoft.com/en-us/sql/relational-databases/security/authentication-access/create-a-database-user?view=sql-server-ver15).
 
-    -   **Hostname**: Enter the hostname of the database to connect. You can use either an IP \(`14.8.276.318`\), or URL \(`sqlservertest.cwstru.us-west-1.rds.amzaws.com`\) for hostname.
-    -   **Port Number**: Enter the port number of the database server.
-    -   **Database name**: Enter the name of the source database.
-    -   **Username**: Enter the username of your account. The username must be valid to connect to the data source. For example, `WIN-USER\slogic`.
-    -   **Password**: Enter the password for the account.
+    -   **Hostname**: The hostname of the database. You can use either an IP \(`14.8.276.318`\), or URL \(`sqlservertest.cwstru.us-west-1.rds.amzaws.com`\) for hostname.
+    -   **Port Number**: The port number of the database server.
+    -   **Database name**: The name of the source database.
+    -   **Username**: A username for an account with the correct permissions for AutoSync to load and synchronize data. For example, `WIN-USER\slogic`.
+    -   **Password**: The password for the account.
 4.  Click **Validate and Save**.
 
     If your account successfully validates, it is added to the **Select existing connection** drop-down list. The new source is displayed in the **Select Source** box of the integration workflow on the right side of the integration page.
