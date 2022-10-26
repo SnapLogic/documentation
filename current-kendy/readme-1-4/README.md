@@ -1,2 +1,2 @@
-# NetSuite Contact to ServiceNow User
+# Errors to Slack and Email
 

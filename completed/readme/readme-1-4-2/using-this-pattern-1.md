@@ -15,4 +15,6 @@ If the Pipeline fails, verify the error in the Snap Statistics and resolve it us
 
 **How to Configure the Pipeline**
 
-The supplied file may contain as much or as little data as you want, but must contain a field for the email address of the contacts to be deleted, as this is used to locate the individual records.
+The Pipeline validates whether the input groups already exist in SnapLogic and if not, creates a new group and adds the list of users to the group.
+
+The output is written to a JSON file on SLDB and gets responses using REST calls. The output values contains the following fields: statusGroup, statusUser, and name.
