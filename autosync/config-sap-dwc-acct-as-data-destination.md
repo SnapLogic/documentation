@@ -12,7 +12,7 @@ Before creating a connection configuration for SAP DWC you must add [SnapLogic I
 
 To create a new SAP DWC connection configuration, enter the following:
 
--   A unique, meaningful name such as `SAP-Accounting`.
+-   A unique, meaningful name such as `SAP-Accounting`. If a configuration with the same name exists, AutoSync displays an `Asset conflict error message`.
 -   **Account Properties**:
     -   **Hostname**: The hostname of the database. For example, `ww23456-1db2-4dd0-8cbe-71521705c697.hana.prod-eu10.hanacloud.ondemand.com`.
     -   **Port Number**: The port number of the database server.

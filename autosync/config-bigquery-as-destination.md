@@ -10,7 +10,7 @@ When creating or editing an AutoSync integration, step 2 requires you to provide
 
 To configure BigQuery as a new connection:
 
--   Provide a unique, meaningful name such as `Sales-Shared-BigQuery.` If an asset with the same name exists, an `Asset conflict error message` is displayed.
+-   Provide a unique, meaningful name such as `Sales-Shared-BigQuery.` If a configuration with the same name exists, AutoSync displays an `Asset conflict error message`.
 -   Authorize AutoSync with your Google account.
 
 After authorization:
