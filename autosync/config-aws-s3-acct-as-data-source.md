@@ -12,12 +12,12 @@ Create a new connection configuration for S3 by entering the following:
 
 -   A unique, meaningful name such as `S3-Integration`. If a configuration with the same name exists, AutoSync displays an `Asset conflict error message`.
 -   **Account Properties**:
-    -   **Access-key ID**: Enter the S3 Access key ID part of the AWS authentication. For example, `NAVRGGRV7EDCFVLKJH`.
-    -   **Secret Key**: Enter the S3 Secret key part of the AWS Authentication. For example, `2RGiLmL6bCujkKLaRuUJHY9uSDEjNYr+ozHRtg`.
+    -   **Access-key ID**: The S3 Access key ID for authentication. For example, `NAVRGGRV7EDCFVLKJH`.
+    -   **Secret Key**: The S3 Secret key for authentication. For example, `2RGiLmL6bCujkKLaRuUJHY9uSDEjNYr+ozHRtg`.
 -   **Validate and Save**: After saving and validating, AutoSync adds the configuration to the list of saved connections.
 
--   In the **File Type** dropdown list, choose the type of file you want to use for your data source, `CSV` or `JSON`.
--   In the **S3 Bucket URI** field, specify the S3 directory path that contains your source files.
+-   **File Type**: The source file type, `CSV` or `JSON`.
+-   **S3 Bucket URI**: The S3 directory path that contains the source files.
 
     **Note:** S3 directory paths must start with `s3:///` and end with a forward slash \( `/` \). For example:
 
