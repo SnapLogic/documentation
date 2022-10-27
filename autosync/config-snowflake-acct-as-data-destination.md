@@ -16,4 +16,8 @@ Create a new connection configuration for Snowflake by entering the following:
     -   **Password**: The password for the account.
     -   **Database name**: The name of the destination CDW.
     -   **Warehouse name**: The destination warehouse in which to load the data. You can use any existing warehouse from your Snowflake database. For example, `DEMO_WH`.
--   -   
+-   **Validate and Save**: After saving and validating, AutoSync adds the configuration to the list of saved connections.
+
+-   **Select schema**: AutoSync populates this list from the account. Choose the schema name \(table\) you want to use as your data source.
+
+
