@@ -6,7 +6,7 @@
 -   [Configure SQL Server account as data source](autosync/config-sql-server-acct-as-data-source.md)
 -   [Configure Salesforce account as a source](autosync/config-salesforce-acct-as-data-source.md)
 -   [Configure ServiceNow account as data source](autosync/config-servicenow-acct-as-data-source.md)
--   [Configure AWS S3 account as data source](autosync/config-aws-s3-acct-as-data-source.md)
+-   [Configure AWS S3 as a source](autosync/config-aws-s3-acct-as-data-source.md)
 -   [Configure Google BigQuery as a destination](autosync/config-bigquery-as-destination.md)
 -   [Configure Google Sheets account as data source](autosync/config-google-sheets-acct-as-data-source.md)
 -   [Configure Redshift as a destination](autosync/config-redshift-acct-as-data-destination.md)

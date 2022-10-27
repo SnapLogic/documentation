@@ -1,32 +1,25 @@
-# Configure an AWS S3 account as a data source
+# Configure AWS S3 as a source
 
-When creating or editing an AutoSync integration, step 1 requires you to provide connection parameters for the selected source. You can create a new connection configuration or select from saved configurations. When available, the list of saved configurations includes: AWS S3 account.
+When creating or editing an AutoSync integration, step 1 requires you to provide connection parameters for the selected source. You can create a new connection configuration or select from saved configurations. When available, the list of saved configurations includes:
 
-1.  Click **Configure new credentials** to create new credentials.
+-   Connection configurations that you created in AutoSync.
+-   Accounts that you or an Org admin created in the IIP that are saved in:
+    -   The global **shared** folder
+    -   The **shared** folder, in the **\\~SL-AutoSyncProjectSpace**
+    -   Your AutoSync project, **\\~User~<username\>\_<snaplogic\_org\>**, in the **\\~SL-AutoSync-ProjectSpace**
 
-    Alternatively, you can click **Use existing credentials** and select the credentials from the **Select Existing Connection** dropdown.
+Create a new connection configuration for S3 by entering the following:
 
-2.  In **Create new connection tag**, enter a unique name that will help identify your account in AutoSync.
-
-    We recommend that you use an easily recallable or relatable name.
-
-3.  Configure **Account properties**.
-
-    For more information about AWS S3 accounts, refer to the [AWS S3 documentation](https://docs.aws.amazon.com/s3/index.html).
-
+-   A unique, meaningful name such as `S3-Integration`. If a configuration with the same name exists, AutoSync displays an `Asset conflict error message`.
+-   **Account Properties**:
     -   **Access-key ID**: Enter the S3 Access key ID part of the AWS authentication. For example, `NAVRGGRV7EDCFVLKJH`.
     -   **Secret Key**: Enter the S3 Secret key part of the AWS Authentication. For example, `2RGiLmL6bCujkKLaRuUJHY9uSDEjNYr+ozHRtg`.
-4.  **Validate and Save**: After saving and validating, AutoSync adds the configuration to the list of saved connections.
+-   **Validate and Save**: After saving and validating, AutoSync adds the configuration to the list of saved connections.
 
-5.  In the **File Type** dropdown list, choose the type of file you want to use for your data source.
+-   In the **File Type** dropdown list, choose the type of file you want to use for your data source, `CSV` or `JSON`.
+-   In the **S3 Bucket URI** field, specify the S3 directory path that contains your source files.
 
-    For example, `JSON`.
-
-6.  In the **S3 Bucket URI** field, specify the S3 directory path that contains your source files.
-
-    **Note:** S3 directory paths must start with `s3:///` and end with a forward slash \( `/` \).
-
-    For example:
+    **Note:** S3 directory paths must start with `s3:///` and end with a forward slash \( `/` \). For example:
 
     -   `s3:///mybucket/myfolder/mysubfolder/ […myanothersubfolder/]`
     -   `s3:///mybucket/myfolder/`
