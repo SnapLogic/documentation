@@ -11,4 +11,4 @@
 
 **How to Configure the Pipeline**
 
-when a new file is uploaded to Amazon S3, it creates an SQS event. SnapLogic consumes this event and retrieves the S3 file, inserts the records to Redshift, and confirms the SQS event.
+When a new file is uploaded to Amazon S3, it creates an SQS event. SnapLogic consumes this event and retrieves the S3 file, inserts the records to Redshift, and confirms the SQS event.
