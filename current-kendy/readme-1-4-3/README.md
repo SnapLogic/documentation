@@ -1,2 +1,2 @@
-# Move Data From a Relational Database Into Teradata
+# Data Validator and De-Duplication
 

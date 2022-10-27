@@ -9,10 +9,6 @@
 5. Open each Snap and configure the **Settings** per your requirements.
 6. Save the Snap/Pipeline, validate, and run it.
 
-**How to Configure the Pipeline**
+If the Pipeline runs successfully, you can view the output. For more information, read this article: [My First Pipeline](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/1438412).
 
-The Traditional Pivot snap is static and has to be configured for every set of data.&#x20;
-
-* Enter the number of fields to split to in "nSplitFields" parameter.&#x20;
-* Enter the field names that are being split in the "splitFields" **** parameter in a comma separated list.&#x20;
-* Enter new fields to generate in the "genFields" parameter in a comma separated list.
+If the Pipeline fails, verify the error in the Snap Statistics and resolve it using the suggested resolution. For more information, read this article: [Pipeline Execution Statistics](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/1438478/Pipeline+Execution+Statistics).
