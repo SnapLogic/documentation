@@ -16,10 +16,7 @@ To create a new SAP DWC connection configuration, enter the following:
 -   **Account Properties**:
     -   **Hostname**: The hostname of the database. For example, `ww23456-1db2-4dd0-8cbe-71521705c697.hana.prod-eu10.hanacloud.ondemand.com`.
     -   **Port Number**: The port number of the database server.
-    -   **Database name**: The name of the destination CDW.
-
-        **Note:** Enter the Database name in this format: `Database name: Space Schema Name`.
-
+    -   **Database name**: The name of the space schema.
     -   **Username**: A username for an account with the correct permissions for AutoSync to load and synchronize data.
     -   **Password**: The password for the account.
 -   **Validate and Save**: After saving and validating, AutoSync adds the configuration to the list of saved connections.
