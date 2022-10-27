@@ -1,6 +1,6 @@
 # Overview
 
-Use this Pipeline Pattern to query all Snaplexes and their current resource utilization from the SnapLogic Metrics using API.&#x20;
+Use this Pipeline Pattern to query all Snaplexes and their current resource utilization from the SnapLogic Metrics using the API.&#x20;
 
 The following data is collected and saved into a database table:&#x20;
 

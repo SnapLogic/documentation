@@ -11,5 +11,5 @@
 
 **How to Configure the Pipeline**
 
-* The user configured on the REST account should be a SnapLogic admin.&#x20;
+* The user configured on the REST account must be a SnapLogic admin.&#x20;
 * Specify the org name in the Pipeline Parameters.
