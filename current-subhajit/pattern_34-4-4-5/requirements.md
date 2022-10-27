@@ -6,4 +6,4 @@ To use this Pattern, you need:
 * Accounts in the following applications with the following specific permissions (read/write):
   * Oracle (read)
   * Workday (write)
-* The table in Oracle must have the necessary data to execute the Hire Object in Workday.&#x20;
+* The table in Oracle must have the necessary employee information to execute the Hire Object in Workday.&#x20;
