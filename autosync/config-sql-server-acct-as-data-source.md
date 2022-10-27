@@ -21,6 +21,6 @@ When creating or editing an AutoSync integration, step 1 requires you to provide
     -   **Password**: The password for the account.
 4.  **Validate and Save**: After saving and validating, AutoSync adds the configuration to the list of saved connections.
 
-5.  **Select schema**: AutoSync populates this list from the account. Choose the schema name \(table\) you want to use as your data source.
+5.  **Select schema**: AutoSync populates this list from the account. Choose the schema that contains the tables to load as a source.
 
 

@@ -25,6 +25,6 @@ To create a new Redshift connection configuration, enter the following:
     -   **S3 Secret Key**: The S3 Secret key part of the AWS Authentication. For example, `2RGiLmL/6bCujkKLaRuUJHY9uSDEjNYr+ozHRtg`.
 -   **Validate and Save**: After saving and validating, AutoSync adds the configuration to the list of saved connections.
 
--   **Select schema**: AutoSync populates this list from the account. Choose the schema name \(table\) you want to use as your data source.
+-   **Select schema**: AutoSync populates this list from the account. Choose the schema that contains the tables to load as a source.
 
 

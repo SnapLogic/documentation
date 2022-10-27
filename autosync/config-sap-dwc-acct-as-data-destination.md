@@ -21,6 +21,6 @@ To create a new SAP DWC connection configuration, enter the following:
     -   **Password**: The password for the account.
 -   **Validate and Save**: After saving and validating, AutoSync adds the configuration to the list of saved connections.
 
--   **Select schema**: AutoSync populates this list from the account. Choose the schema name \(table\) you want to use as your data source.
+-   **Select schema**: AutoSync populates this list from the account. Choose the schema that contains the tables to load as a source.
 
 
