@@ -5,6 +5,6 @@ When creating or editing an AutoSync integration, step 1 requires you to provide
 -   Connection configurations that you created in AutoSync.
 -   Accounts that you or an Org admin created in the IIP that are saved in:
     -   The global **shared** folder
-    -   The **shared** folder, in the **\\~SL-AutoSyncProjectSpace**
-    -   Your AutoSync project, **\\~User\\~<username\>\_<snaplogic\_org\>**, in the **\\~SL-AutoSync-ProjectSpace**
+    -   The **shared** folder, in the **SL-AutoSyncProjectSpace**
+    -   Your AutoSync project, **User<username\>\_<snaplogic\_org\>**, in the **SL-AutoSync-ProjectSpace**
 

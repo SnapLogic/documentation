@@ -1,4 +1,4 @@
-# Configure Snowflake as a destination
+# Configure a Snowflake connection
 
 When creating or editing an AutoSync integration, step 2 requires you to provide connection parameters for the selected destination. You can create a new connection configuration or select from saved configurations. When available, the list of saved configurations includes:
 
