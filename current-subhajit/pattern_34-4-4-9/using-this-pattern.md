@@ -14,4 +14,4 @@
 This Pipeline requires the proper structure to insert a new employee in Workday. The following types of data are required to create a new employee:
 
 * Static Data: Country Reference, Organization Reference, and others. The Pipeline is configured to provide the static data.
-* &#x20;Dynamic Data: User Name, Hire Date, and others. Such type of data needs to be provided by the user.&#x20;
+* Dynamic Data: User Name, Hire Date, and others. This type of data needs to be provided by the user.&#x20;
