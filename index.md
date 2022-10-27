@@ -11,5 +11,5 @@
 -   [Configure Google Sheets account as data source](autosync/config-google-sheets-acct-as-data-source.md)
 -   [Configure Redshift account as data destination](autosync/config-redshift-acct-as-data-destination.md)
 -   [Configure SAP-DWC account as data destination](autosync/config-sap-dwc-acct-as-data-destination.md)
--   [autosync/config-snowflake-acct-as-data-destination.dita](autosync/config-snowflake-acct-as-data-destination.md)
+-   [Configure Snowflake as a destination](autosync/config-snowflake-acct-as-data-destination.md)
 
