@@ -20,4 +20,8 @@ To create a new SAP DWC connection configuration, enter the following:
 
     -   **Username**: A username for an account with the correct permissions for AutoSync to load and synchronize data.
     -   **Password**: The password for the account.
--   -   
+-   **Validate and Save**: After saving and validating, AutoSync adds the configuration to the list of saved connections.
+
+-   **Select schema**: AutoSync populates this list from the account. Choose the schema name \(table\) you want to use as your data source.
+
+
