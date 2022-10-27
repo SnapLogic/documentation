@@ -20,6 +20,6 @@ Create a new connection configuration for Snowflake by entering the following:
     -   **Warehouse name**: The destination warehouse in which to load the data. You can use any existing warehouse from your Snowflake database. For example, `DEMO_WH`.
 -   **Validate and Save**: After saving and validating, AutoSync adds the configuration to the list of saved connections.
 
--   **Select schema**: AutoSync populates this list from the account. Choose the schema that contains the tables to load as a source.
+-   **Select schema**: AutoSync populates this list from the account. Choose the schema to use as the destination.
 
 

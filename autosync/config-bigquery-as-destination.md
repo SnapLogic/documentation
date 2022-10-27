@@ -16,5 +16,5 @@ To configure BigQuery as a new connection:
 After authorization:
 
 -   Enter the ID of the BigQuery Project to load data into.
--   From the **Schema** list, select the target schema.
+-   From the **Schema** list, select the destination schema.
 
