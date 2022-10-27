@@ -15,10 +15,6 @@ When creating or editing an AutoSync integration, step 1 requires you to provide
     -   **Username**: A username for an account with the correct permissions for AutoSync to load and synchronize data. For example, `WIN-USER\slogic`.
     -   **Password**: The password for the account.
     -   **Instance**: Enter the name of your ServiceNow instance. For example, if `https://snaplogic.service-now.com/` is the URL of your ServiceNow instance, then `snaplogic` is the instance name.
-4.  Click **Validate and Save**.
-
-    If your account successfully validates, it is added to the **Select existing connection** drop-down list. The new source is displayed in the **Select Source** box of the integration workflow on the right side of the integration page.
-
-    **Note:** If an asset with the same name exists, an `Asset conflict error message` is displayed. Multiple attempts with invalid credentials could lock your account.
+4.  **Validate and Save**: After saving and validating, AutoSync adds the configuration to the list of saved connections.
 
 

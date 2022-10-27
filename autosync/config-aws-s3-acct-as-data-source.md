@@ -16,11 +16,7 @@ When creating or editing an AutoSync integration, step 1 requires you to provide
 
     -   **Access-key ID**: Enter the S3 Access key ID part of the AWS authentication. For example, `NAVRGGRV7EDCFVLKJH`.
     -   **Secret Key**: Enter the S3 Secret key part of the AWS Authentication. For example, `2RGiLmL6bCujkKLaRuUJHY9uSDEjNYr+ozHRtg`.
-4.  Click **Validate and Save**.
-
-    If your account successfully validates, it is added to the **Select existing connection** drop-down list. The new source is displayed in the **Select Source** box of the integration workflow on the right side of the integration page.
-
-    **Note:** If an asset with the same name exists, an `Asset conflict error message` is displayed. Multiple attempts with invalid credentials could lock your account.
+4.  **Validate and Save**: After saving and validating, AutoSync adds the configuration to the list of saved connections.
 
 5.  In the **File Type** dropdown list, choose the type of file you want to use for your data source.
 

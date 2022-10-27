@@ -23,14 +23,8 @@ When creating or editing an AutoSync integration, step 2 requires you to provide
     -   **S3 Folder**: Enter the relative path to a folder in S3 Bucket. This is used as a root folder for staging data on Redshift. For example, `san-francisco` for using `s3://sl-bucket-ca/san-francisco`. If you want to create files at the root level, append a forward slash \( `/` \) to the file path.
     -   **S3 Access-key ID**: Enter the S3 Access key ID part of the AWS authentication. For example, `NAVRGGRV7EDCFVLKJH`.
     -   **S3 Secret Key**: Enter the S3 Secret key part of the AWS Authentication. For example, `2RGiLmL/6bCujkKLaRuUJHY9uSDEjNYr+ozHRtg`.
-4.  Click **Validate and Save**.
+4.  **Validate and Save**: After saving and validating, AutoSync adds the configuration to the list of saved connections.
 
-    If your account successfully validates, it is added to the **Select existing connection** drop-down list. The new source is displayed in the **Select Source** box of the integration workflow on the right side of the integration page.
-
-    **Note:** If an asset with the same name exists, an `Asset conflict error message` is displayed. Multiple attempts with invalid credentials could lock your account.
-
-5.  From the **Select schema** drop-down list, choose the schema name \(table\) you want to use as your data source.
-
-    For example, `oracle_TI (21 tables)`. This schema list is populated directly from the account that you just configured.
+5.  **Select schema**: AutoSync populates this list from the account. Choose the schema name \(table\) you want to use as your data source.
 
 

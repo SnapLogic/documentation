@@ -18,10 +18,6 @@ When creating or editing an AutoSync integration, step 1 requires you to provide
 
     For example, `https://snaplogic-demo.coupacloud.com/`. To find this value, log in to your Coupa account and use the URL of your homepage.
 
-5.  Click **Validate and Save**.
-
-    If your account successfully validates, it is added to the **Select existing connection** drop-down list. The new source is displayed in the **Select Source** box of the integration workflow on the right side of the integration page.
-
-    **Note:** If an asset with the same name exists, an `Asset conflict error message` is displayed. Multiple attempts with invalid credentials could lock your account.
+5.  **Validate and Save**: After saving and validating, AutoSync adds the configuration to the list of saved connections.
 
 
