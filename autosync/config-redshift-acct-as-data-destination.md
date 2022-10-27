@@ -1,6 +1,14 @@
-# Configure a Redshift account as a data destination
+# Configure Redshift as a destination
 
-When creating or editing an AutoSync integration, step 2 requires you to provide connection parameters for the selected destination. You can create a new connection configuration or select from saved configurations. When available, the list of saved configurations includes: Redshift account.
+When creating or editing an AutoSync integration, step 2 requires you to provide connection parameters for the selected destination. You can create a new connection configuration or select from saved configurations. When available, the list of saved configurations includes:
+
+-   Connection configurations that you created in AutoSync.
+-   Accounts that you or an Org admin created in the IIP that are saved in:
+    -   The global **shared** folder
+    -   The **shared** folder, in the **\\~SL-AutoSyncProjectSpace**
+    -   Your AutoSync project, **\\~User~<username\>\_<snaplogic\_org\>**, in the **\\~SL-AutoSync-ProjectSpace**
+
+Before configuring Redshift as a destination in AutoSync, you must configure Redshift to allow inbound access from SnapLogic addresses. Refer to [Allowing AutoSync to Access Redshift](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/2610168222/Configuring+a+Redshift+account+as+a+data+destination+in+AutoSync) for instructions.
 
 1.  Click **Configure new credentials** to create new credentials.
 
