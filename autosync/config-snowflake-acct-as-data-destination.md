@@ -16,7 +16,7 @@ Create a new connection configuration for Snowflake by entering the following:
     -   **Port number**: The port number for Snowflake.
     -   **Username**: A username for an account with the correct permissions for AutoSync to load and synchronize data. For example, `Autosync_Snowflake_User`.
     -   **Password**: The password for the account.
-    -   **Database name**: The name of the destination CDW.
+    -   **Database name**: The name of the destination database.
     -   **Warehouse name**: The destination warehouse in which to load the data. You can use any existing warehouse from your Snowflake database. For example, `DEMO_WH`.
 -   **Validate and Save**: After saving and validating, AutoSync adds the configuration to the list of saved connections.
 
