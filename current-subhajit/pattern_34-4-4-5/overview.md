@@ -1,5 +1,6 @@
 # Overview
 
-Use this Pipeline Pattern to run a scheduled update of employee data and information from Oracle into Workday.
+Use this Pipeline Pattern to insert customer accounts from Salesforce to Microsoft Dynamics 365 Finance and Operations.
 
-The Pipeline compares the lists of employees in Oracle and Workday, if there are employees that are found in Oracle but not listed in Workday, then the employee information is added to Workday.
+
+
