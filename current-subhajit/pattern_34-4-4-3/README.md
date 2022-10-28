@@ -1,2 +1,2 @@
-# Synch Amazon S3 Files by Inserting Records  into Redshift Table
+# Get Product Details from   Oracle, SAP, and Salsify
 

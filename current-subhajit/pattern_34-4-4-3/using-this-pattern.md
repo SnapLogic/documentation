@@ -9,6 +9,4 @@
 5. Open each Snap and configure the **Settings** per your requirements.
 6. Save the Snap/Pipeline, validate, and run it.
 
-**How to Configure the Pipeline**
-
-When a new file is uploaded to Amazon S3, it creates an SQS event. SnapLogic consumes this event and retrieves the S3 file, inserts the records to Redshift, and confirms the SQS event.
+****
