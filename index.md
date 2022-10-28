@@ -8,7 +8,7 @@
 -   [Configure a ServiceNow connection](autosync/config-servicenow-acct-as-data-source.md)
 -   [Configure an AWS S3 connection](autosync/config-aws-s3-acct-as-data-source.md)
 -   [Configure a Google BigQuery connectionn](autosync/config-bigquery-as-destination.md)
--   [Configure Google Sheets account as data source](autosync/config-google-sheets-acct-as-data-source.md)
+-   [autosync/config-google-sheets-acct-as-data-source.dita](autosync/config-google-sheets-acct-as-data-source.md)
 -   [Configure a Redshift connection](autosync/config-redshift-acct-as-data-destination.md)
 -   [Configure an SAP Data Warehouse Cloud \(DWC\) connection](autosync/config-sap-dwc-acct-as-data-destination.md)
 -   [Configure a Snowflake connection](autosync/config-snowflake-acct-as-data-destination.md)
