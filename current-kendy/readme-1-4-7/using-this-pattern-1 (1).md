@@ -8,3 +8,11 @@
 4. Configure your account in SnapLogic using the account information in the original application.
 5. Open each Snap and configure the **Settings** per your requirements.
 6. Save the Snap/Pipeline, validate, and run it.
+
+If the Pipeline runs successfully, you can view the output. For more information, read this article: [My First Pipeline](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/1438412).
+
+If the Pipeline fails, verify the error in the Snap Statistics and resolve it using the suggested resolution. For more information, read this article: [Pipeline Execution Statistics](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/1438478/Pipeline+Execution+Statistics).
+
+**How to Configure the Pipeline**
+
+The supplied file may contain as much or as little data as you want, but must contain a field for the email address of the contacts to be deleted, as this is used to locate the individual records.

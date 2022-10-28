@@ -1,3 +1,3 @@
 # Overview
 
-Use this Pipeline Pattern to bulk delete Salesforce contacts from a given CSV file.
+Use this Pipeline Pattern to publish a message using Google Pub Sub.

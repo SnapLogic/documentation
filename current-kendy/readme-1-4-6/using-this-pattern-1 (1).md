@@ -9,10 +9,6 @@
 5. Open each Snap and configure the **Settings** per your requirements.
 6. Save the Snap/Pipeline, validate, and run it.
 
-**How to Configure the Pipeline**
+If the Pipeline runs successfully, you can view the output. For more information, read this article: [My First Pipeline](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/1438412).
 
-Populate the following in the Pipeline parameters:
-
-1. containsKeyword (delete files that contain this text)
-2. deleteOlderThan (files that are older than this number, in days, will be deleted)
-3. directory (directory to search files to delete in)
+If the Pipeline fails, verify the error in the Snap Statistics and resolve it using the suggested resolution. For more information, read this article: [Pipeline Execution Statistics](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/1438478/Pipeline+Execution+Statistics).

@@ -1,2 +1,2 @@
-# Employee Journey: People Analytics
+# Kafka Produce and Consume to Snowflake
 
