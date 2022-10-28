@@ -17,8 +17,8 @@ Create a new connection configuration for SQL Server by entering the following:
     -   **Database name**: The name of the source database. For example, `MyDB`.
     -   **Database specifier type**: the format of the JDBC URL. AutoSync formats the connection parameters into one of the following options. Default value: `Service name`
 
--   **Service name**: Uses the `jdbc:oracle:thin@//HOST:PORT/DBNAME` format.
--   **SID**: Uses the `jdbc:oracle:thin@HOST:PORT:DBNAME` format.
+        -   **Service name**: Uses the `jdbc:oracle:thin@//HOST:PORT/DBNAME` format.
+        -   **SID**: Uses the `jdbc:oracle:thin@HOST:PORT:DBNAME` format.
     -   **Username**: A username for an account with the correct permissions for AutoSync to load and synchronize data.
     -   **Password**: The password for the account. Note that multiple retries with an invalid password can cause your account to be locked.
 -   **Validate and Save**: After saving and validating, AutoSync adds the configuration to the list of saved connections.
