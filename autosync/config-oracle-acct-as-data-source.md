@@ -8,7 +8,7 @@ When creating or editing an AutoSync integration, step 1 requires you to provide
     -   The **shared** folder, in the **SL-AutoSyncProjectSpace**
     -   Your AutoSync project, **User<username\>\_<snaplogic\_org\>**, in the **SL-AutoSync-ProjectSpace**
 
-Create a new connection configuration for SQL Server by entering the following:
+Create a new connection configuration for Oracle by entering the following:
 
 -   A unique, meaningful name such as `S3-Integration`. If a configuration with the same name exists, AutoSync displays an `Asset conflict error message`.
 -   **Account Properties**:

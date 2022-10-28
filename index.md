@@ -5,7 +5,7 @@
 -   [Configure Oracle connection](autosync/config-oracle-acct-as-data-source.md)
 -   [onfigure a Microsoft SQL Server connection](autosync/config-sql-server-acct-as-data-source.md)
 -   [Configure Salesforce connection](autosync/config-salesforce-acct-as-data-source.md)
--   [Configure ServiceNow account as data source](autosync/config-servicenow-acct-as-data-source.md)
+-   [Configure a ServiceNow connection](autosync/config-servicenow-acct-as-data-source.md)
 -   [Configure an AWS S3 connection](autosync/config-aws-s3-acct-as-data-source.md)
 -   [Configure a Google BigQuery connectionn](autosync/config-bigquery-as-destination.md)
 -   [Configure Google Sheets account as data source](autosync/config-google-sheets-acct-as-data-source.md)
