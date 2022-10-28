@@ -1,8 +1,3 @@
 # Overview
 
-Use this Pipeline Pattern to retrieve leads from ServiceNow and send them to Microsoft Dynamics 365 for Sales CRM application.
-
-Upon success or error, the integration log is sent back to a different table in ServiceNow for monitoring.&#x20;
-
-
-
+Use this Pipeline Pattern to select opportunities from Salesforce, match them according to their types, and store them as a CSV file in Microsoft Azure Data Lake Storage.

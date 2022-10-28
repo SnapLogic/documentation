@@ -1,2 +1,2 @@
-# Patterns (Old)
+# Errors to Slack and Email
 

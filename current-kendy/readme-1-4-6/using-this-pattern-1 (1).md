@@ -9,4 +9,10 @@
 5. Open each Snap and configure the **Settings** per your requirements.
 6. Save the Snap/Pipeline, validate, and run it.
 
-****
+**How to Configure the Pipeline**
+
+Populate the following in the Pipeline parameters:
+
+1. containsKeyword (delete files that contain this text)
+2. deleteOlderThan (files that are older than this number, in days, will be deleted)
+3. directory (directory to search files to delete in)
