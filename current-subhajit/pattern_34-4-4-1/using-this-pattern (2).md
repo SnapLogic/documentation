@@ -9,6 +9,4 @@
 5. Open each Snap and configure the **Settings** per your requirements.
 6. Save the Snap/Pipeline, validate, and run it.
 
-**How to Configure the Pipeline**
-
-This Pattern uses pagination and page interval to overcome the concurrent API limit and rate limit on Marketo.
+****

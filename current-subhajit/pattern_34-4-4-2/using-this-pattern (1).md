@@ -11,4 +11,5 @@
 
 **How to Configure the Pipeline**
 
-This Pattern uses pagination and page interval to overcome the concurrent API limit and rate limit on Marketo.
+* The user configured on the REST account must be a SnapLogic admin.&#x20;
+* Specify the org name in the Pipeline Parameters.

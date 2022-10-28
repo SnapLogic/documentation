@@ -9,7 +9,4 @@
 5. Open each Snap and configure the **Settings** per your requirements.
 6. Save the Snap/Pipeline, validate, and run it.
 
-**How to Configure the Pipeline**
-
-* The user configured on the REST account must be a SnapLogic admin.&#x20;
-* Specify the org name in the Pipeline Parameters.
+****
