@@ -6,7 +6,7 @@ When creating or editing an AutoSync integration, step 2 requires you to provide
 -   Accounts that you or an Org admin created in the IIP that are saved in:
     -   The global `shared` folder
     -   The `shared` folder, in the `SL-AutoSyncProjectSpace`
-    -   Your AutoSync project, `~User~<username>_<snaplogic_org>`, in the **SL-AutoSync-ProjectSpace**
+    -   Your AutoSync project, `~User~<username>_<snaplogic_org>`, in the `SL-AutoSync-ProjectSpace`
 
 Before configuring Redshift as a destination in AutoSync, you must allow inbound access from SnapLogic IIP addresses. Refer to [Allowing AutoSync to Access Redshift](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/2610168222/Configuring+a+Redshift+account+as+a+data+destination+in+AutoSync) for instructions.
 

@@ -6,7 +6,7 @@ When creating or editing an AutoSync integration, step 1 requires you to provide
 -   Accounts that you or an Org admin created in the IIP that are saved in:
     -   The global `shared` folder
     -   The `shared` folder, in the `SL-AutoSyncProjectSpace`
-    -   Your AutoSync project, `~User~<username>_<snaplogic_org>`, in the **SL-AutoSync-ProjectSpace**
+    -   Your AutoSync project, `~User~<username>_<snaplogic_org>`, in the `SL-AutoSync-ProjectSpace`
 
 Create a new connection configuration for Salesforce by entering the following:
 
