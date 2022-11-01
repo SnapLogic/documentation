@@ -3,7 +3,7 @@
 Create a new connection configuration or select from saved configurations. When available, the list of saved configurations includes:
 
 -   Connection configurations that you created in AutoSync.
--   Accounts that you or an Org admin created in the IIP. The list of saved Accounts does not include dynamic Accounts. It includes non-dynamic Accounts saved in:
+-   Accounts that you or an Org admin created in the IIP, including non-dynamic Accounts saved in:
     -   The global `shared` folder
     -   The `shared` folder, in the `SL-AutoSyncProjectSpace`
     -   Your AutoSync project, `~User~<username>_<snaplogic_org>`, in the `SL-AutoSync-ProjectSpace`
