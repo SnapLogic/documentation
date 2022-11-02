@@ -1,24 +1,20 @@
-# Configure a ServiceNow account as a data source
+# Configure a ServiceNow connection
 
-You can configure a new account source in AutoSync by using the user credentials from your existing ServiceNow account.
+Create a new connection configuration or select from saved configurations. When available, the list of saved configurations includes:
 
-1.  Click **Configure new credentials** to create new credentials.
+-   Connection configurations that you created in AutoSync.
+-   Accounts that you or an Org admin created in the IIP, including nondynamic Accounts saved in:
+    -   The global `shared` folder
+    -   The `shared` folder, in the `SL-AutoSyncProjectSpace`
+    -   Your AutoSync project, `~User~<username>_<snaplogic_org>`, in the `SL-AutoSync-ProjectSpace`
 
-    Alternatively, you can click **Use existing credentials** and select the credentials from the **Select Existing Connection** dropdown.
+Create a new connection configuration for ServiceNow by entering the following:
 
-2.  In **Create new connection tag**, enter a unique name that will help identify your account in AutoSync.
+-   A unique, meaningful name such as `S3-Integration`. If a configuration with the same name exists, AutoSync displays an `Asset conflict error message`.
+-   **Account Properties**:
+    -   **Username**: A username for an account with the correct permissions for AutoSync to load and synchronize data.
+    -   **Password**: The password for the account. Note that multiple retries with an invalid password can cause your account to be locked.
+    -   **Instance**: Enter the name of your ServiceNow instance. This is the URL without the protocol. For example, if `https://snaplogic.service-now.com/` is the URL of your ServiceNow instance, `snaplogic.service-now.com` is the instance name.
 
-    We recommend that you use an easily recallable or relatable name.
-
-3.  Configure **Account properties**.
-
-    -   **Username**: Enter the username of your account. The username must be valid to connect to the data source. For example, `WIN-USER\slogic`.
-    -   **Password**: Enter the password for the account.
-    -   **Instance**: Enter the name of your ServiceNow instance. For example, if `https://snaplogic.service-now.com/` is the URL of your ServiceNow instance, then `snaplogic` is the instance name.
-4.  Click **Validate and Save**.
-
-    If your account successfully validates, it is added to the **Select existing connection** drop-down list. The new source is displayed in the **Select Source** box of the integration workflow on the right side of the integration page.
-
-    **Note:** If an asset with the same name exists, an `Asset conflict error message` is displayed. Multiple attempts with invalid credentials could lock your account.
-
+After configuring a destination, you will choose which tables to synchronize
 

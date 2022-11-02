@@ -1,36 +1,28 @@
-# Configure an Oracle account as a data source
+# Configure an Oracle connection
 
-You can configure a new account source in AutoSync by using the user credentials from your existing Oracle account.
+Create a new connection configuration or select from saved configurations. When available, the list of saved configurations includes:
 
-1.  Click **Configure new credentials** to create new credentials.
+-   Connection configurations that you created in AutoSync.
+-   Accounts that you or an Org admin created in the IIP, including nondynamic Accounts saved in:
+    -   The global `shared` folder
+    -   The `shared` folder, in the `SL-AutoSyncProjectSpace`
+    -   Your AutoSync project, `~User~<username>_<snaplogic_org>`, in the `SL-AutoSync-ProjectSpace`
 
-    Alternatively, you can click **Use existing credentials** and select the credentials from the **Select Existing Connection** dropdown.
+Create a new connection configuration for Oracle by entering the following:
 
-2.  In **Create new connection tag**, enter a unique name that will help identify your account in AutoSync.
+-   A unique, meaningful name such as `S3-Integration`. If a configuration with the same name exists, AutoSync displays an `Asset conflict error message`.
+-   **Account Properties**:
+    -   **Hostname**: The hostname of the database. For example, `oracleaccount.dfctruwzzvnq.us-west-2.rds.amzaws.com`.
+    -   **Port Number**: The port number of the database server. Default value: `1521`
+    -   **Database name**: The name of the source database. For example, `MyDB`.
+    -   **Database specifier type**: the format of the JDBC URL. AutoSync formats the connection parameters into one of the following options. Default value: `Service name`
 
-    We recommend that you use an easily recallable or relatable name.
+        -   **Service name**: Uses the `jdbc:oracle:thin@//HOST:PORT/DBNAME` format.
+        -   **SID**: Uses the `jdbc:oracle:thin@HOST:PORT:DBNAME` format.
+    -   **Username**: A username for an account with the correct permissions for AutoSync to load and synchronize data.
+    -   **Password**: The password for the account. Note that multiple retries with an invalid password can cause your account to be locked.
+-   **Validate and Save**: After saving and validating, AutoSync adds the configuration to the list of saved connections.
 
-3.  Configure **Account properties**.
-
-    For more information about Oracle accounts, refer to the [Oracle documentation](https://docs.oracle.com/cd/E11882_01/server.112/e10897/users_secure.htm#ADMQS007).
-
-    -   **Hostname**: Enter the hostname of the database to connect. For example, `oracleaccount.dfctruwzzvnq.us-west-2.rds.amzaws.com`.
-    -   **Port Number**: Enter the port number of the database server. Default value: `1521`
-    -   **Database name**: Enter the name of the source database. For example, `MyDB`.
-    -   In the **Database specifier type** drop-down list, select either of the following options to determine the Java Database Connectivity \(JDBC\) URL format that must be used internally. Default value: `Service name`
-
--   **Service name**: Uses the `jdbc:oracle:thin@//HOST:PORT/DBNAME` format.
--   **SID**: Uses the `jdbc:oracle:thin@HOST:PORT:DBNAME` format.
-    -   **Username**: Enter the username of your account. The username must be valid to connect to the data source.
-    -   **Password**: Enter the password for the account.
-4.  Click **Validate and Save**.
-
-    If your account successfully validates, it is added to the **Select existing connection** drop-down list. The new source is displayed in the **Select Source** box of the integration workflow on the right side of the integration page.
-
-    **Note:** If an asset with the same name exists, an `Asset conflict error message` is displayed. Multiple attempts with invalid credentials could lock your account.
-
-5.  From the **Select schema** drop-down list, choose the schema name \(table\) you want to use as your data source.
-
-    For example, `oracle_TI (21 tables)`. This schema list is populated directly from the account that you just configured.
+-   **Select schema**: AutoSync populates this list from the account. Choose the schema that contains the tables to load as a source.
 
 
