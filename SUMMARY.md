@@ -317,7 +317,7 @@
     * [Overview](completed/readme/readme-1-2-1/overview-1.md)
     * [Requirements](completed/readme/readme-1-2-1/requirements-1.md)
     * [Using this Pattern](completed/readme/readme-1-2-1/using-this-pattern-1.md)
-  * [Snaplogic Before and After Control-Break Pipeline](completed/readme/readme-1-3-1/README.md)
+  * [SnapLogic Before and After Control-Break Pipeline](completed/readme/readme-1-3-1/README.md)
     * [Overview](completed/readme/readme-1-3-1/overview-1.md)
     * [Requirements](completed/readme/readme-1-3-1/requirements-1.md)
     * [Using this Pattern](completed/readme/readme-1-3-1/using-this-pattern-1.md)
