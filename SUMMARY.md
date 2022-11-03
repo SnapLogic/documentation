@@ -21,7 +21,7 @@
 
 ## Current Subhajit
 
-* [Replicate Data from Salesforce to Multiple Databases](<README (1).md>)
+* [Replicate Data from Salesforce to Multiple Databases](<README (2).md>)
   * [Overview](current-subhajit/pattern\_34-4-4/overview.md)
   * [Requirements](current-subhajit/pattern\_34-4-4/requirements.md)
   * [Using this Pattern](current-subhajit/pattern\_34-4-4/using-this-pattern.md)
@@ -48,7 +48,7 @@
 
 ## Completed
 
-* [Patterns (Old)](<README (1) (1).md>)
+* [Patterns (Old)](<README (1).md>)
   * [pattern\_34](completed/patterns-old/pattern\_34/README.md)
     * [Overview](completed/patterns-old/pattern\_34/overview.md)
     * [Requirements](completed/patterns-old/pattern\_34/requirements.md)
