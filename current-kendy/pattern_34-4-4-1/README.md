@@ -1,2 +1,2 @@
-# Pipeline Directory Generator
+# Sync Salesforce Products with NetSuite
 

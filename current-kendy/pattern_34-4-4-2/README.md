@@ -1,2 +1,2 @@
-# RabbitMQ Consumer to MySQL
+# Pipeline Directory Generator
 

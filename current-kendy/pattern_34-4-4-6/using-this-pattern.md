@@ -8,7 +8,3 @@
 4. Configure your account in SnapLogic using the account information in the original application.
 5. Open each Snap and configure the **Settings** per your requirements.
 6. Save the Snap/Pipeline, validate, and run it.
-
-**Important Information about this Pattern Pipeline:**
-
-The NetSuite internal IDs for mandatory fields need to configured in the expression library. The Source and Target connections can also be configured in the expression library.&#x20;
