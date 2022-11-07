@@ -65,6 +65,10 @@
   * [Overview](current-subhajit/pattern\_34-4-4-7/overview.md)
   * [Requirements](current-subhajit/pattern\_34-4-4-7/requirements.md)
   * [Using this Pattern](current-subhajit/pattern\_34-4-4-7/using-this-pattern.md)
+* [Use LDAP search to Get User Data](current-subhajit/pattern\_34-4-4-8/README.md)
+  * [Overview](current-subhajit/pattern\_34-4-4-8/overview.md)
+  * [Requirements](current-subhajit/pattern\_34-4-4-8/requirements.md)
+  * [Using this Pattern](current-subhajit/pattern\_34-4-4-8/using-this-pattern.md)
 
 ## Completed
 
@@ -457,10 +461,10 @@
     * [Overview](<current-subhajit/pattern\_34-4-4-7/overview (1).md>)
     * [Requirements](<current-subhajit/pattern\_34-4-4-7/requirements (1).md>)
     * [Using this Pattern](<current-subhajit/pattern\_34-4-4-7/using-this-pattern (1).md>)
-  * [Sync Data from Workday to Anaplan](current-subhajit/pattern\_34-4-4-8/README.md)
-    * [Overview](current-subhajit/pattern\_34-4-4-8/overview.md)
-    * [Requirements](current-subhajit/pattern\_34-4-4-8/requirements.md)
-    * [Using this Pattern](current-subhajit/pattern\_34-4-4-8/using-this-pattern.md)
+  * [Sync Data from Workday to Anaplan](<current-subhajit/pattern\_34-4-4-8/README (1).md>)
+    * [Overview](<current-subhajit/pattern\_34-4-4-8/overview (1).md>)
+    * [Requirements](<current-subhajit/pattern\_34-4-4-8/requirements (1).md>)
+    * [Using this Pattern](<current-subhajit/pattern\_34-4-4-8/using-this-pattern (1).md>)
   * [Insert New Employee Data into Workday](current-subhajit/pattern\_34-4-4-9/README.md)
     * [Overview](current-subhajit/pattern\_34-4-4-9/overview.md)
     * [Requirements](current-subhajit/pattern\_34-4-4-9/requirements.md)

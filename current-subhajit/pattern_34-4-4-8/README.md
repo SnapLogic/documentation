@@ -1,2 +1,2 @@
-# Sync Data from Workday to Anaplan
+# Use LDAP search to Get User Data
 
