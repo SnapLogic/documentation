@@ -12,7 +12,7 @@ Create a new connection configuration for Snowflake by entering the following:
 
 -   A unique, meaningful name such as `Sales-Shared-Snowflake`. If a configuration with the same name exists, AutoSync displays an `Asset conflict error message`.
 -   **Account Properties**
-    -   **Hostname**:The hostname part of the connection URL. For example, if the Snowflake URL is https://snaplogic.snowflakecomputing.com/console\#/internal/worksheet, the hostname is snaplogic.snowflakecomputing.com.
+    -   **Hostname**: The hostname part of the connection URL. For example, if the Snowflake URL is https://snaplogic.snowflakecomputing.com/console\#/internal/worksheet, the hostname is snaplogic.snowflakecomputing.com.
     -   **Port number**: The port number for Snowflake.
     -   **Username**: A username for an account with the correct permissions for AutoSync to load and synchronize data. For example, `Autosync_Snowflake_User`.
     -   **Password**: The password for the account. Note that multiple retries with an invalid password can cause your account to be locked.

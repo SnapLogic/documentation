@@ -10,7 +10,7 @@ Create a new connection configuration or select from saved configurations. When 
 
 Create a new connection configuration for SQL Server by entering the following:
 
--   A unique, meaningful name such as `S3-Integration`. If a configuration with the same name exists, AutoSync displays an `Asset conflict error message`.
+-   A unique, meaningful name such as `SQL-Server-Sales`. If a configuration with the same name exists, AutoSync displays an `Asset conflict error message`.
 -   **Account Properties**:
     -   **Hostname**: The hostname of the database. You can use either an IP \(`14.8.276.318`\), or URL \(`sqlservertest.cwstru.us-west-1.rds.amzaws.com`\) for hostname.
     -   **Port Number**: The port number of the database server.

@@ -19,5 +19,5 @@ Create a new connection configuration for Salesforce by entering the following:
 -   **Validate and Save**: After saving and validating, AutoSync adds the configuration to the list of saved connections.
 
 
-After configuring a destination, you will choose which tables to synchronize
+After configuring a destination, you will choose which tables to synchronize.
 

@@ -1,4 +1,4 @@
-# Configure a Google BigQuery connectionn
+# Configure a Google BigQuery connection
 
 Create a new connection configuration or select from saved configurations. When available, the list of saved configurations includes:
 
