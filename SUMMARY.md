@@ -57,6 +57,10 @@
   * [Overview](current-subhajit/pattern\_34-4-4-5/overview.md)
   * [Requirements](current-subhajit/pattern\_34-4-4-5/requirements.md)
   * [Using this Pattern](current-subhajit/pattern\_34-4-4-5/using-this-pattern.md)
+* [Sync Master Data from Sopra HR to Cornerstone](current-subhajit/pattern\_34-4-4-6/README.md)
+  * [Overview](current-subhajit/pattern\_34-4-4-6/overview.md)
+  * [Requirements](current-subhajit/pattern\_34-4-4-6/requirements.md)
+  * [Using this Pattern](current-subhajit/pattern\_34-4-4-6/using-this-pattern.md)
 
 ## Completed
 
@@ -441,10 +445,10 @@
     * [Overview](<current-subhajit/pattern\_34-4-4-5/overview (1).md>)
     * [Requirements](<current-subhajit/pattern\_34-4-4-5/requirements (1).md>)
     * [Using this Pattern](<current-subhajit/pattern\_34-4-4-5/using-this-pattern (1).md>)
-  * [SnapLogic Public APIs to Read and Write the Runtime Execution Information](current-subhajit/pattern\_34-4-4-6/README.md)
-    * [Overview](current-subhajit/pattern\_34-4-4-6/overview.md)
-    * [Requirements](current-subhajit/pattern\_34-4-4-6/requirements.md)
-    * [Using this Pattern](current-subhajit/pattern\_34-4-4-6/using-this-pattern.md)
+  * [SnapLogic Public APIs to Read and Write the Runtime Execution Information](<current-subhajit/pattern\_34-4-4-6/README (1).md>)
+    * [Overview](<current-subhajit/pattern\_34-4-4-6/overview (1).md>)
+    * [Requirements](<current-subhajit/pattern\_34-4-4-6/requirements (1).md>)
+    * [Using this Pattern](<current-subhajit/pattern\_34-4-4-6/using-this-pattern (1).md>)
   * [Sync New Customer from NetSuite to Marketo](current-subhajit/pattern\_34-4-4-7/README.md)
     * [Overview](current-subhajit/pattern\_34-4-4-7/overview.md)
     * [Requirements](current-subhajit/pattern\_34-4-4-7/requirements.md)

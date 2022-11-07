@@ -8,3 +8,9 @@
 4. Configure your account in SnapLogic using the account information in the original application.
 5. Open each Snap and configure the **Settings** per your requirements.
 6. Save the Snap/Pipeline, validate, and run it.
+
+**How to Configure the Pipeline**
+
+The REST Get Snap needs a REST Basic Auth account configured with a valid credentials to make the request to the platform.  The result shows only those executions for which the credentials have the required access.&#x20;
+
+****

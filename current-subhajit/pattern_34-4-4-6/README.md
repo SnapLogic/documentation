@@ -1,2 +1,2 @@
-# SnapLogic Public APIs to Read and Write the Runtime Execution Information
+# Sync Master Data from Sopra HR to Cornerstone
 
