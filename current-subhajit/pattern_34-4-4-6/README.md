@@ -1,2 +1,2 @@
-# Sync Master Data from Sopra HR to Cornerstone
+# Sync Master Data on Jobs from Sopra HR to Cornerstone
 

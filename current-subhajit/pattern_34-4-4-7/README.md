@@ -1,2 +1,2 @@
-# Sync New Customer from NetSuite to Marketo
+# Sync Master Data on Workers from Sopra HR to Cornerstone
 
