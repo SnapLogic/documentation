@@ -16,5 +16,5 @@ Create a new connection configuration for ServiceNow by entering the following:
     -   **Password**: The password for the account. Note that multiple retries with an invalid password can cause your account to be locked.
     -   **Instance**: Enter the name of your ServiceNow instance. This is the URL without the protocol. For example, if `https://snaplogic.service-now.com/` is the URL of your ServiceNow instance, `snaplogic.service-now.com` is the instance name.
 
-After configuring a destination, you will choose which tables to synchronize
+After configuring a destination, you will choose which tables to synchronize.
 

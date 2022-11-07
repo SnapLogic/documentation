@@ -12,5 +12,5 @@ Each `.csv` file must:
 -   Use a single comma delimiter
 -   Use quotes to bracket fields that include commas in the value
 
-After you select the files to upload, AutoSync loads them into SnapLogic file storage. After you save the integration, AutoSync loads the data to the destination and deletes the files from SnapLogic storage. You can reuse the integration later by selecting different files.
+After you select the files to upload, AutoSync loads them into SnapLogic file storage. After you save the integration, AutoSync loads the data to the destination and deletes the files from SnapLogic storage. You can reuse the integration later by editing it and selecting different files.
 

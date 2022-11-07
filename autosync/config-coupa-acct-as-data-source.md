@@ -8,7 +8,7 @@ Create a new connection configuration or select from saved configurations. When 
     -   The `shared` folder, in the `SL-AutoSyncProjectSpace`
     -   Your AutoSync project, `~User~<username>_<snaplogic_org>`, in the `SL-AutoSync-ProjectSpace`
 
-Create a new connection configuration for Salesforce by entering the following:
+Create a new connection configuration for Coupa by entering the following:
 
 -   A unique, meaningful name such as `Coupa-Sales-Shared`. If a configuration with the same name exists, AutoSync displays an `Asset conflict error message`.
 -   **Account Properties**:
