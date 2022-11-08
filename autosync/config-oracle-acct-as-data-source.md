@@ -10,7 +10,7 @@ Create a new connection configuration or select from saved configurations. When 
 
 Create a new connection configuration for Oracle by entering the following:
 
--   A unique, meaningful name such as `S3-Integration`. If a configuration with the same name exists, AutoSync displays an `Asset conflict error message`.
+-   A unique, meaningful name such as `Oracle-Sales-Admin`. If a configuration with the same name exists, AutoSync displays an `Asset conflict error message`.
 -   **Account Properties**:
     -   **Hostname**: The hostname of the database. For example, `oracleaccount.dfctruwzzvnq.us-west-2.rds.amzaws.com`.
     -   **Port Number**: The port number of the database server. Default value: `1521`

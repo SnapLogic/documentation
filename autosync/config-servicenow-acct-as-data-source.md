@@ -10,7 +10,7 @@ Create a new connection configuration or select from saved configurations. When 
 
 Create a new connection configuration for ServiceNow by entering the following:
 
--   A unique, meaningful name such as `S3-Integration`. If a configuration with the same name exists, AutoSync displays an `Asset conflict error message`.
+-   A unique, meaningful name such as `ServiceNow-IT-Admin`. If a configuration with the same name exists, AutoSync displays an `Asset conflict error message`.
 -   **Account Properties**:
     -   **Username**: A username for an account with the correct permissions for AutoSync to load and synchronize data.
     -   **Password**: The password for the account. Note that multiple retries with an invalid password can cause your account to be locked.
