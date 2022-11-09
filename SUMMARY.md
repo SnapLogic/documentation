@@ -76,6 +76,10 @@
   * [Overview](current-subhajit-november/pattern\_34-4-4/overview.md)
   * [Requirements](current-subhajit-november/pattern\_34-4-4/requirements.md)
   * [Using this Pattern](current-subhajit-november/pattern\_34-4-4/using-this-pattern.md)
+* [Insert Oracle Table Metadata to Avro Format and Kafka Producer](current-subhajit-november/pattern\_34-4-4-1/README.md)
+  * [Overview](current-subhajit-november/pattern\_34-4-4-1/overview.md)
+  * [Requirements](current-subhajit-november/pattern\_34-4-4-1/requirements.md)
+  * [Using this Pattern](current-subhajit-november/pattern\_34-4-4-1/using-this-pattern.md)
 
 ## Completed
 
