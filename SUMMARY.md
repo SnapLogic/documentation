@@ -72,7 +72,7 @@
 
 ## Current Subhajit - November
 
-* [Subscribe to JMS Queue and Insert it into Oracle Table](current-subhajit-november/pattern\_34-4-4/README.md)
+* [Subscribe to JMS Queue and Insert it into the Oracle Table](current-subhajit-november/pattern\_34-4-4/README.md)
   * [Overview](current-subhajit-november/pattern\_34-4-4/overview.md)
   * [Requirements](current-subhajit-november/pattern\_34-4-4/requirements.md)
   * [Using this Pattern](current-subhajit-november/pattern\_34-4-4/using-this-pattern.md)
