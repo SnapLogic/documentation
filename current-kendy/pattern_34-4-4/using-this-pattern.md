@@ -9,11 +9,6 @@
 5. Open each Snap and configure the **Settings** per your requirements.
 6. Save the Snap/Pipeline, validate, and run it.
 
-**Important Information about this Pattern Pipeline:**
+**Important Information about this Pattern**
 
-The Pipeline is located in ConnectFasterInc/PatternsCatalog2021/APIUnitTest/APIUnitTest.
-
-The user must specify 2 Pipeline parameters:&#x20;
-
-* TestSubjectPipeline - Path to the Pipeline to test.
-* SortKey - a field that exists in the output which can be used to sort the streams.
+Create a Workday Account that has access to the Workday tenant which hosts the employee data you want to extract. An optional parameter (pay\_date) can be used to extract data for a previous pay period.

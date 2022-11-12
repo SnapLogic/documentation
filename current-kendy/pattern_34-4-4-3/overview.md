@@ -1,6 +1,4 @@
 # Overview
 
-Use this Pipeline Pattern to consume messages from a RabbitMQ queue and write them to a MySQL Database. The Pipeline acknowledges or rejects the message based on the delivery.
-
-
+Use this Pipeline Pattern to monitor and manage integrations using the Dashboard tab. This Pattern allows you to export performance and health data to a third-party monitoring tool or your data warehouse.
 

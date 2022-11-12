@@ -1,6 +1,6 @@
 # Overview
 
-Use this Pipeline Pattern to test a specific Pipeline by comparing the actual output with the expected output. Any differences will be flagged as a failed test. The user must specify the Pipeline to test and provide an expected output JSON file in the Pipeline parameters.
+Use this Pipeline Pattern to extract the 401k contributions of employees to an output file. The criteria for the Workday request is configured to return all employee data up to the most recent pay period as of the Pipeline execution time. This Pattern can be used as a foundation for retirement vendor submissions or retirement planning analysis.
 
 
 

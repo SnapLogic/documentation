@@ -1,2 +1,2 @@
-# Workday to Oracle and BambooHR
+# Insert Oracle Table Metadata into Avro Format and Kafka Producer
 

@@ -1,8 +1,6 @@
 # Overview
 
-Use this Pipeline Pattern to generate a Google Sheet containing key information relating to all Pipelines within a customer's organization. This allows customers to maintain both a consolidated and up-to-date view of all Pipelines within a specific organization alongside its last run status and other important metadata.&#x20;
-
-This Pipeline would need to be scheduled to run on a set cadence. The Pattern could be further adapted to write the output to an alternative destination or even consumed externally as an API.
+Use this Pipeline Pattern to return the current, previous, and next fiscal period data using a Pipeline parameter for the input date as search criteria. The Pipeline uses an input file to store the list of fiscal periods but could easily be extended to use a database table or other input sources. It can also be configured to use an input document rather than Pipeline parameter if called from a parent Pipeline using the Pipeline Execute Snap.
 
 
 

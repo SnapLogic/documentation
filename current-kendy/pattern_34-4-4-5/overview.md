@@ -1,6 +1,6 @@
 # Overview
 
-Use this Pipeline Pattern to subscribe to Salesforce changes and then publish them to JMS Queue.
+Use this Pipeline Pattern to export a specific list of Pipelines or all Pipelines in a project into a zip file for export and backup.
 
 
 

@@ -1,4 +1,4 @@
 # Overview
 
-Use this Pipeline Pattern to replicate data from Salesforce to multiple database types such as MongoDB, Oracle, and SQL Server.&#x20;
+Use this Pipeline Pattern to subscribe to JMS Queue and insert it into the Oracle table.&#x20;
 
