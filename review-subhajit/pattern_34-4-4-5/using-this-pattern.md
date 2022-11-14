@@ -13,7 +13,7 @@
 
 * The Microsoft Dynamics 365 Finance and Operations application OData REST API is used for the insert operation.&#x20;
 * The Salesforce Subscriber Snap is used to capture account creations using the platform event in Salesforce.
-* A customer account identifier value is generated in SnapLogic and sent to Microsoft Dynamics 365 Finance and Operations. After it is successfully inserted into Dynamics 365 Finance and Operations, it is sent back to Salesforce. This will synchronize the record between Dynamics F\&O and Salesforce.
+* A customer account identifier value is generated within SnapLogic and sent to Microsoft Dynamics 365 Finance and Operations. Once it is successfully inserted into Dynamics 365 Finance and Operations, it is sent back to Salesforce. This will sync the record between Dynamics F\&O and Salesforce.
 * To prevent duplicates, you can modify the Pipeline to either:&#x20;
   * Filter out Salesforce records that have the `ERP_Customer_Id__c` custom field populated because if that field is populated, it means that the record was already sent to Dynamics 365 Finance and Operations.&#x20;
-  * Use a Router Snap to update the record in Microsoft Dynamics 365 Finance and Operations if the `ERP_Customer_Id__c` custom field is already populated in Salesforce. In that case, you can use the Microsoft Dynamics 365 Finance and Operations Update Custom Snap.
+  * Use a Router Snap to update the record in Microsoft Dynamics 365 Finance and Operations if the `ERP_Customer_Id__c` custom field is already populated in Salesforce. In that case, you can use the Microsoft Dynamics 365 Finance and Operations Update custom Snap.
