@@ -74,7 +74,7 @@
   * [Overview](review-subhajit/pattern\_34-4-4-6/overview.md)
   * [Requirements](review-subhajit/pattern\_34-4-4-6/requirements.md)
   * [Using this Pattern](review-subhajit/pattern\_34-4-4-6/using-this-pattern.md)
-* [Sync Master Data on Workers from Sopra HR to Cornerstone](review-subhajit/pattern\_34-4-4-7/README.md)
+* [Synchronize Master Data on Workers from Sopra HR to Cornerstone](review-subhajit/pattern\_34-4-4-7/README.md)
   * [Overview](review-subhajit/pattern\_34-4-4-7/overview.md)
   * [Requirements](review-subhajit/pattern\_34-4-4-7/requirements.md)
   * [Using this Pattern](review-subhajit/pattern\_34-4-4-7/using-this-pattern.md)

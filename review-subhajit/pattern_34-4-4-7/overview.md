@@ -1,6 +1,6 @@
 # Overview
 
-Use this Pipeline Pattern to Sync Master Data on workers from Sopra HR to Cornerstone.
+Use this Pipeline Pattern to synchronize master data on workers from Sopra HR to Cornerstone.
 
 
 
