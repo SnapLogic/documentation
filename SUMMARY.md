@@ -78,7 +78,7 @@
   * [Overview](review-subhajit/pattern\_34-4-4-7/overview.md)
   * [Requirements](review-subhajit/pattern\_34-4-4-7/requirements.md)
   * [Using this Pattern](review-subhajit/pattern\_34-4-4-7/using-this-pattern.md)
-* [Use LDAP search to Get User Data](review-subhajit/pattern\_34-4-4-8/README.md)
+* [Use LDAP Search to Get User Data](review-subhajit/pattern\_34-4-4-8/README.md)
   * [Overview](review-subhajit/pattern\_34-4-4-8/overview.md)
   * [Requirements](review-subhajit/pattern\_34-4-4-8/requirements.md)
   * [Using this Pattern](review-subhajit/pattern\_34-4-4-8/using-this-pattern.md)
