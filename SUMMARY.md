@@ -51,6 +51,10 @@
   * [Overview](current-subhajit/pattern\_34-4-4-3/overview.md)
   * [Requirements](current-subhajit/pattern\_34-4-4-3/requirements.md)
   * [Using this Pattern](current-subhajit/pattern\_34-4-4-3/using-this-pattern.md)
+* [Radiant Systems Point of Sale to Microsoft Azure SQL Server](current-subhajit/pattern\_34-4-4-4/README.md)
+  * [Overview](current-subhajit/pattern\_34-4-4-4/overview.md)
+  * [Requirements](current-subhajit/pattern\_34-4-4-4/requirements.md)
+  * [Using this Pattern](current-subhajit/pattern\_34-4-4-4/using-this-pattern.md)
 
 ## Review Subhajit
 
