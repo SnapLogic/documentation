@@ -63,6 +63,10 @@
   * [Overview](current-subhajit/pattern\_34-4-4-6/overview.md)
   * [Requirements](current-subhajit/pattern\_34-4-4-6/requirements.md)
   * [Using this Pattern](current-subhajit/pattern\_34-4-4-6/using-this-pattern.md)
+* [SAP to ServiceNow](current-subhajit/pattern\_34-4-4-7/README.md)
+  * [Overview](current-subhajit/pattern\_34-4-4-7/overview.md)
+  * [Requirements](current-subhajit/pattern\_34-4-4-7/requirements.md)
+  * [Using this Pattern](current-subhajit/pattern\_34-4-4-7/using-this-pattern.md)
 
 ## Review Subhajit
 
