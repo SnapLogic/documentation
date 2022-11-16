@@ -59,6 +59,10 @@
   * [Overview](current-subhajit/pattern\_34-4-4-5/overview.md)
   * [Requirements](current-subhajit/pattern\_34-4-4-5/requirements.md)
   * [Using this Pattern](current-subhajit/pattern\_34-4-4-5/using-this-pattern.md)
+* [Salesforce to Multiple Endpoints](current-subhajit/pattern\_34-4-4-6/README.md)
+  * [Overview](current-subhajit/pattern\_34-4-4-6/overview.md)
+  * [Requirements](current-subhajit/pattern\_34-4-4-6/requirements.md)
+  * [Using this Pattern](current-subhajit/pattern\_34-4-4-6/using-this-pattern.md)
 
 ## Review Subhajit
 
