@@ -71,6 +71,10 @@
   * [Overview](current-subhajit/pattern\_34-4-4-8/overview.md)
   * [Requirements](current-subhajit/pattern\_34-4-4-8/requirements.md)
   * [Using this Pattern](current-subhajit/pattern\_34-4-4-8/using-this-pattern.md)
+* [Extract Employee Contact Information from Workday](<current-subhajit/pattern\_34-4-4-9/README (1).md>)
+  * [Overview](<current-subhajit/pattern\_34-4-4-9/overview (1).md>)
+  * [Requirements](<current-subhajit/pattern\_34-4-4-9/requirements (1).md>)
+  * [Using this Pattern](<current-subhajit/pattern\_34-4-4-9/using-this-pattern (1).md>)
 
 ## Review Subhajit
 
