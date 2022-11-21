@@ -1,2 +1,2 @@
-# Insert Oracle Table Metadata into Apache Avro Format and Apache Kafka Producer
+# Insert Oracle Table Metadata into Avro Format and Kafka Producer
 

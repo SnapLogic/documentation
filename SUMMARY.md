@@ -45,7 +45,7 @@
   * [Overview](current-subhajit/pattern\_34-4-4-8/overview.md)
   * [Requirements](current-subhajit/pattern\_34-4-4-8/requirements.md)
   * [Using this Pattern](current-subhajit/pattern\_34-4-4-8/using-this-pattern.md)
-* [SAP to ServiceNow](current-subhajit/pattern\_34-4-4-7/README.md)
+* [Transfer Data from SAP to ServiceNow](current-subhajit/pattern\_34-4-4-7/README.md)
   * [Overview](current-subhajit/pattern\_34-4-4-7/overview.md)
   * [Requirements](current-subhajit/pattern\_34-4-4-7/requirements.md)
   * [Using this Pattern](current-subhajit/pattern\_34-4-4-7/using-this-pattern.md)
