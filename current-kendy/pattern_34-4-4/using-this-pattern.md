@@ -11,4 +11,4 @@
 
 **Important Information about this Pattern**
 
-Create a Workday Account that has access to the Workday tenant which hosts the employee data you want to extract. An optional parameter (pay\_date) can be used to extract data for a previous pay period.
+Create a Workday Account that has access to the Workday tenant which hosts the employee data you want to extract. An optional parameter (pay\_date) can be used to extract data for a past pay period.

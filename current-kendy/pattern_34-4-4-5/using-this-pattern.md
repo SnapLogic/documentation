@@ -11,7 +11,7 @@
 
 **Important Information about this Pattern**
 
-Configure the Pipeline(s) to be exported into a file using the following Pipeline parameters:
+Configure the Pipelines to be exported to a file using the following Pipeline parameters:
 
 * org
 * project space

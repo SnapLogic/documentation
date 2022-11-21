@@ -2,7 +2,7 @@
 
 ## Current Kendy
 
-* [Workday Extract Employee Data](README.md)
+* [Workday Extract Employee 401K Contributions](README.md)
   * [Overview](current-kendy/pattern\_34-4-4/overview.md)
   * [Requirements](current-kendy/pattern\_34-4-4/requirements.md)
   * [Using this Pattern](current-kendy/pattern\_34-4-4/using-this-pattern.md)

@@ -11,4 +11,4 @@
 
 **Important Information about this Pattern**
 
-Create a Workday Dynamic Account with a username that has access to the Workday tenant that hosts the employee data you want to retrieve.&#x20;
+Create a Workday Dynamic Account with a username that has access to the Workday tenant that hosts the employee data you wish to retrieve.&#x20;

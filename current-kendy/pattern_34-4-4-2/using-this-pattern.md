@@ -11,4 +11,4 @@
 
 **Important Information about this Pattern**
 
-This Pattern can be used as a child Pipeline through the Pipeline Execute Snap. If there are multiple records, make sure to configure the Reuse executions parameter in the Pipeline Execute Snap and pass $input\_date as a document, and make sure to remove the Map the input date and Mapper Snaps.
+This Pattern can be used as a child Pipeline through the Pipeline Execute Snap. If there are multiple records, make sure to configure the Reuse executions parameter in the Pipeline Execute Snap and pass $input\_date as a document, and also make sure to remove the Map the input date and Mapper Snaps.
