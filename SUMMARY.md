@@ -53,7 +53,7 @@
   * [Overview](review-subhajit/pattern\_34-4-4-3/overview.md)
   * [Requirements](review-subhajit/pattern\_34-4-4-3/requirements.md)
   * [Using this Pattern](review-subhajit/pattern\_34-4-4-3/using-this-pattern.md)
-* [Relational like Data Pivot](review-subhajit/pattern\_34-4-4-4/README.md)
+* [Relational-like Data Pivot](review-subhajit/pattern\_34-4-4-4/README.md)
   * [Overview](review-subhajit/pattern\_34-4-4-4/overview.md)
   * [Requirements](review-subhajit/pattern\_34-4-4-4/requirements.md)
   * [Using this Pattern](review-subhajit/pattern\_34-4-4-4/using-this-pattern.md)

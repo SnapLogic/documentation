@@ -1,2 +1,2 @@
-# Use LDAP search to Get User Data
+# Insert Oracle Table Metadata into Avro Format and Kafka Producer
 
