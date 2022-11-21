@@ -1,6 +1,6 @@
 # Overview
 
-Use this Pipeline Pattern to test if your Cloudplex or Groundplex can access a database on a remote server by pinging the remote host and port.&#x20;
+Use this Pipeline Pattern to synchronize master data on jobs from Sopra HR to Cornerstone.
 
-This Pattern Pipeline sets `$post` to 1521 in the Mapper Snap and `$tgt_host` to the host Network Access Protection (NAP) or IP address to test if Oracle can be accessed on a specific server.&#x20;
+
 

@@ -9,4 +9,6 @@
 5. Open each Snap and configure the **Settings** per your requirements.
 6. Save the Snap/Pipeline, validate, and run it.
 
-****
+**Important Information about this Pattern**
+
+Create a Workday Dynamic Account with a username that has access to the Workday tenant that hosts the employee data you wish to retrieve.&#x20;
