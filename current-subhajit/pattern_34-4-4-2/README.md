@@ -1,2 +1,0 @@
-# Salesforce Cases Microservice API
-

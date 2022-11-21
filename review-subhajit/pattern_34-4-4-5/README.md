@@ -1,2 +1,2 @@
-# Salesforce to Microsoft Dynamics 365 Finance and Operations
+# Radiant Systems Point of Sale to Microsoft Azure SQL Server
 
