@@ -1,9 +1,11 @@
 # In-App
 
 -   [Welcome to AutoSync!](autosync/autosync-welcome.md)
+-   [Configure an Azure Synapse Analytics connection](autosync/config-azure-synapse-acct-as-data-destination.md)
 -   [Configure a Coupa connection](autosync/config-coupa-acct-as-data-source.md)
 -   [Uploading CSV files as a source](autosync/config-csv-as-data-source.md)
 -   [Configure a Databricks connection](autosync/config-databricks-as-data-destination.md)
+-   [Configure a Microsoft Dynamics 365 connection](autosync/config-dynamics-365-acct-as-data-source.md)
 -   [Configure a connection to Gainsight PX](autosync/config-gainsightpx-as-data-source.md)
 -   [Configure Oracle connection](autosync/config-oracle-acct-as-data-source.md)
 -   [Configure a Microsoft SQL Server connection](autosync/config-sql-server-acct-as-data-source.md)
