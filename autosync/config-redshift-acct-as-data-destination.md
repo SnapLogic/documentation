@@ -1,13 +1,5 @@
 # Configure a Redshift connection
 
-Create a new connection configuration or select from saved configurations. When available, the list of saved configurations includes:
-
--   Connection configurations that you created in AutoSync.
--   Accounts that you or an Org admin created in the IIP, including nondynamic Accounts saved in:
-    -   The global `shared` folder
-    -   The `shared` folder, in the `SL-AutoSyncProjectSpace`
-    -   Your AutoSync project, `~User~<username>_<snaplogic_org>`, in the `SL-AutoSync-ProjectSpace`
-
 Before configuring Redshift as a destination in AutoSync, you must allow inbound access from SnapLogic IIP addresses. Refer to [Allowing AutoSync to Access Redshift](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/2610168222/Configuring+a+Redshift+account+as+a+data+destination+in+AutoSync) for instructions.
 
 To create a new Redshift connection configuration, enter the following:

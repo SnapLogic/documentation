@@ -1,13 +1,5 @@
 # Configure an SAP Data Warehouse Cloud \(DWC\) connection
 
-Create a new connection configuration or select from saved configurations. When available, the list of saved configurations includes:
-
--   Connection configurations that you created in AutoSync.
--   Accounts that you or an Org admin created in the IIP, including nondynamic Accounts saved in:
-    -   The global `shared` folder
-    -   The `shared` folder, in the `SL-AutoSyncProjectSpace`
-    -   Your AutoSync project, `~User~<username>_<snaplogic_org>`, in the `SL-AutoSync-ProjectSpace`
-
 Before creating a connection configuration for SAP DWC you must add [SnapLogic IP addresses](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/1449033775/) to the DWC allowlist. The entries must be approved by SAP before AutoSync can connect to the SAP DWC. For more information about adding IP addresses to the allowlist, refer to the [SAP Documentation](https://help.sap.com/viewer/9f804b8efa8043539289f42f372c4862/cloud/en-US/a3c214514ef94e899459f68f4c1e2a23.html).
 
 To create a new SAP DWC connection configuration, enter the following:
