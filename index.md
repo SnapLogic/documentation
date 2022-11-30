@@ -17,5 +17,5 @@
 -   [Configure a Redshift connection](autosync/config-redshift-acct-as-data-destination.md)
 -   [Configure an SAP Data Warehouse Cloud \(DWC\) connection](autosync/config-sap-dwc-acct-as-data-destination.md)
 -   [Configure a Snowflake connection](autosync/config-snowflake-acct-as-data-destination.md)
--   [autosync/config-zendesk-as-data-source.dita](autosync/config-zendesk-as-data-source.md)
+-   [Configure a connection to Zendesk](autosync/config-zendesk-as-data-source.md)
 
