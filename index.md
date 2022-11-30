@@ -6,7 +6,7 @@
 -   [Uploading CSV files as a source](autosync/config-csv-as-data-source.md)
 -   [Configure a Databricks connection](autosync/config-databricks-as-data-destination.md)
 -   [Configure a Microsoft Dynamics 365 connection](autosync/config-dynamics-365-acct-as-data-source.md)
--   [autosync/config-gainsightpx-as-data-source.dita](autosync/config-gainsightpx-as-data-source.md)
+-   [Configure a connection to Gainsight PX](autosync/config-gainsightpx-as-data-source.md)
 -   [Configure Oracle connection](autosync/config-oracle-acct-as-data-source.md)
 -   [Configure a Microsoft SQL Server connection](autosync/config-sql-server-acct-as-data-source.md)
 -   [Configure Salesforce connection](autosync/config-salesforce-acct-as-data-source.md)
