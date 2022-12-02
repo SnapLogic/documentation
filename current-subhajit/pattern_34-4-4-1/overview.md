@@ -1,4 +1,4 @@
 # Overview
 
-Use this Pipeline Pattern to insert the Oracle Table Metadata to the Avro Format and Kafka Producer.
+Use this Pipeline Pattern to insert the Oracle Table Metadata into the Apache Avro Format and Apache Kafka Producer.
 
