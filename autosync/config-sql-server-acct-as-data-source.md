@@ -4,7 +4,7 @@ Create a new connection configuration for SQL Server by entering the following:
 
 -   A unique, meaningful name such as `SQL-Server-Sales`. If a configuration with the same name exists, AutoSync displays an `Asset conflict error message`.
 -   **Account Properties**:
-    -   **Hostname**: The hostname of the database. You can use either an IP \(`14.8.276.318`\), or URL \(`sqlservertest.cwstru.us-west-1.rds.amzaws.com`\) for hostname.
+    -   **Hostname**: The hostname of the database. You can use either an IP address \(`14.8.276.318`\), or a URL \(`sqlservertest.cwstru.us-west-1.rds.amzaws.com`\) for the hostname.
     -   **Port Number**: The port number of the database server.
     -   **Database name**: The name of the source database.
     -   **Username**: A username for an account with the correct permissions for AutoSync to load and synchronize data.
