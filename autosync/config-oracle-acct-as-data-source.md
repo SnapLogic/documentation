@@ -1,4 +1,4 @@
-# Configure an Oracle connection
+# Configure an Oracle Cloud connection
 
 Create a new connection configuration for Oracle by entering the following:
 
