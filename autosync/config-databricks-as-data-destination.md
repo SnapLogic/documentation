@@ -1,6 +1,6 @@
 # Configure a Databricks connection
 
-To configure a connection to Databricks supply both Databricks credentials and credentials for the cloud account that is providing compute and storage resources. To configure a new connection:
+For a Databricks connection, you can optionally supply credentials for a storage resource account. To configure a new connection:
 
 -   Provide a unique, meaningful name such as `Sales-Shared-Databricks.` If a configuration with the same name exists, AutoSync displays an `Asset conflict error message`.
 -   **Account Properties:**
@@ -8,7 +8,7 @@ To configure a connection to Databricks supply both Databricks credentials and c
     -   **Use Token Based Authentication**: Select to have AutoSync use a token to authenticate with Databricks.
     -   **Token**: The token value to authenticate with Databricks.
     -   **Database name**: The Databricks database name.
-    -   **Source/Target Location**: Select and configure one of the following:
+    -   **Source/Target Location**: Defaults to **None**. For staging storage, you can select and configure one of the following:
         -   **Amazon S3**:
             -   **S3 Bucket**: The S3 bucket for staging data.
             -   **S3 Folder**: The folder to use for staging data.
