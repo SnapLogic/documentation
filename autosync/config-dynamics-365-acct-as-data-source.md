@@ -9,15 +9,7 @@ Create a new connection configuration for Dynamics 365 by entering the following
     -   **Client Secret**: The client secret associated with your account, in the following format: `YQlf7Q11HdTTYJZdwpx5VfbvFhHMCpJflBAtJP8m9X4=.`
     -   **Oauth2 Endpoint**: The URL of the authorization endpoint. For example: `https://login.microsoftonline.com/yourcompany.com/oauth2/authorize`.
     -   **Oauth2 Token**: The authorization token. For example: `https://login.microsoftonline.com/yourcompany.com/oauth2/token`.
-    -       -   **Auth endpoint resource**: The URL for OAuth in the form:
-
-        ```
-        https://login.microsoftonline.com/common/oauth2/authorize?resource=[URL of the D365
-              Environment]
-        ```
-
-        . For example, `https://login.microsoftonline.com/common/oauth2/authorize?resource=https://organization.crm.dynamics.com`.
-
+    -   **Auth endpoint resource**: The URL for OAuth in the form: `https://login.microsoftonline.com/common/oauth2/authorize?resource=[URL of the D365Environment]`. For example, `https://login.microsoftonline.com/common/oauth2/authorize?resource=https://organization.crm.dynamics.com`.
 -   **Authorize**: Authorize with your Microsoft account.
 -   **Validate and Save**: After saving and validating, AutoSync adds the configuration to the list of saved connections.
 
