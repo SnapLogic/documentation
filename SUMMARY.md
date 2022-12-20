@@ -41,6 +41,10 @@
   * [Overview](current-subhajit/pattern\_34-4-4-6-1/overview.md)
   * [Requirements](current-subhajit/pattern\_34-4-4-6-1/requirements.md)
   * [Using this Pattern](current-subhajit/pattern\_34-4-4-6-1/using-this-pattern.md)
+* [Load Analytics Data from Purple to Amazon Redshift](current-subhajit/pattern\_34-4-4-6-2/README.md)
+  * [Overview](current-subhajit/pattern\_34-4-4-6-2/overview.md)
+  * [Requirements](current-subhajit/pattern\_34-4-4-6-2/requirements.md)
+  * [Using this Pattern](current-subhajit/pattern\_34-4-4-6-2/using-this-pattern.md)
 
 ## Completed
 
