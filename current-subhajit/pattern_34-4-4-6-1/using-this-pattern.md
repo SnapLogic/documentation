@@ -11,8 +11,8 @@
 
 **Important Information about these Patterns**
 
-* As the OLIS is updated in Salesforce, the SnapLogic Pipeline consumes the platform event and sends that information to Atlas.&#x20;
+* As the Opportunity Line Item Schedule (OLIS) is updated in Salesforce, the SnapLogic Pipeline consumes the platform event and sends that information to Atlas.&#x20;
 * The Pipeline can be in an active state to constantly listen to the platform event.
-* The Atlas is updated in two ways:&#x20;
-  * Via SQL Server to check if an opinion line record exists. If it does, then update the record, or else insert it.&#x20;
-  * Via the Atlas API.
+* Atlas is updated in two ways:&#x20;
+  * Via SQL Server to check if an opinion line record exists. If it does, then update the record, otherwise insert it.&#x20;
+  * Via Atlas API.

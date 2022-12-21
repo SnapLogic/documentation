@@ -33,7 +33,7 @@
 
 ## Current Subhajit
 
-* [Synchronize Account Events from Salesforce to Azure SQL Database](current-subhajit/pattern\_34-4-4-6/README.md)
+* [Synchronize Account Events from Salesforce to Microsoft Azure SQL Database](current-subhajit/pattern\_34-4-4-6/README.md)
   * [Overview](current-subhajit/pattern\_34-4-4-6/overview.md)
   * [Requirements](current-subhajit/pattern\_34-4-4-6/requirements.md)
   * [Using this Pattern](current-subhajit/pattern\_34-4-4-6/using-this-pattern.md)
