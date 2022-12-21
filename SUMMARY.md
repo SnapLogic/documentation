@@ -33,19 +33,6 @@
 
 ## Current Subhajit
 
-* [Synchronize Account Events from Salesforce to Microsoft Azure SQL Database](current-subhajit/pattern\_34-4-4-6/README.md)
-  * [Overview](current-subhajit/pattern\_34-4-4-6/overview.md)
-  * [Requirements](current-subhajit/pattern\_34-4-4-6/requirements.md)
-  * [Using this Pattern](current-subhajit/pattern\_34-4-4-6/using-this-pattern.md)
-* [Salesforce to John Galt Atlas](current-subhajit/pattern\_34-4-4-6-1/README.md)
-  * [Overview](current-subhajit/pattern\_34-4-4-6-1/overview.md)
-  * [Requirements](current-subhajit/pattern\_34-4-4-6-1/requirements.md)
-  * [Using this Pattern](current-subhajit/pattern\_34-4-4-6-1/using-this-pattern.md)
-* [Load Analytics Data from Purple to Amazon Redshift](current-subhajit/pattern\_34-4-4-6-2/README.md)
-  * [Overview](current-subhajit/pattern\_34-4-4-6-2/overview.md)
-  * [Requirements](current-subhajit/pattern\_34-4-4-6-2/requirements.md)
-  * [Using this Pattern](current-subhajit/pattern\_34-4-4-6-2/using-this-pattern.md)
-
 ## Completed
 
 * [Patterns (Old)](<README (1).md>)
@@ -609,3 +596,15 @@
   * [Overview](current-subhajit/pattern\_34-4-4/overview.md)
   * [Requirements](current-subhajit/pattern\_34-4-4/requirements.md)
   * [Using this Pattern](current-subhajit/pattern\_34-4-4/using-this-pattern.md)
+* [Load Analytics Data from Purple to Amazon Redshift](completed/pattern\_34-4-4-6-1/README.md)
+  * [Overview](completed/pattern\_34-4-4-6-1/overview.md)
+  * [Requirements](completed/pattern\_34-4-4-6-1/requirements.md)
+  * [Using this Pattern](completed/pattern\_34-4-4-6-1/using-this-pattern.md)
+* [Salesforce to John Galt Atlas](completed/pattern\_34-4-4-6-2/README.md)
+  * [Overview](completed/pattern\_34-4-4-6-2/overview.md)
+  * [Requirements](completed/pattern\_34-4-4-6-2/requirements.md)
+  * [Using this Pattern](completed/pattern\_34-4-4-6-2/using-this-pattern.md)
+* [Synchronize Account Events from Salesforce to Microsoft Azure SQL Database](completed/pattern\_34-4-4-6-3/README.md)
+  * [Overview](completed/pattern\_34-4-4-6-3/overview.md)
+  * [Requirements](completed/pattern\_34-4-4-6-3/requirements.md)
+  * [Using this Pattern](completed/pattern\_34-4-4-6-3/using-this-pattern.md)
