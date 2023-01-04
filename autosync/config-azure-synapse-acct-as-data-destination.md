@@ -11,8 +11,8 @@ Create a new connection configuration for Azure Synapse Analytics by entering th
     -   **Password**: The password for the account. Note that multiple retries with an invalid password can cause your account to be locked.
     -   **External Location**: The Azure data storage location, either **Blob Storage** or **Azure Data Lake Gen2**.
     -   **External Storage Endpoint**: The storage URL, in one of the following formats:
-        -   **Blob storage**: `.blob.core.windows.net`
-        -   **Data Lake Gen2**: `.dfs.core.windows.net`
+        -   **Blob storage**: `[https://%3Caccount-name%3E.blob.core.windows.net](https://%3Caccount-name%3E.blob.core.windows.net).`
+        -   **Data Lake Gen2**: `[https://%3Caccountname%3E.dfs.core.windows.net](https://%3Caccountname%3E.dfs.core.windows.net).`
     -   **Storage Account**: The Azure storage account name.
     -   **Azure Container**: The container name.
     -   **Azure Folder**: The folder name.
