@@ -9,7 +9,7 @@ Create a new connection configuration for Oracle by entering the following:
     -   **Database name**: The name of the source database. For example, `MyDB`.
     -   **Username**: A username for an account with the correct permissions for AutoSync to load and synchronize data.
     -   **Password**: The password for the account. Note that multiple retries with an invalid password can cause your account to be locked.
-    -   **Database specifier type**: the format of the JDBC URL. AutoSync formats the connection parameters into one of the following options. Default value: `Service name`
+    -   **Database specifier type**: The format of the JDBC URL. AutoSync formats the connection parameters into one of the following options. Default value: `Service name`
 
         -   **Service name**: Uses the `jdbc:oracle:thin@//HOST:PORT/DBNAME` format.
         -   **SID**: Uses the `jdbc:oracle:thin@HOST:PORT:DBNAME` format.
