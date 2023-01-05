@@ -7,5 +7,5 @@ Upload CSV or JSON files using SFTP \(Secure File Transfer Protocol\). Create a 
     -   **Username**: A username for an account with the correct permissions for AutoSync to load and synchronize data.
     -   **Password**: The password for the account. Note that multiple retries with an invalid password can cause your account to be locked.
 
-After you save and AutoSync validates the account, you will select the type of file to load and provide the hostname, port number, and optionally, directory path.
+After you save and AutoSync validates the account, you will select the type of file to load and provide the hostname, port number, and optionally, directory path. Please note that data loaded from SFTP is converted to strings in the destination.
 
