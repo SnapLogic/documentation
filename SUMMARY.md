@@ -33,6 +33,11 @@
 
 ## Current Subhajit
 
+* [Load Table Data from SQL Server to Microsoft Azure SQL](current-subhajit/readme/README.md)
+  * [Overview](current-subhajit/readme/overview.md)
+  * [Requirements](current-subhajit/readme/requirements.md)
+  * [Using this Pattern](current-subhajit/readme/using-this-pattern.md)
+
 ## Completed
 
 * [Patterns (Old)](<README (1).md>)
