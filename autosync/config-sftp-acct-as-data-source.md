@@ -1,6 +1,6 @@
 # Configure an SFTP connection
 
-Upload CSV or JSON files using SFTP \(Secure File Transfer Protocol\). Create a new connection configuration for SFTP by entering the following:
+Upload CSV or JSON files using SFTP \(Secure File Transfer Protocol\). Please note that data loaded from SFTP is converted to strings in the destination. Create a new connection configuration for SFTP by entering the following:
 
 -   A unique, meaningful name such as `SFTP-Marketing-Storage`. If a configuration with the same name exists, AutoSync displays an `Asset conflict error message`.
 -   **Account Properties**:
