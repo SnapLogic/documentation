@@ -3,6 +3,7 @@
 Create a new connection configuration for Salesforce by entering the following:
 
 -   A unique, meaningful name such as `Salesforce-Marketing-Shared`. If a configuration with the same name exists, AutoSync displays an `Asset conflict error message`.
+-   Select **Include deleted records** to have AutoSync track deletions. On the first load, AutoSync adds all previously deleted records to the destination with a value of `True` in the `IsDeleted` column. On synchronization, AutoSync inserts `True` in the `IsDeleted` column for records deleted since the last load.
 -   **Account Properties**:
     -   **Username**: A username for an account with the correct permissions for AutoSync to load and synchronize data. For example, `WIN-USER\slogic`.
     -   **Password**: The password for the account. Note that multiple retries with an invalid password can cause your account to be locked.
