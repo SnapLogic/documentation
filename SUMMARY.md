@@ -37,6 +37,10 @@
   * [Overview](current-subhajit/readme/overview.md)
   * [Requirements](current-subhajit/readme/requirements.md)
   * [Using this Pattern](current-subhajit/readme/using-this-pattern.md)
+* [Upsert Table Data from the Oracle Database to Redshift](current-subhajit/readme-1/README.md)
+  * [Overview](current-subhajit/readme-1/overview.md)
+  * [Requirements](current-subhajit/readme-1/requirements.md)
+  * [Using this Pattern](current-subhajit/readme-1/using-this-pattern.md)
 
 ## Completed
 
