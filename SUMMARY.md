@@ -45,7 +45,7 @@
   * [Overview](current-subhajit/readme-2/overview.md)
   * [Requirements](current-subhajit/readme-2/requirements.md)
   * [Using this Pattern](current-subhajit/readme-2/using-this-pattern.md)
-* [Replicate Contacts from A Salesforce Instance to Another](current-subhajit/readme-3/README.md)
+* [Replicate Contacts Between Two Salesforce Instances](current-subhajit/readme-3/README.md)
   * [Overview](current-subhajit/readme-3/overview.md)
   * [Requirements](current-subhajit/readme-3/requirements.md)
   * [Using this Pattern](current-subhajit/readme-3/using-this-pattern.md)

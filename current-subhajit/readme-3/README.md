@@ -1,2 +1,2 @@
-# Replicate Contacts from A Salesforce Instance to Another
+# Replicate Contacts Between Two Salesforce Instances
 
