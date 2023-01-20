@@ -41,6 +41,10 @@
   * [Overview](current-subhajit/readme-1/overview.md)
   * [Requirements](current-subhajit/readme-1/requirements.md)
   * [Using this Pattern](current-subhajit/readme-1/using-this-pattern.md)
+* [Create Admin Users and Their Default Project in SnapLogic](current-subhajit/readme-2/README.md)
+  * [Overview](current-subhajit/readme-2/overview.md)
+  * [Requirements](current-subhajit/readme-2/requirements.md)
+  * [Using this Pattern](current-subhajit/readme-2/using-this-pattern.md)
 
 ## Completed
 
