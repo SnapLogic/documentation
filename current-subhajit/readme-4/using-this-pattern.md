@@ -9,3 +9,8 @@
 5. Open each Snap and configure the **Settings** per your requirements.
 6. Save the Snap/Pipeline, validate, and run it.
 
+**Important Information about this Pattern**
+
+* While retrieving the data from John Galt Atlas, the Pipeline uses the export custom view in JSON API.
+* After retrieving the data from John Galt Atlas, the integration upserts the forecast data to the Opportunity Line Items in Salesforce using the child Pipeline.&#x20;
+* If the data is not present, the integration creates new Opportunity Line Items in Salesforce using another child pipeline.&#x20;

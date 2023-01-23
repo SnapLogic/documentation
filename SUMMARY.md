@@ -49,6 +49,10 @@
   * [Overview](current-subhajit/readme-3/overview.md)
   * [Requirements](current-subhajit/readme-3/requirements.md)
   * [Using this Pattern](current-subhajit/readme-3/using-this-pattern.md)
+* [John Galt Atlas to Salesforce](current-subhajit/readme-4/README.md)
+  * [Overview](current-subhajit/readme-4/overview.md)
+  * [Requirements](current-subhajit/readme-4/requirements.md)
+  * [Using this Pattern](current-subhajit/readme-4/using-this-pattern.md)
 
 ## Completed
 
