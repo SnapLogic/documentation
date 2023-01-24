@@ -15,7 +15,7 @@
 
 Note: Modify this expression file to correspond with the table and schemas as per your target database.
 
-* The Pipeline obtains the primary key constraints for each target table in Redshift. It constructs an array of documents for up to 10 key columns to determine the unicity of the data while upserting them into Redshift.&#x20;
+* The Pipeline obtains the primary key constraints for each target table in Redshift. It constructs an array of documents for up to 10 key columns to determine the uniqueness of the data when upserting them into Redshift.&#x20;
 * Each document is then passed into the child Pipeline that reads the data from the source Oracle table and then upserts them into Redshift.
 * A Router Snap is used between the Oracle read and Redshift upsert to achieve concurrency for large data volumes.
-* The Pattern Pipeline can also be reused to operate with different source and target databases, such as SQL Server to Google BigQuery.
+* Reuse the Pattern to operate with different source and target databases, such as SQL Server to Google BigQuery.
