@@ -25,6 +25,11 @@
 
 ## Current Subhajit
 
+* [Verify Access to Project Folders in SnapLogic](<current-subhajit/pattern\_34-4-4-4/README (2).md>)
+  * [Overview](<current-subhajit/pattern\_34-4-4-4/overview (2).md>)
+  * [Requirements](<current-subhajit/pattern\_34-4-4-4/requirements (2).md>)
+  * [Using this Pattern](<current-subhajit/pattern\_34-4-4-4/using-this-pattern (2).md>)
+
 ## Completed
 
 * [Patterns (Old)](<README (1).md>)
@@ -616,15 +621,15 @@
   * [Overview](completed/readme-4/overview.md)
   * [Requirements](completed/readme-4/requirements.md)
   * [Using this Pattern](completed/readme-4/using-this-pattern.md)
-* [Load Table Data from SQL Server to Microsoft Azure SQL](completed/readme-5/README.md)
-  * [Overview](completed/readme-5/overview.md)
-  * [Requirements](completed/readme-5/requirements.md)
-  * [Using this Pattern](completed/readme-5/using-this-pattern.md)
-* [Workday Extract Employee Contact Information](completed/pattern\_34-4-4-6-4/README.md)
-  * [Overview](completed/pattern\_34-4-4-6-4/overview.md)
-  * [Requirements](completed/pattern\_34-4-4-6-4/requirements.md)
-  * [Using this Pattern](completed/pattern\_34-4-4-6-4/using-this-pattern.md)
-* [Export Pipelines to Zip File](completed/pattern\_34-4-4-5-1/README.md)
-  * [Overview](completed/pattern\_34-4-4-5-1/overview.md)
-  * [Requirements](completed/pattern\_34-4-4-5-1/requirements.md)
-  * [Using this Pattern](completed/pattern\_34-4-4-5-1/using-this-pattern.md)
+* [Load Table Data from SQL Server to Microsoft Azure SQL](current-subhajit/readme/README.md)
+  * [Overview](current-subhajit/readme/overview.md)
+  * [Requirements](current-subhajit/readme/requirements.md)
+  * [Using this Pattern](current-subhajit/readme/using-this-pattern.md)
+* [Workday Extract Employee Contact Information](current-kendy/pattern\_34-4-4-6/README.md)
+  * [Overview](current-kendy/pattern\_34-4-4-6/overview.md)
+  * [Requirements](current-kendy/pattern\_34-4-4-6/requirements.md)
+  * [Using this Pattern](current-kendy/pattern\_34-4-4-6/using-this-pattern.md)
+* [Export Pipelines to Zip File](current-kendy/pattern\_34-4-4-5/README.md)
+  * [Overview](current-kendy/pattern\_34-4-4-5/overview.md)
+  * [Requirements](current-kendy/pattern\_34-4-4-5/requirements.md)
+  * [Using this Pattern](current-kendy/pattern\_34-4-4-5/using-this-pattern.md)
