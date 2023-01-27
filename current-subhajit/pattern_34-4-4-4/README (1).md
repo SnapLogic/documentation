@@ -1,2 +1,2 @@
-# ServiceNow to Microsoft Dynamics 365
+# Verify Access to Project Folders in SnapLogic
 
