@@ -1,2 +1,2 @@
-# PostGres to PostGress
+# PostGres to PostGres
 

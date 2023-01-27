@@ -33,10 +33,14 @@
   * [Overview](current-subhajit/pattern\_34-4-4-4-1/overview.md)
   * [Requirements](current-subhajit/pattern\_34-4-4-4-1/requirements.md)
   * [Using this Pattern](current-subhajit/pattern\_34-4-4-4-1/using-this-pattern.md)
-* [PostGres to PostGress](current-subhajit/pattern\_34-4-4-4-2/README.md)
+* [PostGres to PostGres](current-subhajit/pattern\_34-4-4-4-2/README.md)
   * [Overview](current-subhajit/pattern\_34-4-4-4-2/overview.md)
   * [Requirements](current-subhajit/pattern\_34-4-4-4-2/requirements.md)
   * [Using this Pattern](current-subhajit/pattern\_34-4-4-4-2/using-this-pattern.md)
+* [Natural Language Processing using TextBlob](current-subhajit/pattern\_34-4-4-4-3/README.md)
+  * [Overview](current-subhajit/pattern\_34-4-4-4-3/overview.md)
+  * [Requirements](current-subhajit/pattern\_34-4-4-4-3/requirements.md)
+  * [Using this Pattern](current-subhajit/pattern\_34-4-4-4-3/using-this-pattern.md)
 
 ## Completed
 
@@ -416,7 +420,7 @@
   * [Salesforce to Microsoft Azure Data Lake Storage](<current-subhajit/pattern\_34-4-4-4/README (1).md>)
     * [Overview](<current-subhajit/pattern\_34-4-4-4/overview (1).md>)
     * [Requirements](<current-subhajit/pattern\_34-4-4-4/requirements (1).md>)
-    * [Using this Pattern](<current-subhajit/pattern\_34-4-4-4/using-this-pattern (1) (1).md>)
+    * [Using this Pattern](<current-subhajit/pattern\_34-4-4-4/using-this-pattern (1).md>)
   * [Update Employee Information from Oracle to Workday](<current-subhajit/pattern\_34-4-4-5/README (1).md>)
     * [Overview](<current-subhajit/pattern\_34-4-4-5/overview (1).md>)
     * [Requirements](<current-subhajit/pattern\_34-4-4-5/requirements (1).md>)
@@ -584,7 +588,7 @@
 * [Quote to Cash from Salesforce to Workday or SAP](<current-subhajit/pattern\_34-4-4-4/README (2).md>)
   * [Overview](<current-subhajit/pattern\_34-4-4-4/overview (2).md>)
   * [Requirements](<current-subhajit/pattern\_34-4-4-4/requirements (2).md>)
-  * [Using this Pattern](<current-subhajit/pattern\_34-4-4-4/using-this-pattern (1).md>)
+  * [Using this Pattern](<current-subhajit/pattern\_34-4-4-4/using-this-pattern (2).md>)
 * [Get the list of Service Accounts in a SnapLogic Org](current-subhajit/pattern\_34-4-4-3/README.md)
   * [Overview](current-subhajit/pattern\_34-4-4-3/overview.md)
   * [Requirements](current-subhajit/pattern\_34-4-4-3/requirements.md)
