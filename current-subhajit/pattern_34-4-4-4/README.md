@@ -1,2 +1,2 @@
-# Quote to Cash from Salesforce to Workday or SAP
+# Verify Access to Project Folders in SnapLogic
 
