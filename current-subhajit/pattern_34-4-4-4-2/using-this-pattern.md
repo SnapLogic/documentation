@@ -9,4 +9,6 @@
 5. Open each Snap and configure the **Settings** per your requirements.
 6. Save the Snap/Pipeline, validate, and run it.
 
-****
+**Important Information about this Pattern**
+
+You can use this Pattern for a full data load by truncating the target table and synchronizing everything from the source table.&#x20;

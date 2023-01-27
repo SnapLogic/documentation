@@ -1,3 +1,3 @@
 # Overview
 
-Use the Pipeline Patterns to execute the quote-to-cash (QTC) process from Salesforce to Workday or SAP.&#x20;
+Use this Pipeline Pattern to select opportunities from Salesforce, match them according to their types, and store them as a CSV file in Microsoft Azure Data Lake Storage.
