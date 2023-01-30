@@ -21,8 +21,8 @@
 **Control Table Attributes:**
 
 * `UID` – Primary key
-* `SOURCE_TYPE` – Type of Source RDBMS, API, Social Media, FTP and others.
-* `TABLE_NAME` – Table name or object name.
+* `SOURCE_TYPE` – Type of Source RDBMS, API, Social Media, FTP and others
+* `TABLE_NAME` – Table name or object name
 * `START_DATE` – Load start time
 * `ENDDATE` – Load end time
 * `SRC_REC_COUNT` – Source record count
