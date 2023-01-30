@@ -28,7 +28,7 @@
 * [Verify Access to Project Folders in SnapLogic](current-subhajit/pattern\_34-4-4-4/README.md)
   * [Overview](current-subhajit/pattern\_34-4-4-4/overview.md)
   * [Requirements](current-subhajit/pattern\_34-4-4-4/requirements.md)
-  * [Using this Pattern](<current-subhajit/pattern\_34-4-4-4/using-this-pattern (2).md>)
+  * [Using this Pattern](current-subhajit/pattern\_34-4-4-4/using-this-pattern.md)
 * [Load Data from NoSQL Database (MongoDB) to AWS S3 Cloud Storage](current-subhajit/pattern\_34-4-4-4-1/README.md)
   * [Overview](current-subhajit/pattern\_34-4-4-4-1/overview.md)
   * [Requirements](current-subhajit/pattern\_34-4-4-4-1/requirements.md)
@@ -49,6 +49,10 @@
   * [Overview](current-subhajit/pattern\_34-4-4-4-5/overview.md)
   * [Requirements](current-subhajit/pattern\_34-4-4-4-5/requirements.md)
   * [Using this Pattern](current-subhajit/pattern\_34-4-4-4-5/using-this-pattern.md)
+* [Handwritten Digit Recognition using Convolutional Neural Networks](current-subhajit/pattern\_34-4-4-4-6/README.md)
+  * [Overview](current-subhajit/pattern\_34-4-4-4-6/overview.md)
+  * [Requirements](current-subhajit/pattern\_34-4-4-4-6/requirements.md)
+  * [Using this Pattern](current-subhajit/pattern\_34-4-4-4-6/using-this-pattern.md)
 
 ## Completed
 
@@ -596,7 +600,7 @@
 * [Quote to Cash from Salesforce to Workday or SAP](<current-subhajit/pattern\_34-4-4-4/README (2).md>)
   * [Overview](<current-subhajit/pattern\_34-4-4-4/overview (2).md>)
   * [Requirements](<current-subhajit/pattern\_34-4-4-4/requirements (2).md>)
-  * [Using this Pattern](current-subhajit/pattern\_34-4-4-4/using-this-pattern.md)
+  * [Using this Pattern](<current-subhajit/pattern\_34-4-4-4/using-this-pattern (2).md>)
 * [Get the list of Service Accounts in a SnapLogic Org](current-subhajit/pattern\_34-4-4-3/README.md)
   * [Overview](current-subhajit/pattern\_34-4-4-3/overview.md)
   * [Requirements](current-subhajit/pattern\_34-4-4-3/requirements.md)
