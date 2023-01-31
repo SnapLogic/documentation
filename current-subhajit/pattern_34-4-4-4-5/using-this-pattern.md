@@ -13,21 +13,21 @@
 
 This Pattern consists of the following Pipelines:
 
-**Migrate Accounts**
+* **Migrate Accounts**
 
 1. The SnapLogic List Snap gathers the list of accounts in the specified `source_path` parameter.&#x20;
 2. The SnapLogic Read Snap reads the incoming `$path` for the accounts.&#x20;
 3. The Mapper Snap maps the target path.
 4. The SnapLogic Create Snap writes the accounts to the target location.
 
-**Migrate Files**
+* **Migrate Files**
 
 1. The SnapLogic List Snap gathers the list of files in the specified `source_path` parameter.
 2. The Mapper Snap maps the source path to a `$source_path` field for use in the SnapLogic Read Snap.&#x20;
 3. The SnapLogic Read Snap reads the incoming `$path` for the files.&#x20;
 4. The SnapLogic Create Snap writes the files to the target location.
 
-**Migrate Pipelines**
+* **Migrate Pipelines**
 
 1. The SnapLogic List Snap gathers the list of Pipelines in the specified `source_path` parameter.&#x20;
 2. The SnapLogic Read Snap reads the incoming `$path` for the Pipelines.&#x20;

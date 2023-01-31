@@ -1,2 +1,2 @@
-# PostGres to PostGres
+# PostgreSQL to PostgreSQL
 

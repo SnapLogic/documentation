@@ -1,6 +1,6 @@
 # Overview
 
-Use this Pipeline Pattern to synchronize updates from a source Postgres table to a target Postgres table.
+Use this Pipeline Pattern to synchronize updates from a source PostgreSQL table to a target PostgreSQL table.
 
-Source changes are detected by running a query based on the timestamp. Once changes have been synchronized to the target, the timestamp is stored. Next time the pipeline runs, any changes after that timestamp are retrieved and synchronized.
+Source changes are detected by running a query based on the time stamp. After changes are synchronized to the target, the time stamp is stored. Next time the Pipeline runs, any changes after that time stamp are retrieved and synchronized.
 
