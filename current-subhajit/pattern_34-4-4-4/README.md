@@ -1,2 +1,2 @@
-# Verify Access to Project Folders in SnapLogic
+# Handwritten Digit Recognition using Convolutional Neural Networks
 
