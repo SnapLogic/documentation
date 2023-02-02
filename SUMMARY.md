@@ -37,6 +37,10 @@
   * [Overview](current-subhajit/pattern\_34-4-4-4-2/overview.md)
   * [Requirements](current-subhajit/pattern\_34-4-4-4-2/requirements.md)
   * [Using this Pattern](current-subhajit/pattern\_34-4-4-4-2/using-this-pattern.md)
+* [Automate Employee Onboarding and Offboarding](current-subhajit/pattern\_34-4-4-4-3/README.md)
+  * [Overview](current-subhajit/pattern\_34-4-4-4-3/overview.md)
+  * [Requirements](current-subhajit/pattern\_34-4-4-4-3/requirements.md)
+  * [Using this Pattern](current-subhajit/pattern\_34-4-4-4-3/using-this-pattern.md)
 
 ## Completed
 
