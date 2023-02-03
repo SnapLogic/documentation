@@ -14,13 +14,13 @@
 This **** Pattern has the following Pipelines**:**&#x20;
 
 * **Create\_or\_Update\_Skilljar\_User.slp**
-  * Use this Pipeline to create or update a user in Skilljar via REST API.&#x20;
-  * Update the parameters for the action you wish to perform. For example, set `empStatus` to `Active` if the user is to be added and made part of the `internal` group.
+  * Use this Pipeline to create or update a user in Skilljar via the REST API.&#x20;
+  * Update the parameters for the action you want to perform. For example, set `empStatus` to `Active` if the user is to be added and made part of the `internal` group.
   * Add the users to the specific group by updating the value of `groupName` in the Snap labeled as Filter Group.
 * **Workday Event Based Integration.slp**
-  * Use this Pipeline to determine which child Pipeline to be triggered when a hire or termination event is created in Workday.&#x20;
+  * Use this Pipeline to determine which child Pipeline is triggered when a hire or termination event is created in Workday.&#x20;
 * **Employee Journey-Onboarding-AD-SNOW-SF.slp**
-  * This Pipeline is triggered when a user is onboarded and added in Workday. &#x20;
+  * This Pipeline is triggered when a user is onboarded and added to Workday. &#x20;
 * **Employee Journey-Offboarding-AD-SNOW-SF.slp**
   * This Pipeline is triggered when a user is offboarded and removed from Workday.
 
