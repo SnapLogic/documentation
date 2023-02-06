@@ -37,10 +37,14 @@
   * [Overview](<current-subhajit/pattern\_34-4-4-4-2/overview (1).md>)
   * [Requirements](<current-subhajit/pattern\_34-4-4-4-2/requirements (1).md>)
   * [Using this Pattern](current-subhajit/pattern\_34-4-4-4-2/using-this-pattern.md)
-* [Collecting Error Data](<current-subhajit/pattern\_34-4-4-4-3/README (1).md>)
+* [Collect Error Data](<current-subhajit/pattern\_34-4-4-4-3/README (1).md>)
   * [Overview](<current-subhajit/pattern\_34-4-4-4-3/overview (1).md>)
   * [Requirements](current-subhajit/pattern\_34-4-4-4-3/requirements.md)
   * [Using this Pattern](current-subhajit/pattern\_34-4-4-4-3/using-this-pattern.md)
+* [Monitor Errors](<current-subhajit/pattern\_34-4-4-4-4/README (1).md>)
+  * [Overview](<current-subhajit/pattern\_34-4-4-4-4/overview (1).md>)
+  * [Requirements](current-subhajit/pattern\_34-4-4-4-4/requirements.md)
+  * [Using this Pattern](<current-subhajit/pattern\_34-4-4-4-4/using-this-pattern (1).md>)
 
 ## Completed
 
@@ -671,7 +675,7 @@
   * [Using this Pattern](completed/pattern\_34-4-4-4-7/using-this-pattern.md)
 * [Automate Employee Onboarding and Offboarding](current-subhajit/pattern\_34-4-4-4-4/README.md)
   * [Overview](current-subhajit/pattern\_34-4-4-4-4/overview.md)
-  * [Requirements](current-subhajit/pattern\_34-4-4-4-4/requirements.md)
+  * [Requirements](<current-subhajit/pattern\_34-4-4-4-4/requirements (1).md>)
   * [Using this Pattern](current-subhajit/pattern\_34-4-4-4-4/using-this-pattern.md)
 * [Managing Employee Data using the Box Folder Management](current-subhajit/pattern\_34-4-4-4-3/README.md)
   * [Overview](current-subhajit/pattern\_34-4-4-4-3/overview.md)

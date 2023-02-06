@@ -11,4 +11,10 @@
 
 **Important Information about this Pattern**
 
-Parameters are configured for the parent and child Pipelines. If the parameter used in the Filter Snap is set to _`logEnabled=True`_, the error data is logged, but if the parameter is _`logEnabled=false`_, the error data is not processed and logged.&#x20;
+The following metrics are monitored and notified via email:
+
+1. Pipeline executions that have error Pipelines with error documents
+2. Executions that have been running for more than 2 hours
+3. Nodes with less than 24GB disk space remaining
+4. Missing nodes
+5. Failed executions
