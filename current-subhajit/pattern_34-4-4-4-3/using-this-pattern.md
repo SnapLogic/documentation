@@ -11,4 +11,4 @@
 
 **Important Information about this Pattern**
 
-Parameters are configured for the parent and child Pipelines. If the parameter used in the Filter Snap is set to _`logEnabled=True`_, the error data is logged, but if the parameter is _`logEnabled=false`_, the error data is not processed and logged.&#x20;
+Parameters are configured for the parent and child Pipelines. If the parameter used in the Filter Snap is set to _`logEnabled=True`_, the error data is logged, but if the parameter is _`logEnabled=false`_, the error data is not processed and not logged.&#x20;

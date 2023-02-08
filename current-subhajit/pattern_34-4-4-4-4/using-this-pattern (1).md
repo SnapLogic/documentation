@@ -13,8 +13,8 @@
 
 The following metrics are monitored and notified via email:
 
-1. Pipeline executions that have error Pipelines with error documents
-2. Executions that have been running for more than 2 hours
-3. Nodes with less than 24GB disk space remaining
-4. Missing nodes
-5. Failed executions
+* Pipeline executions that have error Pipelines with error documents
+* Executions that have been running for more than 2 hours
+* Nodes with less than 24 GB disk space remaining
+* Missing nodes
+* Failed executions
