@@ -57,6 +57,10 @@
   * [Overview](current-subhajit/pattern\_34-4-4-4-7/overview.md)
   * [Requirements](current-subhajit/pattern\_34-4-4-4-7/requirements.md)
   * [Using this Pattern](current-subhajit/pattern\_34-4-4-4-7/using-this-pattern.md)
+* [Telco Customer Churn Prediction](current-subhajit/pattern\_34-4-4-4-8/README.md)
+  * [Overview](current-subhajit/pattern\_34-4-4-4-8/overview.md)
+  * [Requirements](current-subhajit/pattern\_34-4-4-4-8/requirements.md)
+  * [Using this Pattern](current-subhajit/pattern\_34-4-4-4-8/using-this-pattern.md)
 
 ## Completed
 
