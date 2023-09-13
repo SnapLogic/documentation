@@ -11,24 +11,36 @@
 
 **Important Information about this Pattern**
 
-**Control Table - Tracking**
+This Pattern consists of the following Pipelines:&#x20;
 
-* The control table contains the source load type such as RDBMS, FTP, API, and others, and the corresponding object name.&#x20;
-* Each object load has the load start or end time and the records or documents processed.&#x20;
-* For every run, the target table load count is calculated after the source record fetches the count of records.&#x20;
-* Based on the status (`S`-success, `F`-failure) of the load, automated notifications are triggered to the specific team.
+* **Master\_SnapLogic\_Folder\_Access\_Check**:&#x20;
 
-**Control Table Attributes:**
+This Pipeline is created as a Triggered task. It consumes the email ID and triggers the child Pipeline with the output in JSON format.
 
-* `UID` – Primary key
-* `SOURCE_TYPE` – Type of Source RDBMS, API, Social Media, FTP, and others
-* `TABLE_NAME` – Table name or object name
-* `START_DATE` – Load start time
-* `ENDDATE` – Load end time
-* `SRC_REC_COUNT` – Source record count
-* `RGT_REC_COUNT` – Target record count
-* `STATUS` – `S` for Success and `F` for Failed based on the source or target load
+**Parameters**: `email ID`\
+**Output Values**: `email ID and Path`
 
-**Partitioned Load**
+**Example**:\
+`{“`[`emailId":"`](mailto:emailId%22:%22mohammed.rafi@agilisium.com)`john.doe@imarti.com”,“path”:[“/DEV/projects/JohnDoe “,”/ DEV/projects/Doe”,“/ DEV/projects/46313-Connect”,“/ DEV/projects/Transform1.0_SPARK”,“/ DEV/projects/Snaplogic-logs”]}`
 
-For every load, the data gets partitioned automatically based on the transaction time stamp in the AWS S3 storage layer.
+* **SnapLogic-User-Folder-Access-Check**
+
+This Pipeline verifies the user has read access to all the project spaces.
+
+**Parameters**: `email ID`\
+**Output Values**: The output field path is passed to the `Master_Snaplogic_Folder_Access_Check` Pipeline.&#x20;
+
+* **Child\_User\_Folder\_Access\_Check**
+
+This Pipeline verifies the user has Read, Write, Execute (RWX) permissions for all the project folders.
+
+\
+**Parameters**:
+
+* `Email ID`
+* `api_url` set to [`https://elastic.snaplogic.com/api/1/rest/public/groups 3`](https://elastic.snaplogic.com/api/1/rest/public/groups)
+* Path containing the org name and project space, such as `/orgname/projectSpace`
+* `organization`
+
+**Output Values**: The output fields path and email ID are passed to the `Snaplogic_User_Folder_Access_Check` Pipeline.
+

@@ -1,3 +1,8 @@
 # Overview
 
-Use the pipeline patterns to execute the quote-to-cash (QTC) process from Salesforce to Microsoft Dynamics 365 Business Central such as creating customers and sales orders in the target application.
+Use this Pipeline Pattern to migrate assets from one project to another in the same org.
+
+
+
+
+

@@ -1,2 +1,2 @@
-# Verify Access to Project Folders in SnapLogic
+# Automate Employee Onboarding and Offboarding
 

@@ -1,2 +1,0 @@
-# Diabetes Progression Prediction
-
