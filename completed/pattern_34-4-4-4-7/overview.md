@@ -1,6 +1,6 @@
 # Overview
 
-Use this Pipeline Pattern to create an API that accepts the email ID of a user as input and returns the list of project folders in SnapLogic to which the user has Read, Write, and Execute (RWX) permissions. If the user doesn’t have full access to any of the folders, the Pipeline returns an empty array list.
+Use this Pipeline Pattern to incrementally fetch records from a document-oriented NoSQL database system (MongoDB) and load them to the cloud storage in Amazon S3 with partitioning logic. This use case is applicable to Cloud Data Lake initiatives.
 
-This Pattern helps to maintain governance by verifying the access level information for each user.
+This Pipeline also includes the date-based data partitioning at the Storage layer and the data validation trail between the source and target endpoint.&#x20;
 

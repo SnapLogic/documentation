@@ -6,7 +6,7 @@ Use this Pipeline pattern to take a new lead created in Salesforce and search fo
 
 
 
-****
+
 
 
 

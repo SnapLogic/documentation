@@ -11,7 +11,7 @@
 
 **Important Information about this Pattern**
 
-This **** Pattern has the following Pipelines**:**&#x20;
+This Pattern has the following Pipelines**:**&#x20;
 
 * **Create\_or\_Update\_Skilljar\_User.slp**
   * Use this Pipeline to create or update a user in Skilljar via the REST API.&#x20;
@@ -24,5 +24,5 @@ This **** Pattern has the following Pipelines**:**&#x20;
 * **Employee Journey-Offboarding-AD-SNOW-SF.slp**
   * This Pipeline is triggered when a user is offboarded and removed from Workday.
 
-****
+
 

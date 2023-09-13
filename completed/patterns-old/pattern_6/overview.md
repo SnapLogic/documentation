@@ -4,7 +4,7 @@ Use this Pipeline pattern collection to collect all ServiceNow approvals and rou
 
 You can customize the ServiceNow Query and configure the routers per your use case.
 
-****
+
 
 
 

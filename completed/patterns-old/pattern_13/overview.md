@@ -6,7 +6,7 @@ Use this Pipeline pattern collection to flatten the records in a JSON file with 
 
 
 
-****
+
 
 
 

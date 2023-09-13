@@ -11,7 +11,7 @@
 
 **Important Information about this Pattern**
 
-This **** Pattern has the following Pipelines**:**&#x20;
+This Pattern has the following Pipelines**:**&#x20;
 
 * **Get Employee Files.slp**
   * This Pipeline determines the information to include about the active users updated in Workday within the last 2 hours.
@@ -30,5 +30,5 @@ This **** Pattern has the following Pipelines**:**&#x20;
 * **Push\_File\_to\_Box.slp**
   * This Pipeline is executed to read a file from the SnapLogic platform and write it to a user's folder in Box.&#x20;
 
-****
+
 

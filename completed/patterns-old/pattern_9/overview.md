@@ -6,7 +6,7 @@ Use this Pipeline pattern to read data from Salesforce and transform the data fo
 
 
 
-****
+
 
 
 

@@ -14,4 +14,4 @@ If the Pipeline runs successfully, you can view the output. For more information
 **How to Configure the Pipeline**
 
 * The path to the task is passed to the SnapLogic Read Snap as a pipeline parameter.
-* The Mapper Snap uses the Boolean expression to enable or disable the **** task.
+* The Mapper Snap uses the Boolean expression to enable or disable the task.

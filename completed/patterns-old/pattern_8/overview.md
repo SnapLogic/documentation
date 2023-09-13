@@ -6,7 +6,7 @@ Use this Pipeline pattern to scan through ServiceNow incidents from the past 5 m
 
 
 
-****
+
 
 
 

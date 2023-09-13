@@ -4,7 +4,7 @@ Use this Pipeline pattern to configure a Pipeline in which a single ServiceNow i
 
 
 
-****
+
 
 
 

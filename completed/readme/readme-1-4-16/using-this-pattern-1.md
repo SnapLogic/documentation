@@ -14,5 +14,5 @@
 The Traditional Pivot snap is static and has to be configured for every set of data.&#x20;
 
 * Enter the number of fields to split to in "nSplitFields" parameter.&#x20;
-* Enter the field names that are being split in the "splitFields" **** parameter in a comma separated list.&#x20;
+* Enter the field names that are being split in the "splitFields" parameter in a comma separated list.&#x20;
 * Enter new fields to generate in the "genFields" parameter in a comma separated list.

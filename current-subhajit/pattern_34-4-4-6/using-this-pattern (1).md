@@ -13,4 +13,3 @@
 
 The REST Get Snap needs a REST Basic Auth account configured with a valid credentials to make the request to the platform.  The result shows only those executions for which the credentials have the required access.&#x20;
 
-****

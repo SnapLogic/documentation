@@ -6,7 +6,7 @@ Use this Pipeline pattern to upload a file to Box, then the Pipeline stores the 
 
 
 
-****
+
 
 
 
